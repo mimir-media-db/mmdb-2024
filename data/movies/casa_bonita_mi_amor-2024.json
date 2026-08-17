@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_casa_bonita_mi_amor_2024",
+  "title": "¡Casa Bonita Mi Amor!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130235383",
+    "imdb": "tt32149731",
+    "tmdb": 1278666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

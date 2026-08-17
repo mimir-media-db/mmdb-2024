@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_balls_2024",
+  "title": "Christmas Balls",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130206227",
+    "imdb": "tt33396608",
+    "tmdb": 1307051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-27"
+}

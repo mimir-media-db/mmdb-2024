@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_on_cobbler_street_2024",
+  "title": "Christmas on Cobbler Street",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117883934",
+    "imdb": "tt15400448",
+    "tmdb": 1154359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14"
+}

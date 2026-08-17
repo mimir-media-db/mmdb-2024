@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_close_to_you_2024",
+  "title": "Close to You",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119414655",
+    "imdb": "tt28055434",
+    "tmdb": 1139467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16",
+  "runtime_minutes": 100
+}

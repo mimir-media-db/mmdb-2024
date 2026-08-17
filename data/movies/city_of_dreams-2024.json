@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_dreams_2024",
+  "title": "City of Dreams",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124171214",
+    "imdb": "tt6898324",
+    "tmdb": 901059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-05"
+}

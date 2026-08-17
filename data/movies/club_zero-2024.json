@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_club_zero_2024",
+  "title": "Club Zero",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115269607",
+    "imdb": "tt18235146",
+    "tmdb": 938250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 110
+}

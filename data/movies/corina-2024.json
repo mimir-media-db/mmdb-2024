@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corina_2024",
+  "title": "Corina",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130526069",
+    "imdb": "tt33366456",
+    "tmdb": 1280684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-08",
+  "runtime_minutes": 96
+}

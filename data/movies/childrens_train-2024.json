@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childrens_train_2024",
+  "title": "The Children's Train",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124485988",
+    "imdb": "tt29242846",
+    "tmdb": 1180634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-20",
+  "runtime_minutes": 106
+}

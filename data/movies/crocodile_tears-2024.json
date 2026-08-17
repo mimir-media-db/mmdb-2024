@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crocodile_tears_2024",
+  "title": "Crocodile Tears",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130276124",
+    "imdb": "tt28521744",
+    "tmdb": 1163940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-09",
+  "runtime_minutes": 98
+}

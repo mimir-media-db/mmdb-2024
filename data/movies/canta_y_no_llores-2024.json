@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canta_y_no_llores_2024",
+  "title": "Canta y No Llores",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125053496",
+    "imdb": "tt27503161",
+    "tmdb": 1243895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

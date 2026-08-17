@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_libidoists_2024",
+  "title": "The Chronicles of Libidoists",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126951203",
+    "imdb": "tt32079904",
+    "tmdb": 1029244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-28"
+}

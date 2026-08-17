@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chacha_2024",
+  "title": "CHA-CHA",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867520",
+    "imdb": "tt32351731",
+    "tmdb": 1306613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chain_reactions_2024",
+  "title": "Chain Reactions",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130355854",
+    "imdb": "tt33029845",
+    "tmdb": 1318933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caracas_2024",
+  "title": "Caracas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124408894",
+    "imdb": "tt17495990",
+    "tmdb": 1086357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-29"
+}

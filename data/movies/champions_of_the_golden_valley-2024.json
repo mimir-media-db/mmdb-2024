@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_of_the_golden_valley_2024",
+  "title": "Champions of the Golden Valley",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136932982",
+    "imdb": "tt32127384",
+    "tmdb": 1278728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christspiracy_2024",
+  "title": "Christspiracy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124813590",
+    "imdb": "tt29630794",
+    "tmdb": 1211087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-20",
+  "runtime_minutes": 103
+}

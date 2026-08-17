@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ca_arrive_2024",
+  "title": "Ça arrive",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136556203",
+    "imdb": "tt33633081"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-27",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cellar_door_2024",
+  "title": "Cellar Door",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130753378",
+    "imdb": "tt11950888",
+    "tmdb": 1361292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cracked_2024",
+  "title": "Cracked",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136325025",
+    "imdb": "tt33268513",
+    "tmdb": 1336796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-22",
+  "runtime_minutes": 81
+}

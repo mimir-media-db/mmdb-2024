@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuerpo_escombro_2024",
+  "title": "Cuerpo escombro",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128636616",
+    "imdb": "tt30244989",
+    "tmdb": 1203724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

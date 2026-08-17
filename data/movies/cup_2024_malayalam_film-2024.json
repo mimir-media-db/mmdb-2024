@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cup_2024_malayalam_film_2024",
+  "title": "Cup (2024 Malayalam film)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138456459",
+    "imdb": "tt21151596",
+    "tmdb": 933835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27"
+}

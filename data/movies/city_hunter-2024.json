@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_hunter_2024",
+  "title": "City Hunter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115727176",
+    "imdb": "tt24478470",
+    "tmdb": 1061990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-25"
+}

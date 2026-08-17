@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_un_fils_2024",
+  "title": "Comme un fils",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124673269",
+    "imdb": "tt28636981",
+    "tmdb": 1089309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-06"
+}

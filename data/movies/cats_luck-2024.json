@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cats_luck_2024",
+  "title": "Cat's Luck",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126958115",
+    "imdb": "tt32515823",
+    "tmdb": 1297651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

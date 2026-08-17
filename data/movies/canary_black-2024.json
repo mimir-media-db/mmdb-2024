@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canary_black_2024",
+  "title": "Canary Black",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117848301",
+    "imdb": "tt20048582",
+    "tmdb": 976734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-24",
+  "runtime_minutes": 101
+}

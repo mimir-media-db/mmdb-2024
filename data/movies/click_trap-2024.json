@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_click_trap_2024",
+  "title": "The Click Trap",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136146988",
+    "imdb": "tt32046411",
+    "tmdb": 874527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01",
+  "runtime_minutes": 90
+}

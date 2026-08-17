@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cunk_on_life_2024",
+  "title": "Cunk on Life",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131424485",
+    "imdb": "tt34874258",
+    "tmdb": 1253971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-30",
+  "runtime_minutes": 71
+}

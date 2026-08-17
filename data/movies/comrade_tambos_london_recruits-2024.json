@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comrade_tambos_london_recruits_2024",
+  "title": "Comrade Tambo's London Recruits",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21780580",
+    "imdb": "tt5239086",
+    "tmdb": 1250523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-28"
+}

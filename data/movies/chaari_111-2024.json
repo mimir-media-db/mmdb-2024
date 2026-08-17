@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaari_111_2024",
+  "title": "Chaari 111",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124646751",
+    "imdb": "tt29996716",
+    "tmdb": 1242191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01"
+}
