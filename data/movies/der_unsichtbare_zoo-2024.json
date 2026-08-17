@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_unsichtbare_zoo_2024",
+  "title": "Der unsichtbare Zoo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124657319",
+    "imdb": "tt30960953",
+    "tmdb": 1233299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 178
+}

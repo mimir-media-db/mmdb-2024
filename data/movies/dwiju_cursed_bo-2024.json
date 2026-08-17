@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dwiju_cursed_bo_2024",
+  "title": "Dwiju: Cursed Bo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598170",
+    "imdb": "tt32110583",
+    "tmdb": 1257085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-28"
+}

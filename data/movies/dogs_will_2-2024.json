@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dogs_will_2_2024",
+  "title": "A Dog's Will 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117313205",
+    "imdb": "tt28696532",
+    "tmdb": 1099413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-25"
+}

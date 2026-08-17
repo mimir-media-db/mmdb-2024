@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_reach_2024",
+  "title": "Divine Reach",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137260577",
+    "imdb": "tt31251426",
+    "tmdb": 1471605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

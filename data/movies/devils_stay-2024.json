@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_stay_2024",
+  "title": "Devils Stay",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354194",
+    "imdb": "tt12663266",
+    "tmdb": 660355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14"
+}

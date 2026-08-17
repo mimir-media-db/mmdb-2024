@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_aur_do_pyaar_2024",
+  "title": "Do Aur Do Pyaar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124304410",
+    "imdb": "tt15576290",
+    "tmdb": 951015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

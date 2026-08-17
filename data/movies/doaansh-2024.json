@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doaansh_2024",
+  "title": "Doaansh",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127115939",
+    "imdb": "tt32757846",
+    "tmdb": 1314308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05"
+}

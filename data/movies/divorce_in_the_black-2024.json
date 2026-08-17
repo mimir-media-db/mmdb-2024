@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divorce_in_the_black_2024",
+  "title": "Divorce in the Black",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126371797",
+    "imdb": "tt28248897",
+    "tmdb": 1213742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-11",
+  "runtime_minutes": 121
+}

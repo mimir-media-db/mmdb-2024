@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dom_2024",
+  "title": "Dom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131783005",
+    "imdb": "tt9695524",
+    "tmdb": 1373562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

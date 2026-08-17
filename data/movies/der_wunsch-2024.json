@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_wunsch_2024",
+  "title": "Der Wunsch",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124541439",
+    "imdb": "tt31110352",
+    "tmdb": 1220840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-23",
+  "runtime_minutes": 115
+}

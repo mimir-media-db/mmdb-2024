@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dickweed_2024",
+  "title": "Dickweed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124849811",
+    "imdb": "tt30835752",
+    "tmdb": 1229895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

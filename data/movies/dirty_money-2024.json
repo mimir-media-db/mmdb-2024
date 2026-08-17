@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_money_2024",
+  "title": "Dirty Money",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130023224",
+    "imdb": "tt22477502",
+    "tmdb": 572195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_me_to_the_end_2024",
+  "title": "Dance me to the End",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130546877",
+    "imdb": "tt34088019",
+    "tmdb": 1352480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-14",
+  "runtime_minutes": 61
+}

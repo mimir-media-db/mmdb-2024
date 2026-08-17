@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dosen_ghaib_sudah_malam_atau_sudah_tahu_2024",
+  "title": "Dosen Ghaib: Sudah Malam atau Sudah Tahu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131404782",
+    "imdb": "tt30517650",
+    "tmdb": 1264247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dabaru_2024",
+  "title": "Dabaru",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125843119",
+    "imdb": "tt28142599",
+    "tmdb": 1141653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10"
+}

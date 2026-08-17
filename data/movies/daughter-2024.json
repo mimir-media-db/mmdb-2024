@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daughter_2024",
+  "title": "The Daughter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573737",
+    "imdb": "tt26742888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-13",
+  "runtime_minutes": 97
+}

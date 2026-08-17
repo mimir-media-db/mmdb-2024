@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_purusha_2024",
+  "title": "Dear Purusha",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141088560",
+    "imdb": "tt29309840",
+    "tmdb": 1154514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11"
+}

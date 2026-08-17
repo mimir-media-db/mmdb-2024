@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dornroschen_und_der_fluch_der_siebten_fee_2024",
+  "title": "Dornröschen und der Fluch der siebten Fee",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131303568",
+    "imdb": "tt34971497",
+    "tmdb": 1398340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

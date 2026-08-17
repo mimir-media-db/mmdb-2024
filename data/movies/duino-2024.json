@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duino_2024",
+  "title": "Duino",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126951332",
+    "imdb": "tt17499100",
+    "tmdb": 1179221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-16",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_decibel_2024",
+  "title": "Decibel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114554516",
+    "imdb": "tt17494686",
+    "tmdb": 774548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-26",
+  "runtime_minutes": 110
+}

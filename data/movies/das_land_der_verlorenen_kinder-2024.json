@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_land_der_verlorenen_kinder_2024",
+  "title": "Das Land der verlorenen Kinder",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126901393",
+    "imdb": "tt27720945",
+    "tmdb": 1239970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-07",
+  "runtime_minutes": 99
+}

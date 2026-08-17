@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_heartbeats_2024",
+  "title": "Dancing Heartbeats",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125486979",
+    "imdb": "tt32085309",
+    "tmdb": 1272985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 92
+}

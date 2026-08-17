@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dismantling_an_elephant_2024",
+  "title": "Dismantling an Elephant",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131315535",
+    "imdb": "tt27850866",
+    "tmdb": 1371094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dominion_of_darkness_2024",
+  "title": "Dominion of Darkness",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130424731",
+    "imdb": "tt27906470",
+    "tmdb": 1134682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03"
+}

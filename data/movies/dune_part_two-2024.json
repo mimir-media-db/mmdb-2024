@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dune_part_two_2024",
+  "title": "Dune: Part Two",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109228991",
+    "imdb": "tt15239678",
+    "tmdb": 693134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-27",
+  "runtime_minutes": 166
+}

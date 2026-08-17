@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_body_2024",
+  "title": "Dead Body",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125850762",
+    "imdb": "tt32027093"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

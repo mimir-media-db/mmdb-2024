@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demons_at_dawn_2024",
+  "title": "Demons at Dawn",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126510562",
+    "imdb": "tt32135294",
+    "tmdb": 1244139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-23",
+  "runtime_minutes": 136
+}

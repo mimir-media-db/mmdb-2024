@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_soldat_monika_2024",
+  "title": "Der Soldat Monika",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124754135",
+    "imdb": "tt12441440",
+    "tmdb": 1243940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 108
+}

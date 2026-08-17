@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_assignment_2024",
+  "title": "A Dangerous Assignment",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139941143",
+    "imdb": "tt31027510",
+    "tmdb": 1292792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-14"
+}

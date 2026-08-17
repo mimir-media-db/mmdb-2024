@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_z_van_zus_2024",
+  "title": "De z van zus",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131343467",
+    "imdb": "tt20194830",
+    "tmdb": 1152451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

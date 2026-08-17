@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_mooiste_dag_2024",
+  "title": "De mooiste dag",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132189093",
+    "imdb": "tt29253042",
+    "tmdb": 1289010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-13"
+}

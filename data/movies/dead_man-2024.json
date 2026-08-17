@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_man_2024",
+  "title": "Dead Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124633025",
+    "imdb": "tt30830309",
+    "tmdb": 865511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_worry_be_happy_2024",
+  "title": "Don't Worry, Be Happy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126942916",
+    "imdb": "tt32485847",
+    "tmdb": 1297238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

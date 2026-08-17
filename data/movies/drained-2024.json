@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drained_2024",
+  "title": "Drained",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130355856",
+    "imdb": "tt29792302",
+    "tmdb": 1323911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-14"
+}

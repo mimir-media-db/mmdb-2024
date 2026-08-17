@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_de_mannenmaker_2024",
+  "title": "De Mannenmaker",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138661681",
+    "imdb": "tt29261292"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_sea_2024",
+  "title": "Dead Sea",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127869960",
+    "imdb": "tt11724920",
+    "tmdb": 1308757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-26",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_ironie_des_lebens_2024",
+  "title": "Die Ironie des Lebens",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137167013",
+    "imdb": "tt27869502",
+    "tmdb": 1236400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 109
+}

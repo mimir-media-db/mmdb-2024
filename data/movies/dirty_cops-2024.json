@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_cops_2024",
+  "title": "Dirty Cops",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138948283",
+    "imdb": "tt32560226",
+    "tmdb": 1368887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 170
+}

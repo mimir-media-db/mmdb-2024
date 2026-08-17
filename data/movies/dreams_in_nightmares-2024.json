@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_in_nightmares_2024",
+  "title": "Dreams in Nightmares",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128259151",
+    "imdb": "tt32765596",
+    "tmdb": 1308858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-01",
+  "runtime_minutes": 120
+}

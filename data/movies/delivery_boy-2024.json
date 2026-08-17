@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delivery_boy_2024",
+  "title": "Delivery Boy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125303252",
+    "imdb": "tt30486891",
+    "tmdb": 1229064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

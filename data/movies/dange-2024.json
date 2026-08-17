@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dange_2024",
+  "title": "Dange",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124739921",
+    "imdb": "tt31100872",
+    "tmdb": 1236671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01"
+}

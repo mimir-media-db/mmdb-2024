@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_world_2024",
+  "title": "Dark World",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126547244",
+    "imdb": "tt32589808"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-17"
+}
