@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_franchise",
+  "title": "The Franchise",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121852809",
+    "imdb": "tt21614420",
+    "tmdb": 216619
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_floating_generation",
+  "title": "The Floating Generation",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123111413",
+    "imdb": "tt32857755",
+    "tmdb": 258669
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_family_by_choice",
+  "title": "Family by Choice",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124611032",
+    "imdb": "tt30365813",
+    "tmdb": 237565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
