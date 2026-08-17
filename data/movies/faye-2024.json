@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faye_2024",
+  "title": "Faye",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125983496",
+    "imdb": "tt32220386",
+    "tmdb": 1280483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 91
+}

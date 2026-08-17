@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_hilde_with_love_2024",
+  "title": "From Hilde, with Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120143635",
+    "imdb": "tt20420646",
+    "tmdb": 1070319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

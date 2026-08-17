@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_three_2024",
+  "title": "The Fantastic Three",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124099933",
+    "imdb": "tt28100718",
+    "tmdb": 983012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01",
+  "runtime_minutes": 95
+}

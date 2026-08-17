@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_france_une_histoire_damour_2024",
+  "title": "France, une histoire d'amour",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136434646",
+    "imdb": "tt38351500",
+    "tmdb": 1503896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-31",
+  "runtime_minutes": 105
+}

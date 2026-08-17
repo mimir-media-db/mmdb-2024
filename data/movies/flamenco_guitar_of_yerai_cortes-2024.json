@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flamenco_guitar_of_yerai_cortes_2024",
+  "title": "The Flamenco Guitar of Yerai Cortés",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130339417",
+    "imdb": "tt33336813",
+    "tmdb": 1317099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

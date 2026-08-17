@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabulous_four_2024",
+  "title": "The Fabulous Four",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123353612",
+    "imdb": "tt20215816",
+    "tmdb": 974613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-26",
+  "runtime_minutes": 99
+}

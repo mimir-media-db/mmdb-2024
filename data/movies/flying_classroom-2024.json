@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_classroom_2024",
+  "title": "The Flying Classroom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121511462",
+    "imdb": "tt26342655",
+    "tmdb": 1124368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 89
+}

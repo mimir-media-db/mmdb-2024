@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flavors_borders_2024",
+  "title": "Flavors & Borders",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136288844",
+    "imdb": "tt8266346",
+    "tmdb": 1357768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 87
+}

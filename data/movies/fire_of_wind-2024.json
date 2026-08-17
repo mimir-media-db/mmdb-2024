@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_of_wind_2024",
+  "title": "Fire of Wind",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131143492",
+    "imdb": "tt32881169",
+    "tmdb": 1315107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fresh_2024",
+  "title": "Fresh",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131294565",
+    "imdb": "tt11917642",
+    "tmdb": 1303237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

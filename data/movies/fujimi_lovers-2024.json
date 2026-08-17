@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fujimi_lovers_2024",
+  "title": "Fujimi Lovers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140497377",
+    "imdb": "tt31307409",
+    "tmdb": 1240834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10",
+  "runtime_minutes": 103
+}

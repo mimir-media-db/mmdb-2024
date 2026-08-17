@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frendo_2024",
+  "title": "Frendo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129485963",
+    "imdb": "tt32828591",
+    "tmdb": 1341147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13",
+  "runtime_minutes": 146
+}

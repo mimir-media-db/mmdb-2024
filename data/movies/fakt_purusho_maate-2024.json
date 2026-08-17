@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fakt_purusho_maate_2024",
+  "title": "Fakt Purusho Maate",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127691677",
+    "imdb": "tt32857401",
+    "tmdb": 1315794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 125
+}

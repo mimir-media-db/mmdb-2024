@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_with_me_2024",
+  "title": "Fly With Me",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140179534"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-20"
+}

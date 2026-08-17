@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fario_2024",
+  "title": "Fario",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532649",
+    "imdb": "tt32889937",
+    "tmdb": 1000064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

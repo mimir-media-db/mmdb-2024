@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatima_2024",
+  "title": "Fatima",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125983338",
+    "imdb": "tt31462171",
+    "tmdb": 1294369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24"
+}

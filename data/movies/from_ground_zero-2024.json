@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_ground_zero_2024",
+  "title": "From Ground Zero",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129675921",
+    "imdb": "tt32606918",
+    "tmdb": 1326649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05",
+  "runtime_minutes": 112
+}

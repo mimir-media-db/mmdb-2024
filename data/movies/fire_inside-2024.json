@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_inside_2024",
+  "title": "The Fire Inside",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96378044",
+    "imdb": "tt6133444",
+    "tmdb": 610219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-09"
+}

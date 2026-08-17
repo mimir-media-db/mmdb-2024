@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flaminia_2024",
+  "title": "Flaminia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125457973",
+    "imdb": "tt26683275",
+    "tmdb": 1140225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

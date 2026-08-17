@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fasel_men_el_lahazat_el_lazeeza_2024",
+  "title": "Fasel Men El Lahazat El Lazeeza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125340174",
+    "imdb": "tt32133006",
+    "tmdb": 1224392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-10"
+}
