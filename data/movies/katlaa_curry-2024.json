@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katlaa_curry_2024",
+  "title": "Katlaa Curry",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138387095",
+    "imdb": "tt32328588",
+    "tmdb": 1279006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

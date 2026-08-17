@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_room_2024",
+  "title": "The Kill Room",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116771180",
+    "imdb": "tt11908172",
+    "tmdb": 958006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-21",
+  "runtime_minutes": 98
+}

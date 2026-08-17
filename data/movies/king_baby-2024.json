@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_baby_2024",
+  "title": "King Baby",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124305290",
+    "imdb": "tt19823156",
+    "tmdb": 1207602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 91
+}

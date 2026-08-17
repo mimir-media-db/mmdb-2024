@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karina_the_mowgli_girl_2024",
+  "title": "Karina: The Mowgli Girl",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124445412",
+    "imdb": "tt18351592",
+    "tmdb": 1073078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 91
+}

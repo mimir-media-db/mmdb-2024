@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidnapped_2024",
+  "title": "Kidnapped",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116248133",
+    "imdb": "tt14137416",
+    "tmdb": 801112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 125
+}

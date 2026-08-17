@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_2024",
+  "title": "Kids",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741581",
+    "imdb": "tt30842823",
+    "tmdb": 1008742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-08"
+}

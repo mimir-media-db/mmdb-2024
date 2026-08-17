@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katanga_the_dance_of_the_scorpions_2024",
+  "title": "Katanga, the dance of the scorpions",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132946607",
+    "imdb": "tt32094021",
+    "tmdb": 1430868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kina_yuk_2024",
+  "title": "Kina & Yuk",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124026270",
+    "imdb": "tt28185868",
+    "tmdb": 983015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 80
+}

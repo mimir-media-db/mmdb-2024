@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kalak_2024",
+  "title": "Kalak",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141839",
+    "imdb": "tt22171832",
+    "tmdb": 964318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 125
+}

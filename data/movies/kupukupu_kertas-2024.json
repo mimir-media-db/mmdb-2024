@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kupukupu_kertas_2024",
+  "title": "Kupu-Kupu Kertas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124488134",
+    "imdb": "tt28296772",
+    "tmdb": 1148464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-26"
+}

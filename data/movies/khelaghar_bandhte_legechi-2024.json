@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khelaghar_bandhte_legechi_2024",
+  "title": "Khelaghar Bandhte Legechi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125977371",
+    "imdb": "tt31137056",
+    "tmdb": 1298724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24"
+}

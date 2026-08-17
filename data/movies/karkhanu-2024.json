@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karkhanu_2024",
+  "title": "Karkhanu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136030183",
+    "imdb": "tt32497018",
+    "tmdb": 1363525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02"
+}

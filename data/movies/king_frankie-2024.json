@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_frankie_2024",
+  "title": "King Frankie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126913790",
+    "imdb": "tt26752667",
+    "tmdb": 1251246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

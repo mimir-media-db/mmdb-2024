@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kix_2024",
+  "title": "KIX",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131997307",
+    "imdb": "tt32034405",
+    "tmdb": 1161396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-21"
+}
