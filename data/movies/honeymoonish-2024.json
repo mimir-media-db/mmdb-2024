@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honeymoonish_2024",
+  "title": "Honeymoonish",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125748486",
+    "imdb": "tt31565654",
+    "tmdb": 1257750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

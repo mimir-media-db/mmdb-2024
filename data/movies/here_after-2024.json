@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_after_2024",
+  "title": "Here After",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133820360",
+    "imdb": "tt5402714",
+    "tmdb": 1096838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-25",
+  "runtime_minutes": 93
+}

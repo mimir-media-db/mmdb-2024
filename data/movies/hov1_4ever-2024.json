@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hov1_4ever_2024",
+  "title": "Hov1 4-Ever",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124035302",
+    "imdb": "tt30498554",
+    "tmdb": 1220545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04"
+}

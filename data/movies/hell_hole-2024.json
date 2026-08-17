@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_hole_2024",
+  "title": "Hell Hole",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136396305",
+    "imdb": "tt32394528",
+    "tmdb": 1287850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

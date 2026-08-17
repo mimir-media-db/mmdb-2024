@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_build_a_truth_engine_2024",
+  "title": "How To Build A Truth Engine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124849902",
+    "imdb": "tt12026606",
+    "tmdb": 1229896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

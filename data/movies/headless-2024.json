@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_headless_2024",
+  "title": "Headless",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138827255",
+    "imdb": "tt31541720",
+    "tmdb": 1643522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

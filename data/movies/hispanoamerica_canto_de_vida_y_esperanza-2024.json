@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hispanoamerica_canto_de_vida_y_esperanza_2024",
+  "title": "Hispanoamérica, canto de vida y esperanza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126690939",
+    "imdb": "tt31064117",
+    "tmdb": 1265493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-04",
+  "runtime_minutes": 115
+}

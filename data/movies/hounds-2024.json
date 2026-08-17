@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hounds_2024",
+  "title": "Hounds",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119893109",
+    "imdb": "tt25750836",
+    "tmdb": 1000130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-31",
+  "runtime_minutes": 94
+}

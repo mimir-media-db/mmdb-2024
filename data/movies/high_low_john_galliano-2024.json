@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_low_john_galliano_2024",
+  "title": "High & Low - John Galliano",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124968969",
+    "imdb": "tt27795526",
+    "tmdb": 1129123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 106
+}

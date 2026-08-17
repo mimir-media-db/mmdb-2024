@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_her_story_2024_film_2024",
+  "title": "Her Story (2024 film)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131300512",
+    "imdb": "tt31807233",
+    "tmdb": 1260951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 123
+}

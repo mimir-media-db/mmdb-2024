@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_forces_2024",
+  "title": "High Forces",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108749226",
+    "imdb": "tt17501870",
+    "tmdb": 949709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-29"
+}

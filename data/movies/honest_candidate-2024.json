@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honest_candidate_2024",
+  "title": "The Honest Candidate",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128559118",
+    "imdb": "tt24516018",
+    "tmdb": 1278099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 96
+}

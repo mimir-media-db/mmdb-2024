@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_spot_2024",
+  "title": "Hot Spot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125448504",
+    "imdb": "tt31391056",
+    "tmdb": 1266734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

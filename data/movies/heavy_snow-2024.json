@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heavy_snow_2024",
+  "title": "Heavy Snow",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134719339",
+    "imdb": "tt28679156",
+    "tmdb": 1104331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-23"
+}

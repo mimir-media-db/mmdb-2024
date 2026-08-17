@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_holidays_2024",
+  "title": "Happy Holidays",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130254094",
+    "imdb": "tt28522171",
+    "tmdb": 1195108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-04"
+}

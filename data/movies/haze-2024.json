@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haze_2024",
+  "title": "Haze",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126424247",
+    "imdb": "tt15823300",
+    "tmdb": 876598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 76
+}

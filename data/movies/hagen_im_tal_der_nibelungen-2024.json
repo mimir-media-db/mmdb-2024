@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hagen_im_tal_der_nibelungen_2024",
+  "title": "Hagen – Im Tal der Nibelungen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127145277",
+    "imdb": "tt6176336",
+    "tmdb": 1209130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-17",
+  "runtime_minutes": 135
+}

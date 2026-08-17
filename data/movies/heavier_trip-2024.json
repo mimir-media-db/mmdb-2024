@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heavier_trip_2024",
+  "title": "Heavier Trip",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120483136",
+    "imdb": "tt28772978",
+    "tmdb": 716808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11"
+}

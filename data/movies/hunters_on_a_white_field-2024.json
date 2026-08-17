@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunters_on_a_white_field_2024",
+  "title": "Hunters on a White Field",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117819850",
+    "imdb": "tt21235182",
+    "tmdb": 1104027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

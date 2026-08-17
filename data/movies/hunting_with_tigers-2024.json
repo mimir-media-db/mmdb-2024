@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunting_with_tigers_2024",
+  "title": "Hunting with Tigers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131323310",
+    "imdb": "tt28639058",
+    "tmdb": 1154223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-22"
+}

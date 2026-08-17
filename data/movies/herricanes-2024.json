@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herricanes_2024",
+  "title": "The Herricanes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126956597",
+    "imdb": "tt10685466",
+    "tmdb": 1081711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 87
+}

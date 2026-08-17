@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hold_me_close_2024",
+  "title": "Hold Me Close",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130639339",
+    "imdb": "tt31938709",
+    "tmdb": 1379881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-25",
+  "runtime_minutes": 98
+}

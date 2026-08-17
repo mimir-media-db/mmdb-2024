@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hounds_of_war_2024",
+  "title": "Hounds of War",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130332926",
+    "imdb": "tt12972134",
+    "tmdb": 949484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hutong_cowboy_2024",
+  "title": "The Hutong Cowboy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130397318",
+    "imdb": "tt30497082",
+    "tmdb": 1197437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-01"
+}

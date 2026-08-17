@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harta_tahta_raisa_2024",
+  "title": "Harta Tahta Raisa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355323",
+    "imdb": "tt31495242",
+    "tmdb": 1250870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06"
+}

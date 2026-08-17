@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hipster_in_rural_spain_2024",
+  "title": "A Hipster in Rural Spain",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684630",
+    "imdb": "tt26932104",
+    "tmdb": 1118035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

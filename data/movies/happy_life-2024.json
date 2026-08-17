@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_life_2024",
+  "title": "Happy Life",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136378425",
+    "imdb": "tt33064106",
+    "tmdb": 1306457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-14",
+  "runtime_minutes": 91
+}

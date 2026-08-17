@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helke_sander_cleaning_house_2024",
+  "title": "Helke Sander: Cleaning House",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124453242",
+    "imdb": "tt27836791",
+    "tmdb": 1157553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 82
+}

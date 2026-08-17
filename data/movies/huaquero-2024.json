@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huaquero_2024",
+  "title": "Huaquero",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131575513",
+    "imdb": "tt11261924",
+    "tmdb": 852904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heretic_2024",
+  "title": "Heretic",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122933268",
+    "imdb": "tt28015403",
+    "tmdb": 1138194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08",
+  "runtime_minutes": 110
+}

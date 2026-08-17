@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_the_hunter_2024",
+  "title": "Heart of the Hunter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124814758",
+    "imdb": "tt28943278",
+    "tmdb": 1181548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

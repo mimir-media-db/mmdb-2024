@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_went_that_way_2024",
+  "title": "He Went That Way",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117787728",
+    "imdb": "tt14772014",
+    "tmdb": 836972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-05",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_mother_2024",
+  "title": "Holy Mother",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116939468",
+    "imdb": "tt26739127",
+    "tmdb": 1229991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hallo_spencer_der_film_2024",
+  "title": "Hallo Spencer - Der Film",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131298923",
+    "imdb": "tt32362467",
+    "tmdb": 1371536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

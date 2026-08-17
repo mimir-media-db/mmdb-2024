@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_seasons_2024",
+  "title": "House of the Seasons",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133521202",
+    "imdb": "tt29579063",
+    "tmdb": 1172507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-11",
+  "runtime_minutes": 121
+}

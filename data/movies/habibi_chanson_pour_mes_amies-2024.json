@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_habibi_chanson_pour_mes_amies_2024",
+  "title": "Habibi, chanson pour mes ami.e.s",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130463233",
+    "imdb": "tt34654236"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

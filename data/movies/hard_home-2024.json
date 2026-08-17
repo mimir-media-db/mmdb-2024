@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_home_2024",
+  "title": "Hard Home",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126415882",
+    "imdb": "tt31974111",
+    "tmdb": 1281532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}
