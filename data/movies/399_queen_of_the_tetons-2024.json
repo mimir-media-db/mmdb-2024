@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_399_queen_of_the_tetons_2024",
+  "title": "399 Queen of the Tetons",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125567989",
+    "imdb": "tt31118478",
+    "tmdb": 1261933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 88
+}

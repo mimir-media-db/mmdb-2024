@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_300cartas_2024",
+  "title": "300cartas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126270042",
+    "imdb": "tt28806247",
+    "tmdb": 1279093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_35_2024",
+  "title": "35",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130240872",
+    "imdb": "tt32750432",
+    "tmdb": 1329287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}
