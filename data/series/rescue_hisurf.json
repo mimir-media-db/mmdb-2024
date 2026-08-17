@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rescue_hisurf",
+  "title": "Rescue: HI-Surf",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124713264",
+    "imdb": "tt27629382",
+    "tmdb": 227854
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

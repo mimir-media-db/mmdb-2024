@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_munich",
+  "title": "The Real Housewives of Munich",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134726615",
+    "imdb": "tt32561103",
+    "tmdb": 258659
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_red_eye",
+  "title": "Red Eye",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125398673",
+    "imdb": "tt23897504",
+    "tmdb": 247704
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

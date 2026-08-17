@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_race_across_the_world_suomi",
+  "title": "Race Across the World Suomi",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123400064",
+    "imdb": "tt31704029",
+    "tmdb": 240303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

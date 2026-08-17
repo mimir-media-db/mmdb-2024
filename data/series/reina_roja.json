@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reina_roja",
+  "title": "Reina Roja",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114455429",
+    "imdb": "tt20883126",
+    "tmdb": 203667
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_renitens",
+  "title": "A renitens",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124526647",
+    "imdb": "tt31365727",
+    "tmdb": 247234
+  },
+  "last_updated": "2026-08-17"
+}

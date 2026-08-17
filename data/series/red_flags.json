@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_red_flags",
+  "title": "Red Flags",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125920160",
+    "imdb": "tt22175660",
+    "tmdb": 242858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

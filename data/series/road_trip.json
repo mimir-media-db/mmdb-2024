@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_road_trip",
+  "title": "The Road Trip",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123677005",
+    "imdb": "tt30890384",
+    "tmdb": 275277
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

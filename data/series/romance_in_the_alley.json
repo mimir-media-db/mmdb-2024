@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_in_the_alley",
+  "title": "Romance in the Alley",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131379974",
+    "imdb": "tt29469265",
+    "tmdb": 274260
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

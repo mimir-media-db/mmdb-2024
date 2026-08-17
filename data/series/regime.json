@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_regime",
+  "title": "The Regime",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q114607759",
+    "imdb": "tt21375036",
+    "tmdb": 206829
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
