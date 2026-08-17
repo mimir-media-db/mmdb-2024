@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vena_2024",
+  "title": "Vena",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116225654",
+    "imdb": "tt26252716",
+    "tmdb": 996084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

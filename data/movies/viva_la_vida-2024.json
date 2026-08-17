@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_la_vida_2024",
+  "title": "Viva La Vida",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867542",
+    "imdb": "tt27935495",
+    "tmdb": 1212009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-10"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vom_ende_eines_zeitalters_2024",
+  "title": "Vom Ende eines Zeitalters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124541171",
+    "imdb": "tt31059858"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 115
+}

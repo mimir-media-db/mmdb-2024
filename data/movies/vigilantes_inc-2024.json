@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vigilantes_inc_2024",
+  "title": "Vigilantes Inc.",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131322432",
+    "imdb": "tt22439720",
+    "tmdb": 1048484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-01",
+  "runtime_minutes": 80
+}

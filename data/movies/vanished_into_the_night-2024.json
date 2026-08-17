@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanished_into_the_night_2024",
+  "title": "Vanished into the Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127402346",
+    "imdb": "tt14034294",
+    "tmdb": 1039868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-11"
+}

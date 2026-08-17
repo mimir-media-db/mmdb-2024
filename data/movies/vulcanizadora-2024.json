@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulcanizadora_2024",
+  "title": "Vulcanizadora",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126930039",
+    "imdb": "tt28226888",
+    "tmdb": 1130188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-08",
+  "runtime_minutes": 85
+}

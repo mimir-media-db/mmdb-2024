@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vile_miserable_2024",
+  "title": "Vile & Miserable",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131747132",
+    "imdb": "tt33320245",
+    "tmdb": 991338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-13",
+  "runtime_minutes": 115
+}

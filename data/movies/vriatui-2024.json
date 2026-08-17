@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vriatui_2024",
+  "title": "Vriatui",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574051",
+    "imdb": "tt32627528",
+    "tmdb": 1330218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06"
+}

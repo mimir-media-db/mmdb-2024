@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viel_nebel_im_november_2024",
+  "title": "Viel Nebel im November",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138657532",
+    "imdb": "tt38193480",
+    "tmdb": 1249485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 61
+}
