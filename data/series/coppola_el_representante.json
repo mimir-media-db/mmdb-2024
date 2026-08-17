@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coppola_el_representante",
+  "title": "Coppola, el representante",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124635809",
+    "imdb": "tt15655872",
+    "tmdb": 128330
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

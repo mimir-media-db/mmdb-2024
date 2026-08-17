@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_citadel_honey_bunny",
+  "title": "Citadel: Honey Bunny",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121433620",
+    "imdb": "tt27111295",
+    "tmdb": 154084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

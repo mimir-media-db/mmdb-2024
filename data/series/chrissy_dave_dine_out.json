@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chrissy_dave_dine_out",
+  "title": "Chrissy & Dave Dine Out",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124080601",
+    "imdb": "tt29319236",
+    "tmdb": 243428
+  },
+  "last_updated": "2026-08-17"
+}

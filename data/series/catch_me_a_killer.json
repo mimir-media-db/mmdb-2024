@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_catch_me_a_killer",
+  "title": "Catch Me a Killer",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125020455",
+    "imdb": "tt13835440",
+    "tmdb": 244596
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

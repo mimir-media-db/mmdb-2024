@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chicken_nugget",
+  "title": "Chicken Nugget",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q114347363",
+    "imdb": "tt28642797",
+    "tmdb": 206686
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

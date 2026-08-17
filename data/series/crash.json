@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crash",
+  "title": "Crash",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124799094",
+    "imdb": "tt32117300",
+    "tmdb": 226102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

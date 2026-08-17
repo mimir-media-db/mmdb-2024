@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_celeste",
+  "title": "Celeste",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128995873",
+    "imdb": "tt31262522",
+    "tmdb": 241539
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

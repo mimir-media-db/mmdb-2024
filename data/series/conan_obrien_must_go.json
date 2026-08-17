@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_conan_obrien_must_go",
+  "title": "Conan O'Brien Must Go",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124829708",
+    "imdb": "tt27790101",
+    "tmdb": 226698
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

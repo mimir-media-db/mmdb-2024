@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cromanon",
+  "title": "Cromañón",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123916364",
+    "imdb": "tt33366664",
+    "tmdb": 275677
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
