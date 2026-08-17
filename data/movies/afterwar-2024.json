@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afterwar_2024",
+  "title": "Afterwar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124368012",
+    "imdb": "tt29045832",
+    "tmdb": 1232346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

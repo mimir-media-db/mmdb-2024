@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abraham_ozler_2024",
+  "title": "Abraham Ozler",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121792039",
+    "imdb": "tt27816710",
+    "tmdb": 1184247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_beyond_budget_2024",
+  "title": "Agent Beyond Budget",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354197",
+    "imdb": "tt30493146",
+    "tmdb": 1224567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-20"
+}

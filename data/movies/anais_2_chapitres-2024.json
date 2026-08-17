@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anais_2_chapitres_2024",
+  "title": "Anaïs, 2 chapitres",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130281736",
+    "imdb": "tt32657611",
+    "tmdb": 1354855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

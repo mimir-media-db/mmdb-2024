@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aarambham_2024_film_2024",
+  "title": "Aarambham (2024 film)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128795996",
+    "imdb": "tt31436476",
+    "tmdb": 1288304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10",
+  "runtime_minutes": 132
+}

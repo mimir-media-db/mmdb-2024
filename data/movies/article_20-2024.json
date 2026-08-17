@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_article_20_2024",
+  "title": "Article 20",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124570438",
+    "imdb": "tt28258332",
+    "tmdb": 1147596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-10",
+  "runtime_minutes": 141
+}

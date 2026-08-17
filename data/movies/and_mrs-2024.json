@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_mrs_2024",
+  "title": "And Mrs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127377892",
+    "imdb": "tt6614198",
+    "tmdb": 1036921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-19",
+  "runtime_minutes": 112
+}

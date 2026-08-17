@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_is_one_2024",
+  "title": "The All Is One",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119841161",
+    "imdb": "tt27629735",
+    "tmdb": 1223554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-16"
+}

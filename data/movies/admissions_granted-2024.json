@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_admissions_granted_2024",
+  "title": "Admissions Granted",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125568330",
+    "imdb": "tt30849957",
+    "tmdb": 1230139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

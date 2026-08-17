@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anatema_2024",
+  "title": "Anatema",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117878418",
+    "imdb": "tt26931556",
+    "tmdb": 1104390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

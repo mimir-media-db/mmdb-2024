@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aranam_2024",
+  "title": "Aranam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124209576",
+    "imdb": "tt29959080",
+    "tmdb": 1210047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-05"
+}

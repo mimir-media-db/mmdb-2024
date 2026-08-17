@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_z_the_beginning_of_the_end_2024",
+  "title": "Apocalypse Z: The Beginning of the End",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130447150",
+    "imdb": "tt27599851",
+    "tmdb": 1118031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-04",
+  "runtime_minutes": 112
+}

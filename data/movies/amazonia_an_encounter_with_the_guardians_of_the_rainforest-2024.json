@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazonia_an_encounter_with_the_guardians_of_the_rainforest_2024",
+  "title": "Amazonia, an Encounter with the Guardians of the Rainforest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125693471",
+    "imdb": "tt32187439",
+    "tmdb": 1261675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

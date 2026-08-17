@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amal_2024",
+  "title": "Amal",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124387362",
+    "imdb": "tt21916652",
+    "tmdb": 1181011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 111
+}

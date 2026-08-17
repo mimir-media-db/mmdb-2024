@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adrianne_the_castle_2024",
+  "title": "Adrianne & The Castle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124852853",
+    "imdb": "tt23841116",
+    "tmdb": 1234407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

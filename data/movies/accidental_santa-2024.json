@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_accidental_santa_2024",
+  "title": "Accidental Santa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122312659",
+    "imdb": "tt14677416",
+    "tmdb": 939702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-22",
+  "runtime_minutes": 117
+}

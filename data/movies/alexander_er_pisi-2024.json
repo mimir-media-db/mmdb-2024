@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alexander_er_pisi_2024",
+  "title": "Alexander Er Pisi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126870298",
+    "imdb": "tt32652050",
+    "tmdb": 1307052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-28"
+}

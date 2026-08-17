@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_algiers_2024",
+  "title": "Algiers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130375729",
+    "imdb": "tt32260733",
+    "tmdb": 1315245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 93
+}

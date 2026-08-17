@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aicha_2024",
+  "title": "Aïcha",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132732167",
+    "imdb": "tt27907962",
+    "tmdb": 1108795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

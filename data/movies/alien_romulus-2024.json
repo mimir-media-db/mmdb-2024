@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_romulus_2024",
+  "title": "Alien: Romulus",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115932544",
+    "imdb": "tt18412256",
+    "tmdb": 945961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 119
+}

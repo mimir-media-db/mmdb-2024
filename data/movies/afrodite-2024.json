@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afrodite_2024",
+  "title": "Afrodite",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124736600",
+    "imdb": "tt29041663",
+    "tmdb": 1455976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

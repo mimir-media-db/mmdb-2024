@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_albany_road_2024",
+  "title": "Albany Road",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125790356",
+    "imdb": "tt31839336",
+    "tmdb": 1274047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-20",
+  "runtime_minutes": 135
+}

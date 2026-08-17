@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aum_penjor_2024",
+  "title": "Aum Penjor",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135933307",
+    "imdb": "tt34382854",
+    "tmdb": 1374723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

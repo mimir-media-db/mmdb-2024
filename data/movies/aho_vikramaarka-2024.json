@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_aho_vikramaarka_2024",
+  "title": "Aho Vikramaarka",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894099"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antisocial_network_2024",
+  "title": "The Antisocial Network",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124848151",
+    "imdb": "tt31189868",
+    "tmdb": 1242384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_they_will_talk_about_us_2024",
+  "title": "And They Will Talk About Us",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576077",
+    "imdb": "tt11041028",
+    "tmdb": 986988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-05",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amar_singh_chamkila_2024",
+  "title": "Amar Singh Chamkila",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124728747",
+    "imdb": "tt26658272",
+    "tmdb": 1086729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-12"
+}

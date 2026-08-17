@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_dry_grasses_2024",
+  "title": "About Dry Grasses",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109387468",
+    "imdb": "tt13231544",
+    "tmdb": 665733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-18",
+  "runtime_minutes": 197
+}

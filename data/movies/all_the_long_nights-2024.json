@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_long_nights_2024",
+  "title": "All The Long Nights",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124577250",
+    "imdb": "tt26731970",
+    "tmdb": 1086011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 119
+}

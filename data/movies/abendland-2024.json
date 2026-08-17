@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abendland_2024",
+  "title": "Abendland",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131312107",
+    "imdb": "tt30784609",
+    "tmdb": 1235714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05"
+}

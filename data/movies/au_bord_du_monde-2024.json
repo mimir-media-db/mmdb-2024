@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_au_bord_du_monde_2024",
+  "title": "Au bord du monde",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140007481",
+    "imdb": "tt28144598",
+    "tmdb": 1079314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-23"
+}

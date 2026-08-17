@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_end_2024",
+  "title": "Another End",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124334456",
+    "imdb": "tt26749648",
+    "tmdb": 1087593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-18",
+  "runtime_minutes": 129
+}

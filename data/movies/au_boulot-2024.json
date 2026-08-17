@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_au_boulot_2024",
+  "title": "Au boulot !",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130252364",
+    "imdb": "tt33350039",
+    "tmdb": 1356416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-06",
+  "runtime_minutes": 84
+}

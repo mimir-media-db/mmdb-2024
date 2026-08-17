@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajogyo_2024",
+  "title": "Ajogyo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125845818",
+    "imdb": "tt32308936",
+    "tmdb": 1077616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

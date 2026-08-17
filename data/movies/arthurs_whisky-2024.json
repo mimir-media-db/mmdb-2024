@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthurs_whisky_2024",
+  "title": "Arthur's Whisky",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123685382",
+    "imdb": "tt27158093",
+    "tmdb": 1126475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

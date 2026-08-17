@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abudeka_is_back_2024",
+  "title": "Abudeka Is Back",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124457500",
+    "imdb": "tt32176659",
+    "tmdb": 1220786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24",
+  "runtime_minutes": 120
+}

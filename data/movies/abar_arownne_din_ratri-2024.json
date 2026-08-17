@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abar_arownne_din_ratri_2024",
+  "title": "Abar Arownne Din Ratri",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125365208",
+    "imdb": "tt28692267",
+    "tmdb": 930881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-05"
+}

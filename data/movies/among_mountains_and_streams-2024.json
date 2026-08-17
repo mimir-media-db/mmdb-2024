@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_among_mountains_and_streams_2024",
+  "title": "Among Mountains and Streams",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136083532",
+    "imdb": "tt38017417"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 98
+}

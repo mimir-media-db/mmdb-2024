@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_in_the_night_2024",
+  "title": "Alone in the Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124949890",
+    "imdb": "tt26938360",
+    "tmdb": 1244881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

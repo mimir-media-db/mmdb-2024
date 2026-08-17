@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_my_heaven_2024",
+  "title": "August My Heaven",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124422171",
+    "imdb": "tt31042001",
+    "tmdb": 1235923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 40
+}

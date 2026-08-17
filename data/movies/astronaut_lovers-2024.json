@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astronaut_lovers_2024",
+  "title": "The Astronaut Lovers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125707340",
+    "imdb": "tt22299436",
+    "tmdb": 1058128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ayo_balikan_2024",
+  "title": "Ayo Balikan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127388336",
+    "imdb": "tt32216004",
+    "tmdb": 1283001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amanece_en_samana_2024",
+  "title": "Amanece en Samaná",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130447140",
+    "imdb": "tt33057646",
+    "tmdb": 1341012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08"
+}
