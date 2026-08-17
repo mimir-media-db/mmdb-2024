@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_little_thing_2024",
+  "title": "Every Little Thing",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124858154",
+    "imdb": "tt30134880",
+    "tmdb": 1214522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-21"
+}

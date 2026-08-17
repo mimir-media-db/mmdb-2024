@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_la_nave_del_encanto_2024",
+  "title": "En la nave del encanto",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131729301",
+    "imdb": "tt35327640",
+    "tmdb": 1384974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 164
+}

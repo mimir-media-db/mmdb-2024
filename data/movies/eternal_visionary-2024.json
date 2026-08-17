@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_visionary_2024",
+  "title": "Eternal Visionary",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130535508",
+    "imdb": "tt27813775",
+    "tmdb": 1136633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

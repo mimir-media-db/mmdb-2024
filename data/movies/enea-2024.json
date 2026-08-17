@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enea_2024",
+  "title": "Enea",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120913651",
+    "imdb": "tt27219440",
+    "tmdb": 1057999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 115
+}

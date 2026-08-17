@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_loves_jenifa_2024",
+  "title": "Everybody Loves Jenifa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131450476",
+    "imdb": "tt34573436",
+    "tmdb": 1393831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-12",
+  "runtime_minutes": 120
+}

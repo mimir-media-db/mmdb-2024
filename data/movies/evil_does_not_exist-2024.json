@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_does_not_exist_2024",
+  "title": "Evil Does Not Exist",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120897557",
+    "imdb": "tt28490044",
+    "tmdb": 1156125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-10",
+  "runtime_minutes": 106
+}

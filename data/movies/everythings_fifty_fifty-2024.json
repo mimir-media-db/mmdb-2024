@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everythings_fifty_fifty_2024",
+  "title": "Everything's Fifty Fifty",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134385533",
+    "imdb": "tt27458299",
+    "tmdb": 1149100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_van_gogh_and_japan_2024",
+  "title": "Exhibition on Screen: Van Gogh and Japan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63639178",
+    "imdb": "tt9298918",
+    "tmdb": 527095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-25",
+  "runtime_minutes": 85
+}

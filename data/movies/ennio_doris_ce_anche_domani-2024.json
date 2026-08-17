@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ennio_doris_ce_anche_domani_2024",
+  "title": "Ennio Doris - C’è anche domani",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125543996",
+    "imdb": "tt29331865",
+    "tmdb": 1184583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elle_et_lui_et_le_reste_du_monde_2024",
+  "title": "Elle et lui et le reste du monde",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126392102",
+    "imdb": "tt32045780",
+    "tmdb": 1084849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-17"
+}

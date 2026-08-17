@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_viaje_al_origen_del_kene_2024",
+  "title": "El viaje al origen del Kené",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129868678",
+    "imdb": "tt36455959",
+    "tmdb": 1292309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

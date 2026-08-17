@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ete_96_2024",
+  "title": "Été 96",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125568602",
+    "imdb": "tt31033834",
+    "tmdb": 1138405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 12
+}
