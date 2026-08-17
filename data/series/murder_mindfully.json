@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_mindfully",
+  "title": "Murder Mindfully",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130613293",
+    "imdb": "tt30217222",
+    "tmdb": 252372
+  },
+  "last_updated": "2026-08-17"
+}

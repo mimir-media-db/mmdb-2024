@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mudtown",
+  "title": "Mudtown",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131406452",
+    "imdb": "tt33981048",
+    "tmdb": 278458
+  },
+  "last_updated": "2026-08-17"
+}

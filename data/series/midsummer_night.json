@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_midsummer_night",
+  "title": "Midsummer Night",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124749476",
+    "imdb": "tt27933302",
+    "tmdb": 231739
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

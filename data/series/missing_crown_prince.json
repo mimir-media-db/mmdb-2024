@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_missing_crown_prince",
+  "title": "Missing Crown Prince",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124106896",
+    "imdb": "tt30396939",
+    "tmdb": 235576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

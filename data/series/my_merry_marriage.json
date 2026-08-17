@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_merry_marriage",
+  "title": "My Merry Marriage",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q129978647",
+    "imdb": "tt33746553",
+    "tmdb": 262831
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 125
+}

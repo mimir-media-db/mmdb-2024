@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_m_mission",
+  "title": "M MISSION",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131055956",
+    "imdb": "tt34260061",
+    "tmdb": 246657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

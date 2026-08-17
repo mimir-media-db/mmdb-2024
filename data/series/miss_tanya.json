@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_tanya",
+  "title": "Miss Tanya",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q134463757",
+    "imdb": "tt31908755",
+    "tmdb": 300249
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marry_my_husband",
+  "title": "Marry My Husband",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123181328",
+    "imdb": "tt26628595",
+    "tmdb": 221851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

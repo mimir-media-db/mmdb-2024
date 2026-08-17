@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_machine",
+  "title": "Machine",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121816801",
+    "imdb": "tt26750284",
+    "tmdb": 211172
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
