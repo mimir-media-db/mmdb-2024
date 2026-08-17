@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strangers_when_we_meet_2024",
+  "title": "Strangers When We Meet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109413543",
+    "imdb": "tt14296968",
+    "tmdb": 824117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-17"
+}

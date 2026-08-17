@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slay_2024",
+  "title": "Slay",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125592677",
+    "imdb": "tt31629757",
+    "tmdb": 1258745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 99
+}

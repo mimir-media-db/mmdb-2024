@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarcophagus_of_drunken_loves_2024",
+  "title": "Sarcophagus of Drunken Loves",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124124107",
+    "imdb": "tt30517836",
+    "tmdb": 1220572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

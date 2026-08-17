@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sight_2024",
+  "title": "Sight",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115802711",
+    "imdb": "tt12873300",
+    "tmdb": 1057006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24"
+}

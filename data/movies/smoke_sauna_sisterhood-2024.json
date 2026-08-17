@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smoke_sauna_sisterhood_2024",
+  "title": "Smoke Sauna Sisterhood",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116458523",
+    "imdb": "tt23640230",
+    "tmdb": 1058688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01",
+  "runtime_minutes": 89
+}

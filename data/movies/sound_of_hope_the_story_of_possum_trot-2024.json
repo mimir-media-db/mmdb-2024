@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_hope_the_story_of_possum_trot_2024",
+  "title": "Sound of Hope: The Story of Possum Trot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126325990",
+    "imdb": "tt6881490",
+    "tmdb": 1242526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 129
+}

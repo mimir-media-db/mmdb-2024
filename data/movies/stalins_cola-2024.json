@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stalins_cola_2024",
+  "title": "Stalin's Cola",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137273119",
+    "imdb": "tt39130987",
+    "tmdb": 1580698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

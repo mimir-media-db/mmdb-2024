@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_with_a_tiger_2024",
+  "title": "Sleeping with a Tiger",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123992222",
+    "imdb": "tt19177288",
+    "tmdb": 990169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01",
+  "runtime_minutes": 107
+}

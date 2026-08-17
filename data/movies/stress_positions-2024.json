@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stress_positions_2024",
+  "title": "Stress Positions",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123762441",
+    "imdb": "tt30319533",
+    "tmdb": 1214474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

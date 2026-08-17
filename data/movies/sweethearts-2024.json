@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweethearts_2024",
+  "title": "Sweethearts",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842577",
+    "imdb": "tt14636214",
+    "tmdb": 999890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-28",
+  "runtime_minutes": 98
+}

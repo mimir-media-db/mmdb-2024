@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skill_issue_2024",
+  "title": "Skill Issue",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127641685",
+    "imdb": "tt32886614",
+    "tmdb": 1315401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schock_2024",
+  "title": "Schock",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124526402",
+    "imdb": "tt28103756",
+    "tmdb": 1000683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15",
+  "runtime_minutes": 104
+}

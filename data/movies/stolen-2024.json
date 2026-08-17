@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_2024",
+  "title": "Stolen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113676440",
+    "imdb": "tt21955196",
+    "tmdb": 1019317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-12",
+  "runtime_minutes": 107
+}

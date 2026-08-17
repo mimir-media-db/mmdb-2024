@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_2024",
+  "title": "A Silence",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517484",
+    "imdb": "tt25051484",
+    "tmdb": 962319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-10",
+  "runtime_minutes": 99
+}

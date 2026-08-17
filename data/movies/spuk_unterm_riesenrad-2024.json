@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spuk_unterm_riesenrad_2024",
+  "title": "Spuk unterm Riesenrad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126137713",
+    "imdb": "tt30786071",
+    "tmdb": 1220621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

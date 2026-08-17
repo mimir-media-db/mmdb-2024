@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senseis_pious_lie_2024",
+  "title": "Sensei's Pious Lie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133944861",
+    "imdb": "tt32086082",
+    "tmdb": 1273597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sala_escura_2024",
+  "title": "Sala Escura",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133268504",
+    "imdb": "tt34981216",
+    "tmdb": 1302903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14"
+}

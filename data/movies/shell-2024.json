@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shell_2024",
+  "title": "Shell",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124214428",
+    "imdb": "tt12706836",
+    "tmdb": 787747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-12",
+  "runtime_minutes": 101
+}

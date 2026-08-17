@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_fabulous_2024",
+  "title": "Still Fabulous",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124516118",
+    "imdb": "tt30235974",
+    "tmdb": 1115749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-12"
+}

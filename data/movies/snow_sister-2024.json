@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_sister_2024",
+  "title": "The Snow Sister",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130478877",
+    "imdb": "tt11092178",
+    "tmdb": 1365044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-29",
+  "runtime_minutes": 96
+}

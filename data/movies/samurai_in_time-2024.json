@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_in_time_2024",
+  "title": "A Samurai in Time",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130513869",
+    "imdb": "tt32277931",
+    "tmdb": 1287819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-17",
+  "runtime_minutes": 131
+}

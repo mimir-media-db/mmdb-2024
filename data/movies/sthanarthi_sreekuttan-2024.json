@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sthanarthi_sreekuttan_2024",
+  "title": "Sthanarthi Sreekuttan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135222686",
+    "imdb": "tt24067986",
+    "tmdb": 1012933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-29"
+}

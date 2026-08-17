@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_dogs_2024",
+  "title": "Sleeping Dogs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117007959",
+    "imdb": "tt8542964",
+    "tmdb": 978592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slovo_house_2024",
+  "title": "«Slovo» House",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56360830",
+    "imdb": "tt15485194",
+    "tmdb": 876910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-09",
+  "runtime_minutes": 120
+}

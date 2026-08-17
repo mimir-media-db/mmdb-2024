@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sayen_the_huntress_2024",
+  "title": "Sayen: The Huntress",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125676618",
+    "imdb": "tt32063728",
+    "tmdb": 850888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-26",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shahkot_2024",
+  "title": "Shahkot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131187453",
+    "imdb": "tt29549471",
+    "tmdb": 1210465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_of_the_desert_2024",
+  "title": "Soul of the Desert",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130248730",
+    "imdb": "tt29360967",
+    "tmdb": 1320275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 87
+}

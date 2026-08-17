@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smile_2_2024",
+  "title": "Smile 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123472063",
+    "imdb": "tt29268110",
+    "tmdb": 1100782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-17",
+  "runtime_minutes": 127
+}

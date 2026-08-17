@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sin_and_evil_2024",
+  "title": "Sin and Evil",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482899",
+    "imdb": "tt40373417",
+    "tmdb": 1214366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02",
+  "runtime_minutes": 116
+}

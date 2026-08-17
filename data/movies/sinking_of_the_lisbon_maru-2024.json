@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinking_of_the_lisbon_maru_2024",
+  "title": "The Sinking of the Lisbon Maru",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130381562",
+    "imdb": "tt33095194",
+    "tmdb": 1305459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_squadron_2024",
+  "title": "The Squadron",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125492705",
+    "imdb": "tt14216462",
+    "tmdb": 799258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01"
+}

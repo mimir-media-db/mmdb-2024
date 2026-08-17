@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_2024",
+  "title": "Spirit",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574115",
+    "imdb": "tt32981692",
+    "tmdb": 1317991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siren_2024",
+  "title": "Siren",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123414786",
+    "imdb": "tt21935200",
+    "tmdb": 1019232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

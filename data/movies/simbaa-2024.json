@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simbaa_2024",
+  "title": "Simbaa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128799592",
+    "imdb": "tt15576884",
+    "tmdb": 984387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-09"
+}

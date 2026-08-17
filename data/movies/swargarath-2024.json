@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swargarath_2024",
+  "title": "Swargarath",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131740712",
+    "imdb": "tt32468152",
+    "tmdb": 1377187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

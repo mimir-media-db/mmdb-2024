@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salve_maria_2024",
+  "title": "Salve Maria",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127873040",
+    "imdb": "tt21920688",
+    "tmdb": 1247597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-08",
+  "runtime_minutes": 111
+}

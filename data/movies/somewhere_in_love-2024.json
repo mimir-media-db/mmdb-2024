@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_in_love_2024",
+  "title": "Somewhere in love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127160130",
+    "imdb": "tt27787469",
+    "tmdb": 1092788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

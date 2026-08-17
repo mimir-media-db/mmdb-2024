@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sesh_jibon_2024",
+  "title": "Sesh Jibon",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130285494",
+    "imdb": "tt32875537"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30"
+}

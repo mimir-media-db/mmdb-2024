@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_son_image_2024",
+  "title": "À son image",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125537022",
+    "imdb": "tt32128666",
+    "tmdb": 1000127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

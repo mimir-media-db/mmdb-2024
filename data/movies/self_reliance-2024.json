@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_self_reliance_2024",
+  "title": "Self Reliance",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116178605",
+    "imdb": "tt26084002",
+    "tmdb": 1072876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03",
+  "runtime_minutes": 85
+}

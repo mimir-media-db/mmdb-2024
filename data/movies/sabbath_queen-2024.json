@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sabbath_queen_2024",
+  "title": "Sabbath Queen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130473298",
+    "imdb": "tt32145808",
+    "tmdb": 1275983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-09",
+  "runtime_minutes": 105
+}

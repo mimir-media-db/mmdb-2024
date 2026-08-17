@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snack_shack_2024",
+  "title": "Snack Shack",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124728817",
+    "imdb": "tt22004344",
+    "tmdb": 1037113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15"
+}

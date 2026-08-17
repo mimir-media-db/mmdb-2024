@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sixty_minutes_2024",
+  "title": "Sixty Minutes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124129922",
+    "imdb": "tt29538571",
+    "tmdb": 1212073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-19",
+  "runtime_minutes": 89
+}

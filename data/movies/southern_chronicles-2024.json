@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_southern_chronicles_2024",
+  "title": "The Southern Chronicles",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130427826",
+    "imdb": "tt14064760",
+    "tmdb": 1252855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sultanas_dream_2024",
+  "title": "Sultana's Dream",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120647361",
+    "imdb": "tt28298233",
+    "tmdb": 947643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-27",
+  "runtime_minutes": 86
+}

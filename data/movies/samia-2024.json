@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samia_2024",
+  "title": "Samia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134718403",
+    "imdb": "tt30959154",
+    "tmdb": 1178684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 102
+}

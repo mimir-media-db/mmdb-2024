@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shesh_rokkha_2024",
+  "title": "Shesh Rokkha",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124690442",
+    "imdb": "tt31145117",
+    "tmdb": 1230171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-14"
+}

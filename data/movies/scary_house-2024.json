@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_house_2024",
+  "title": "The Scary House",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98837860",
+    "imdb": "tt9654108",
+    "tmdb": 735595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-22",
+  "runtime_minutes": 99
+}

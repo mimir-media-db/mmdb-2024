@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_cemeteries_2024",
+  "title": "Seven Cemeteries",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133393232",
+    "imdb": "tt15330144",
+    "tmdb": 901060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starve_acre_2024",
+  "title": "Starve Acre",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114870304",
+    "imdb": "tt17521612",
+    "tmdb": 933090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-02",
+  "runtime_minutes": 98
+}

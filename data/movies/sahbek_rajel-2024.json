@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sahbek_rajel_2024",
+  "title": "Sahbek Rajel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137773327",
+    "imdb": "tt35686379",
+    "tmdb": 1407162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-21"
+}

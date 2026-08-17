@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sewing_machine_2024",
+  "title": "Sewing Machine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131724976",
+    "imdb": "tt33132321",
+    "tmdb": 1285096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 17
+}

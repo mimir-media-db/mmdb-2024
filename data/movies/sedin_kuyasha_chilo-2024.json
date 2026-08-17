@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sedin_kuyasha_chilo_2024",
+  "title": "Sedin Kuyasha Chilo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124421945",
+    "imdb": "tt30853122",
+    "tmdb": 1047619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

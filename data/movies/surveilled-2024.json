@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surveilled_2024",
+  "title": "Surveilled",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131154737",
+    "imdb": "tt33813121",
+    "tmdb": 1369240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-15",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_society_of_the_snow_2024",
+  "title": "Society of the Snow",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112252419",
+    "imdb": "tt16277242",
+    "tmdb": 906126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04",
+  "runtime_minutes": 144
+}

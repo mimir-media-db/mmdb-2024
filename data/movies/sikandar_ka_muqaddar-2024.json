@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sikandar_ka_muqaddar_2024",
+  "title": "Sikandar Ka Muqaddar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130632329",
+    "imdb": "tt31522415",
+    "tmdb": 1252470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-29"
+}

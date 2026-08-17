@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_frank_2024",
+  "title": "Space Frank",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125018575",
+    "imdb": "tt27164431",
+    "tmdb": 1223438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-08",
+  "runtime_minutes": 101
+}
