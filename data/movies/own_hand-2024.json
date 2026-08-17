@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_own_hand_2024",
+  "title": "Own Hand",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130502906",
+    "imdb": "tt28055483",
+    "tmdb": 1336587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-19",
+  "runtime_minutes": 99
+}

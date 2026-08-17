@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oshi_mankai_2024",
+  "title": "Oshi, Mankai",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132444562",
+    "imdb": "tt34722618",
+    "tmdb": 1443242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-29"
+}

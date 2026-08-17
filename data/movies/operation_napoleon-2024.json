@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_napoleon_2024",
+  "title": "Operation Napoleon",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116824358",
+    "imdb": "tt15485390",
+    "tmdb": 1002338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-05",
+  "runtime_minutes": 112
+}

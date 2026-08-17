@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_2024",
+  "title": "Out",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126947732",
+    "imdb": "tt26494143",
+    "tmdb": 1275025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-25",
+  "runtime_minutes": 91
+}

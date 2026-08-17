@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_folks_the_beginning_2024",
+  "title": "Our Folks: The Beginning",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124487309",
+    "imdb": "tt27578313",
+    "tmdb": 1178451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

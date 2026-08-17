@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omni_loop_2024",
+  "title": "Omni Loop",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124605017",
+    "imdb": "tt28150132",
+    "tmdb": 1143128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-13",
+  "runtime_minutes": 107
+}

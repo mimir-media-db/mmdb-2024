@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ootd_outfit_of_the_designer_2024",
+  "title": "#OOTD: Outfit of the Designer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126194479",
+    "imdb": "tt30476508",
+    "tmdb": 1214872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25"
+}

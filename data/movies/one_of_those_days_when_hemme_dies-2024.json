@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_of_those_days_when_hemme_dies_2024",
+  "title": "One of Those Days When Hemme Dies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130386465",
+    "imdb": "tt33030347",
+    "tmdb": 1320279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 82
+}

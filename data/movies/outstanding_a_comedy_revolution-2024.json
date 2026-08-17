@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outstanding_a_comedy_revolution_2024",
+  "title": "Outstanding: A Comedy Revolution",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126890057",
+    "imdb": "tt20918352",
+    "tmdb": 1275903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 99
+}

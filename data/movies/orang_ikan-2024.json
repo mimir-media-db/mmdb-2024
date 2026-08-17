@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orang_ikan_2024",
+  "title": "Orang Ikan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137133145",
+    "imdb": "tt29262075",
+    "tmdb": 1214140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_perfect_match_2024",
+  "title": "One Perfect Match",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136206563",
+    "imdb": "tt27722604",
+    "tmdb": 1143873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

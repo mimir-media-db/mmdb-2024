@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_order_2024",
+  "title": "The Order",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118287624",
+    "imdb": "tt26625693",
+    "tmdb": 1082195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-31",
+  "runtime_minutes": 144
+}

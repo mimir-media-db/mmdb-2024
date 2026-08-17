@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_officer_black_belt_2024",
+  "title": "Officer Black Belt",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354234",
+    "imdb": "tt28494829",
+    "tmdb": 1139817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13"
+}

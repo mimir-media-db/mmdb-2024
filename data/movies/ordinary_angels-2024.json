@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_angels_2024",
+  "title": "Ordinary Angels",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112124784",
+    "imdb": "tt4996328",
+    "tmdb": 974036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23",
+  "runtime_minutes": 117
+}

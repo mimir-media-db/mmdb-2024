@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_silencio_das_ostras_2024",
+  "title": "O Silêncio das Ostras",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133733371",
+    "imdb": "tt28997874",
+    "tmdb": 1352381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

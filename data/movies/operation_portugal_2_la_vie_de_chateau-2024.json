@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_portugal_2_la_vie_de_chateau_2024",
+  "title": "Opération Portugal 2 : La Vie de château",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124375951",
+    "imdb": "tt30471155",
+    "tmdb": 1155840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07"
+}
