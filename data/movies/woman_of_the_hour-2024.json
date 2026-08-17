@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_of_the_hour_2024",
+  "title": "Woman of the Hour",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257424",
+    "imdb": "tt7737800",
+    "tmdb": 835113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-18",
+  "runtime_minutes": 94
+}

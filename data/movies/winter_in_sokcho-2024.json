@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_in_sokcho_2024",
+  "title": "Winter in Sokcho",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130421171",
+    "imdb": "tt30519830",
+    "tmdb": 1001010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 104
+}

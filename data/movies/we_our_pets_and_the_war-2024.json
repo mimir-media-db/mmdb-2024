@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_our_pets_and_the_war_2024",
+  "title": "We, our pets and the war",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124654541",
+    "imdb": "tt31597044",
+    "tmdb": 1249513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-04",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_jennifer_did_2024",
+  "title": "What Jennifer Did",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125400788",
+    "imdb": "tt31747163",
+    "tmdb": 1261924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-10",
+  "runtime_minutes": 87
+}

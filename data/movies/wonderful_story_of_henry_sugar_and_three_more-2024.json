@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderful_story_of_henry_sugar_and_three_more_2024",
+  "title": "The Wonderful Story of Henry Sugar and Three More",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124841933",
+    "imdb": "tt31800329",
+    "tmdb": 1259365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15"
+}

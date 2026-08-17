@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whale_nation_2024",
+  "title": "Whale Nation",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116820702",
+    "imdb": "tt18556486",
+    "tmdb": 977021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-29",
+  "runtime_minutes": 82
+}

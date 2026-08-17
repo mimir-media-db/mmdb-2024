@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_evil_lurks_2024",
+  "title": "When Evil Lurks",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121367826",
+    "imdb": "tt16300962",
+    "tmdb": 744857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-11",
+  "runtime_minutes": 99
+}

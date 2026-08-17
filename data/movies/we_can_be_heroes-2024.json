@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_can_be_heroes_2024",
+  "title": "We Can Be Heroes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124843646",
+    "imdb": "tt30835407",
+    "tmdb": 1229430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09",
+  "runtime_minutes": 86
+}

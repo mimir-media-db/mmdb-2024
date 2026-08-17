@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_ship_film_2024_2024",
+  "title": "The White Ship (film, 2024)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135197684",
+    "imdb": "tt37166296",
+    "tmdb": 1247653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

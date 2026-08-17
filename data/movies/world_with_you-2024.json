@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_world_with_you_2024",
+  "title": "The World with You",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274912",
+    "tmdb": 1401570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-14"
+}

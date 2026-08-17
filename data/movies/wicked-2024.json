@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_2024",
+  "title": "Wicked",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24797403",
+    "imdb": "tt1262426",
+    "tmdb": 402431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-20",
+  "runtime_minutes": 160
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_it_melts_2024",
+  "title": "When It Melts",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115819410",
+    "imdb": "tt7636728",
+    "tmdb": 923387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 111
+}

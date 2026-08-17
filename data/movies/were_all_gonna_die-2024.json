@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_were_all_gonna_die_2024",
+  "title": "We're All Gonna Die",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124708001",
+    "imdb": "tt28055078",
+    "tmdb": 1164614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolves_always_come_at_night_2024",
+  "title": "The Wolves Always Come at Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131872900",
+    "imdb": "tt30768181",
+    "tmdb": 1320329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-08",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_were_dangerous_2024",
+  "title": "We Were Dangerous",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124249596",
+    "imdb": "tt30813817",
+    "tmdb": 1229266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 82
+}

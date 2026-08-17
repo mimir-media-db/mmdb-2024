@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_2024",
+  "title": "The Weekend",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130418879",
+    "imdb": "tt32151255",
+    "tmdb": 1276041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 117
+}

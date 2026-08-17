@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_according_to_allee_willis_2024",
+  "title": "The World According to Allee Willis",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124853455",
+    "imdb": "tt30700475",
+    "tmdb": 1229933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-11"
+}

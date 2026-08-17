@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_went_up_the_hill_2024",
+  "title": "Went Up the Hill",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127727208",
+    "imdb": "tt14303268",
+    "tmdb": 1037352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

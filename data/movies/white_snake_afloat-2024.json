@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_snake_afloat_2024",
+  "title": "White Snake: Afloat",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134749049",
+    "imdb": "tt30836045",
+    "tmdb": 1207123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-30"
+}

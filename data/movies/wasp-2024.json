@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasp_2024",
+  "title": "The Wasp",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125295777",
+    "imdb": "tt21958136",
+    "tmdb": 1019404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-13",
+  "runtime_minutes": 96
+}
