@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_acmagame",
+  "title": "ACMA:GAME アクマゲーム",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q138635099",
+    "imdb": "tt32123369",
+    "tmdb": 248346
+  },
+  "last_updated": "2026-08-17"
+}

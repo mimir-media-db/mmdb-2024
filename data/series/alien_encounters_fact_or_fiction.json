@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_alien_encounters_fact_or_fiction",
+  "title": "Alien Encounters: Fact or Fiction",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126890175",
+    "imdb": "tt32622434",
+    "tmdb": 255689
+  },
+  "last_updated": "2026-08-17"
+}

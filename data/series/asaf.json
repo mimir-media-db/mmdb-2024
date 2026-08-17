@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_asaf",
+  "title": "Asaf",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131363775",
+    "imdb": "tt23480510",
+    "tmdb": 274955
+  },
+  "last_updated": "2026-08-17"
+}

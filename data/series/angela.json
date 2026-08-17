@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_angela",
+  "title": "Ángela",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127271664",
+    "imdb": "tt28235948",
+    "tmdb": 231452
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

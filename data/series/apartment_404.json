@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apartment_404",
+  "title": "Apartment 404",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124658732",
+    "imdb": "tt31037265",
+    "tmdb": 236536
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

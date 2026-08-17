@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_asia",
+  "title": "Asia",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131056704",
+    "imdb": "tt32869282",
+    "tmdb": 271144
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

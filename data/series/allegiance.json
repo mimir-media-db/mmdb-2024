@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_allegiance",
+  "title": "Allegiance",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123515519",
+    "imdb": "tt29815504",
+    "tmdb": 240936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

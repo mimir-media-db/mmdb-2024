@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aaro_alldomain_anomaly_resolution_office",
+  "title": "AARO -All-domain Anomaly Resolution Office-",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q129447770",
+    "imdb": "tt33886219",
+    "tmdb": 261792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
