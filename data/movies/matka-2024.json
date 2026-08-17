@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matka_2024",
+  "title": "Matka",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130484591",
+    "imdb": "tt28258888",
+    "tmdb": 1233327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14"
+}

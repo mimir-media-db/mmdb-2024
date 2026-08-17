@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_melbourne_2024",
+  "title": "My Melbourne",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131521072",
+    "imdb": "tt27722534",
+    "tmdb": 1361638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-28"
+}

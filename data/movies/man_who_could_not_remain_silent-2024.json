@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_could_not_remain_silent_2024",
+  "title": "The Man Who Could Not Remain Silent",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126099154",
+    "imdb": "tt20519854",
+    "tmdb": 1279229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24",
+  "runtime_minutes": 14
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maidaan_2024",
+  "title": "Maidaan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80155482",
+    "imdb": "tt10869778",
+    "tmdb": 668340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-10",
+  "runtime_minutes": 179
+}

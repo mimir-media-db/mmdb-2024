@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mind_body_spirit_2024",
+  "title": "Mind Body Spirit",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125699428",
+    "imdb": "tt26748538",
+    "tmdb": 1034093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-31",
+  "runtime_minutes": 85
+}

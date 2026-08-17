@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ministry_of_ungentlemanly_warfare_2024",
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115860236",
+    "imdb": "tt5177120",
+    "tmdb": 799583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-18",
+  "runtime_minutes": 119
+}

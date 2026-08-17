@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_man_2024",
+  "title": "Monkey Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105952623",
+    "imdb": "tt9214772",
+    "tmdb": 560016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-11",
+  "runtime_minutes": 113
+}

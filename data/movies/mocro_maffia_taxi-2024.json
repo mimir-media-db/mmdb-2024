@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mocro_maffia_taxi_2024",
+  "title": "Mocro Maffia: Taxi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135681021",
+    "imdb": "tt32448737",
+    "tmdb": 1317532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-23"
+}

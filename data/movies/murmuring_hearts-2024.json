@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murmuring_hearts_2024",
+  "title": "Murmuring Hearts",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131290187",
+    "imdb": "tt34666538",
+    "tmdb": 1374758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 80
+}

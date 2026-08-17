@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motel_destino_2024",
+  "title": "Motel Destino",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125422186",
+    "imdb": "tt28608358",
+    "tmdb": 1161879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-22",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milagro_de_fe_2024",
+  "title": "Milagro de fe",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124618066",
+    "imdb": "tt31500211",
+    "tmdb": 1280722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

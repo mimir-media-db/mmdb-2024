@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malhar_2024",
+  "title": "Malhar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126077203",
+    "imdb": "tt32370994",
+    "tmdb": 1304039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_200_2024",
+  "title": "Mission 200",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575615",
+    "imdb": "tt32344908",
+    "tmdb": 1288992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06"
+}

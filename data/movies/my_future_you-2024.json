@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_future_you_2024",
+  "title": "My Future You",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130639281",
+    "imdb": "tt32241752",
+    "tmdb": 1381548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-25"
+}

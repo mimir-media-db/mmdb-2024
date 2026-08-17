@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_ali_2024",
+  "title": "My Brother Ali",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136171273",
+    "imdb": "tt32554051",
+    "tmdb": 1341008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

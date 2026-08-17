@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sextortion_diary_2024",
+  "title": "My Sextortion Diary",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124858065",
+    "imdb": "tt30835559",
+    "tmdb": 1229917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

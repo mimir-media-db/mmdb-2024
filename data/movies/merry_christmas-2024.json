@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_merry_christmas_2024",
+  "title": "Merry Christmas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122642379",
+    "imdb": "tt15392282",
+    "tmdb": 890116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12"
+}

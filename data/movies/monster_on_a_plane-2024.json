@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_on_a_plane_2024",
+  "title": "Monster on a Plane",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130641055",
+    "imdb": "tt27811009",
+    "tmdb": 1270125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07",
+  "runtime_minutes": 88
+}

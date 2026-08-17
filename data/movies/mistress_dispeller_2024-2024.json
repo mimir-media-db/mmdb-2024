@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mistress_dispeller_2024_2024",
+  "title": "Mistress Dispeller 2024",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127727210",
+    "imdb": "tt22060498",
+    "tmdb": 951055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-01",
+  "runtime_minutes": 94
+}

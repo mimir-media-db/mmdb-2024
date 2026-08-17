@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muri_and_ko_2024",
+  "title": "Muri and Ko",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130358094",
+    "imdb": "tt32628697",
+    "tmdb": 1308398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

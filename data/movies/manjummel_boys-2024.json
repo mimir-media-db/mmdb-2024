@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manjummel_boys_2024",
+  "title": "Manjummel Boys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124636001",
+    "imdb": "tt26458038",
+    "tmdb": 1069945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-22",
+  "runtime_minutes": 135
+}

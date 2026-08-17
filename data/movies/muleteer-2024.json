@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muleteer_2024",
+  "title": "The Muleteer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126481965",
+    "imdb": "tt11804386",
+    "tmdb": 772511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-13",
+  "runtime_minutes": 103
+}

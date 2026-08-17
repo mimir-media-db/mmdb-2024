@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_murder_mubarak_2024",
+  "title": "Murder Mubarak",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124030529",
+    "imdb": "tt27028399",
+    "tmdb": 1051023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15"
+}

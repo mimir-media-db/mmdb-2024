@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matching_2024",
+  "title": "MATCHING",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122940417",
+    "imdb": "tt30333011",
+    "tmdb": 1044555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01"
+}

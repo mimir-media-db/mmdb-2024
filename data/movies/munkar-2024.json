@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_munkar_2024",
+  "title": "Munkar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124409383",
+    "imdb": "tt28454007",
+    "tmdb": 1163953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maldoror_2024",
+  "title": "Maldoror",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127715811",
+    "imdb": "tt15459206",
+    "tmdb": 959596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 155
+}

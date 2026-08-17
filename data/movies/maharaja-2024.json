@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maharaja_2024",
+  "title": "Maharaja",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126595889",
+    "imdb": "tt26548265",
+    "tmdb": 1118224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-14",
+  "runtime_minutes": 141
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maydegol_2024",
+  "title": "Maydegol",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124409308",
+    "imdb": "tt30969960",
+    "tmdb": 883141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

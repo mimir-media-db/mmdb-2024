@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mikado_2024",
+  "title": "Mikado",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133572145",
+    "imdb": "tt31193064",
+    "tmdb": 1099985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_name_ist_otto_2024",
+  "title": "Mein Name ist Otto",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137824711",
+    "imdb": "tt34482881",
+    "tmdb": 1408240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 83
+}

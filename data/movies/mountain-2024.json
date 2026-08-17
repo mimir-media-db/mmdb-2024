@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mountain_2024",
+  "title": "The Mountain",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125716975",
+    "imdb": "tt27752111",
+    "tmdb": 1228335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 89
+}

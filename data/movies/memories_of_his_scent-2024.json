@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_his_scent_2024",
+  "title": "Memories of His Scent",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130403949",
+    "imdb": "tt33063690",
+    "tmdb": 1250405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-03",
+  "runtime_minutes": 92
+}

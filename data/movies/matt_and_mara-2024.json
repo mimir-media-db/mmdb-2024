@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matt_and_mara_2024",
+  "title": "Matt and Mara",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124337178",
+    "imdb": "tt13109862",
+    "tmdb": 887180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-20",
+  "runtime_minutes": 99
+}

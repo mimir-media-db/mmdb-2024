@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mamantula_2024",
+  "title": "Mamántula",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126811632",
+    "imdb": "tt28622893",
+    "tmdb": 1162791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16",
+  "runtime_minutes": 49
+}

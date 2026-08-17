@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_stolen_planet_2024",
+  "title": "My Stolen Planet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364980",
+    "imdb": "tt30953779",
+    "tmdb": 1232424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-12"
+}

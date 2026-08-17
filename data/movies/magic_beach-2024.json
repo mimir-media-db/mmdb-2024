@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_beach_2024",
+  "title": "Magic Beach",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133514352",
+    "imdb": "tt32544575",
+    "tmdb": 1320541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

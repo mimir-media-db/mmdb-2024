@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macho_man_3_2024",
+  "title": "Macho Man 3",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130484785",
+    "imdb": "tt13118434",
+    "tmdb": 727582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

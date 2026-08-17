@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mean_streak_2024",
+  "title": "Mean Streak",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126595886",
+    "imdb": "tt22889682",
+    "tmdb": 1187364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 99
+}

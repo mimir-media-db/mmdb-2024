@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miyazaki_spirit_of_nature_2024",
+  "title": "Miyazaki, Spirit of Nature",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135935061",
+    "imdb": "tt33030449",
+    "tmdb": 1320480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_thieves_2024",
+  "title": "The Moon Thieves",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354210",
+    "imdb": "tt29195082",
+    "tmdb": 1120903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 108
+}

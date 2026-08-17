@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_summer_2024",
+  "title": "Monster Summer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114315721",
+    "imdb": "tt3954936",
+    "tmdb": 928480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-24"
+}

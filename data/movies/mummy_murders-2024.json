@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mummy_murders_2024",
+  "title": "The Mummy Murders",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135973018",
+    "imdb": "tt28073210",
+    "tmdb": 1221596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-02"
+}

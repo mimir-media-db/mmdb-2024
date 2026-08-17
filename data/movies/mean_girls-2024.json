@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mean_girls_2024",
+  "title": "Mean Girls",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117014906",
+    "imdb": "tt11762114",
+    "tmdb": 673593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-10",
+  "runtime_minutes": 112
+}

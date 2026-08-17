@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mommy_meanest_2024",
+  "title": "Mommy Meanest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135222044",
+    "imdb": "tt31122279",
+    "tmdb": 1239306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 87
+}

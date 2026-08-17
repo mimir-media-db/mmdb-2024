@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mujigae_2024",
+  "title": "Mujigae",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131469250",
+    "imdb": "tt33775146",
+    "tmdb": 1366536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-09",
+  "runtime_minutes": 109
+}

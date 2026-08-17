@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moynar_shesh_kotha_2024",
+  "title": "Moynar Shesh Kotha",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125993195",
+    "imdb": "tt32408796"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24"
+}

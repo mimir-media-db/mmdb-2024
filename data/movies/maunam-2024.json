@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maunam_2024",
+  "title": "Maunam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131825158",
+    "imdb": "tt23985630",
+    "tmdb": 1404877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15"
+}

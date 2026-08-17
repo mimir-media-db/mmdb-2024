@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mon_potongo_2024",
+  "title": "Mon Potongo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131429934",
+    "imdb": "tt34142873",
+    "tmdb": 1294911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-13",
+  "runtime_minutes": 149
+}

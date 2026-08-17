@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_boots_2024",
+  "title": "Miss Boots",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131290366",
+    "imdb": "tt27854619",
+    "tmdb": 988367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-29",
+  "runtime_minutes": 113
+}

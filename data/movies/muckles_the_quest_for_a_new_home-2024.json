@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muckles_the_quest_for_a_new_home_2024",
+  "title": "The Muckles - The Quest for a New Home",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106615731",
+    "imdb": "tt21357092",
+    "tmdb": 1020905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-17",
+  "runtime_minutes": 81
+}

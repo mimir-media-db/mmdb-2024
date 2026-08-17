@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malicia_2024",
+  "title": "Malicia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135273619",
+    "imdb": "tt34996885",
+    "tmdb": 1389850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

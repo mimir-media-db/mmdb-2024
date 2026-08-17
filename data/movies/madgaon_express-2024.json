@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madgaon_express_2024",
+  "title": "Madgaon Express",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124797679",
+    "imdb": "tt26745657",
+    "tmdb": 1201015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 143
+}

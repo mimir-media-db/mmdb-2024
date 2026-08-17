@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_may_i_speak_with_the_enemy_2024",
+  "title": "May I Speak with the Enemy?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128826946",
+    "imdb": "tt31809941",
+    "tmdb": 1275209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

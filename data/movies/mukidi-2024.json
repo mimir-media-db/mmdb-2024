@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mukidi_2024",
+  "title": "Mukidi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129173063",
+    "imdb": "tt30876746",
+    "tmdb": 1268161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

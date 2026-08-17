@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manyunya_adventures_in_the_village_2024",
+  "title": "Manyunya: Adventures in the Village",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131358999",
+    "imdb": "tt32235777",
+    "tmdb": 1284384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 88
+}
