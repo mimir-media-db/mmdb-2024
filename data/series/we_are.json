@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are",
+  "title": "We Are",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124889376",
+    "imdb": "tt29768087",
+    "tmdb": 237333
+  },
+  "last_updated": "2026-08-17"
+}

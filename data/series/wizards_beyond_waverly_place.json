@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wizards_beyond_waverly_place",
+  "title": "Wizards Beyond Waverly Place",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124449112",
+    "imdb": "tt31867798",
+    "tmdb": 245026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 35
+}

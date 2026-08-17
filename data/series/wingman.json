@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wingman",
+  "title": "Wingman",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130316944",
+    "imdb": "tt33398867",
+    "tmdb": 78381
+  },
+  "last_updated": "2026-08-17"
+}

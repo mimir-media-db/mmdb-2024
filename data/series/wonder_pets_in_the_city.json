@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wonder_pets_in_the_city",
+  "title": "Wonder Pets: In the City",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132000506",
+    "imdb": "tt33999695",
+    "tmdb": 274382
+  },
+  "last_updated": "2026-08-17"
+}

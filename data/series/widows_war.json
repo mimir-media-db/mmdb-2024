@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_widows_war",
+  "title": "Widows' War",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124391682",
+    "imdb": "tt31078797",
+    "tmdb": 256610
+  },
+  "last_updated": "2026-08-17"
+}
