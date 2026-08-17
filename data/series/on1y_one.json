@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on1y_one",
+  "title": "The On1y One",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q129909962",
+    "imdb": "tt33098983",
+    "tmdb": 241613
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

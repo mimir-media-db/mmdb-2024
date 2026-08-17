@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_or_blanc",
+  "title": "Or blanc",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130596656",
+    "imdb": "tt31954933"
+  },
+  "last_updated": "2026-08-17"
+}

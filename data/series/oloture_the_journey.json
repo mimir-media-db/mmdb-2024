@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oloture_the_journey",
+  "title": "Òlòtūré: The Journey",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130710038",
+    "imdb": "tt31691317",
+    "tmdb": 257206
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

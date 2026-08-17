@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_okura_cold_case_investigation",
+  "title": "Okura: Cold Case Investigation",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131150215",
+    "imdb": "tt33744588",
+    "tmdb": 263035
+  },
+  "last_updated": "2026-08-17"
+}

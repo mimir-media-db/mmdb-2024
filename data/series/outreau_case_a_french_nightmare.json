@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_outreau_case_a_french_nightmare",
+  "title": "The Outreau Case: A French Nightmare",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124737819",
+    "imdb": "tt31358077",
+    "tmdb": 247665
+  },
+  "last_updated": "2026-08-17"
+}
