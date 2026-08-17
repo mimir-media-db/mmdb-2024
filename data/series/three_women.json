@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_three_women",
+  "title": "Three Women",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112161086",
+    "imdb": "tt10732048",
+    "tmdb": 220004
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

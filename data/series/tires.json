@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tires",
+  "title": "Tires",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124767815",
+    "imdb": "tt31491435",
+    "tmdb": 247522
+  },
+  "last_updated": "2026-08-17"
+}

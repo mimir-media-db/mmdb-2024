@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_territory",
+  "title": "Territory",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128765598",
+    "imdb": "tt28703559",
+    "tmdb": 243396
+  },
+  "last_updated": "2026-08-17"
+}

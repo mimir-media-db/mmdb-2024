@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thou_shalt_not_steal",
+  "title": "Thou Shalt Not Steal",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130736285",
+    "imdb": "tt29343883",
+    "tmdb": 235940
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tomorrow_and_i",
+  "title": "Tomorrow and I",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131315112",
+    "imdb": "tt31158590",
+    "tmdb": 271001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

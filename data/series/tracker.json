@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tracker",
+  "title": "Tracker",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123422614",
+    "imdb": "tt13875494",
+    "tmdb": 211288
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 55
+}

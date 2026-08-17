@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_terror_tuesday_extreme",
+  "title": "Terror Tuesday: Extreme",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129432699",
+    "imdb": "tt31158586",
+    "tmdb": 258306
+  },
+  "last_updated": "2026-08-17"
+}

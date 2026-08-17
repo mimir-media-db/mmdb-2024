@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_those_about_to_die",
+  "title": "Those About to Die",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116386275",
+    "imdb": "tt10569934",
+    "tmdb": 218589
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

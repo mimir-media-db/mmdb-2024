@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_taiwan_opera_family",
+  "title": "Taiwan Opera Family",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128229880",
+    "imdb": "tt31913420",
+    "tmdb": 250062
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

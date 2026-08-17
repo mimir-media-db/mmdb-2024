@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truth",
+  "title": "The Truth",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q129169249",
+    "imdb": "tt32316438",
+    "tmdb": 255915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

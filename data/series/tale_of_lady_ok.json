@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_lady_ok",
+  "title": "The Tale of Lady Ok",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q125288592",
+    "imdb": "tt33980640",
+    "tmdb": 226649
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

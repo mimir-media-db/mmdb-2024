@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_truth_about_jim",
+  "title": "The Truth About Jim",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124661324",
+    "imdb": "tt31114733",
+    "tmdb": 245235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}
