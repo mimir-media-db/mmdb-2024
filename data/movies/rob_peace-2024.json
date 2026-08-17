@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rob_peace_2024",
+  "title": "Rob Peace",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120375703",
+    "imdb": "tt10740926",
+    "tmdb": 1084514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-22",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_stanicky_2024",
+  "title": "Ricky Stanicky",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119411068",
+    "imdb": "tt1660648",
+    "tmdb": 1022690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 108
+}

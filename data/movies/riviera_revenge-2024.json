@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riviera_revenge_2024",
+  "title": "Riviera Revenge",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125401247",
+    "imdb": "tt30442596",
+    "tmdb": 1192195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reading_lolita_in_tehran_2024",
+  "title": "Reading Lolita in Tehran",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118368611",
+    "imdb": "tt27679443",
+    "tmdb": 1096846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 108
+}

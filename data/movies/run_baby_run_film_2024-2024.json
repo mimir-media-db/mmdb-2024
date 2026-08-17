@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_baby_run_film_2024_2024",
+  "title": "Run Baby Run (film 2024)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125572163",
+    "imdb": "tt15964556",
+    "tmdb": 1319280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-17"
+}

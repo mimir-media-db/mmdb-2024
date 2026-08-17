@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rap_world_2024",
+  "title": "Rap World",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131632908",
+    "imdb": "tt33478963",
+    "tmdb": 1255834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-24",
+  "runtime_minutes": 56
+}

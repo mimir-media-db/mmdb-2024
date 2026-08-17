@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rainier_a_beer_odyssey_2024",
+  "title": "Rainier: A Beer Odyssey",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133876845",
+    "imdb": "tt32141038",
+    "tmdb": 1275958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-13",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_2024",
+  "title": "River",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333136",
+    "imdb": "tt27695005",
+    "tmdb": 1138476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-10",
+  "runtime_minutes": 82
+}

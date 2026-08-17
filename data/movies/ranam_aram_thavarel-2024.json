@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranam_aram_thavarel_2024",
+  "title": "Ranam Aram Thavarel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124635989",
+    "imdb": "tt27530559",
+    "tmdb": 1246021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabia_2024",
+  "title": "Rabia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131183245",
+    "imdb": "tt33298252",
+    "tmdb": 999142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-27",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_runaway_wrestler_2024",
+  "title": "Runaway Wrestler",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867473",
+    "imdb": "tt28355160",
+    "tmdb": 1151437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-17"
+}

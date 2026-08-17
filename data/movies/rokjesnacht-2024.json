@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rokjesnacht_2024",
+  "title": "Rokjesnacht",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124753781",
+    "imdb": "tt30527412",
+    "tmdb": 1302263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-28"
+}

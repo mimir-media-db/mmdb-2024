@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_royal_in_paradise_2024",
+  "title": "A Royal in Paradise",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136206719",
+    "imdb": "tt21255308",
+    "tmdb": 1012669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

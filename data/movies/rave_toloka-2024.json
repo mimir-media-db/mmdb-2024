@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rave_toloka_2024",
+  "title": "Rave Toloka",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573858",
+    "imdb": "tt31974464",
+    "tmdb": 1245619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-28",
+  "runtime_minutes": 60
+}

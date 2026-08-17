@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_country_2024",
+  "title": "Rebel Country",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131422321",
+    "imdb": "tt32140819",
+    "tmdb": 1278724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-10"
+}

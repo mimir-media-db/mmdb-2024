@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_one_2024",
+  "title": "Red One",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114876737",
+    "imdb": "tt14948432",
+    "tmdb": 845781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07",
+  "runtime_minutes": 102
+}
