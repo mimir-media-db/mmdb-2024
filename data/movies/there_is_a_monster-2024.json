@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_a_monster_2024",
+  "title": "There Is a Monster",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125523350",
+    "imdb": "tt23037638",
+    "tmdb": 1237059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-30",
+  "runtime_minutes": 82
+}

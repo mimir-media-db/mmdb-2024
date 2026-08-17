@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tumbbad_2024",
+  "title": "Tumbbad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56279881",
+    "imdb": "tt8239946",
+    "tmdb": 538858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-15",
+  "runtime_minutes": 104
+}

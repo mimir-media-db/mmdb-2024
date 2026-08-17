@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tera_kya_hoga_lovely_2024",
+  "title": "Tera Kya Hoga Lovely",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104880249",
+    "imdb": "tt13288022",
+    "tmdb": 753522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

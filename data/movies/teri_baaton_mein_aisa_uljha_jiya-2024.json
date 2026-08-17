@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teri_baaton_mein_aisa_uljha_jiya_2024",
+  "title": "Teri Baaton Mein Aisa Uljha Jiya",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124260479",
+    "imdb": "tt27459160",
+    "tmdb": 1110390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 132
+}

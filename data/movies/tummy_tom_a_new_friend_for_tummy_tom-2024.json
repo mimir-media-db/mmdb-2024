@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tummy_tom_a_new_friend_for_tummy_tom_2024",
+  "title": "Tummy Tom: A New Friend for Tummy Tom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131717598",
+    "imdb": "tt33996084",
+    "tmdb": 1308068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-18"
+}

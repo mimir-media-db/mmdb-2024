@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_timescape_2024",
+  "title": "Timescape",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113903744",
+    "imdb": "tt9672824",
+    "tmdb": 948163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-09"
+}

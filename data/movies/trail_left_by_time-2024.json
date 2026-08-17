@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trail_left_by_time_2024",
+  "title": "The Trail Left by Time",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131712272",
+    "imdb": "tt27548113",
+    "tmdb": 1146313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-30",
+  "runtime_minutes": 83
+}

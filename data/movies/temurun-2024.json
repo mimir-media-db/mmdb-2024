@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_temurun_2024",
+  "title": "Temurun",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355399",
+    "imdb": "tt30833435",
+    "tmdb": 1264429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-30"
+}

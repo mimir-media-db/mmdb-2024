@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thundermans_return_2024",
+  "title": "The Thundermans Return",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117437274",
+    "imdb": "tt26943420",
+    "tmdb": 1094556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 70
+}

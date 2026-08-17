@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_totem_2024",
+  "title": "Totem",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124372029",
+    "imdb": "tt21620748",
+    "tmdb": 1029864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06",
+  "runtime_minutes": 93
+}

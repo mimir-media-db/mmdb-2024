@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_two_sisters_2024",
+  "title": "A Tale of Two Sisters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131597607",
+    "imdb": "tt23840698",
+    "tmdb": 1403769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-27"
+}

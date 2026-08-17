@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turtles_2024",
+  "title": "Turtles",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123223028",
+    "imdb": "tt23183578",
+    "tmdb": 959892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 83
+}

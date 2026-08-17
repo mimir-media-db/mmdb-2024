@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_my_mother_2024",
+  "title": "This Is My Mother",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124672645",
+    "imdb": "tt25386452",
+    "tmdb": 1045842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_mr_doodle_2024",
+  "title": "The Trouble with Mr Doodle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124853362",
+    "imdb": "tt30835231",
+    "tmdb": 1229916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turtles_all_the_way_down_2024",
+  "title": "Turtles All the Way Down",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112672843",
+    "imdb": "tt7737224",
+    "tmdb": 574451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02"
+}

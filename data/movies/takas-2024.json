@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_takas_2024",
+  "title": "Takas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124713273",
+    "imdb": "tt31157326",
+    "tmdb": 1226304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-13"
+}

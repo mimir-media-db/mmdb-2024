@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teasing_master_takagisan_movie_2024",
+  "title": "Teasing Master Takagi-san Movie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124313838",
+    "imdb": "tt30971598",
+    "tmdb": 1210989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-31",
+  "runtime_minutes": 119
+}

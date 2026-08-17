@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twst_things_we_said_today_2024",
+  "title": "TWST / Things We Said Today",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134398288",
+    "imdb": "tt33029977",
+    "tmdb": 1320381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-04",
+  "runtime_minutes": 85
+}

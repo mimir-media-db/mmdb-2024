@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trash_2024",
+  "title": "Trash",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136428328",
+    "imdb": "tt37206140",
+    "tmdb": 1468559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

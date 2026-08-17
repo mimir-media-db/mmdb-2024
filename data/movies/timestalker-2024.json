@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_timestalker_2024",
+  "title": "Timestalker",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805331",
+    "imdb": "tt7340766",
+    "tmdb": 706693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 96
+}

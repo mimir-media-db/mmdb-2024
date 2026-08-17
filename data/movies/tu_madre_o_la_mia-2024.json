@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_madre_o_la_mia_2024",
+  "title": "Tu madre o la mía",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128305931",
+    "imdb": "tt28022733",
+    "tmdb": 1187311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

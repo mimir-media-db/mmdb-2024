@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taxali_gate_2024",
+  "title": "Taxali Gate",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124809577",
+    "imdb": "tt27675815",
+    "tmdb": 1232280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

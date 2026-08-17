@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trinil_kembalikan_tubuhku_2024",
+  "title": "Trinil: Kembalikan Tubuhku",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124445391",
+    "imdb": "tt23711186",
+    "tmdb": 1214905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04",
+  "runtime_minutes": 101
+}

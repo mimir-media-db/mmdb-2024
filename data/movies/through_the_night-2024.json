@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_the_night_2024",
+  "title": "Through the Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112167510",
+    "imdb": "tt16968976",
+    "tmdb": 925124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 108
+}

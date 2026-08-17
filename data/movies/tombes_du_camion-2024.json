@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tombes_du_camion_2024",
+  "title": "Tombés du camion",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124614084",
+    "imdb": "tt28776444",
+    "tmdb": 1084869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-28",
+  "runtime_minutes": 89
+}
