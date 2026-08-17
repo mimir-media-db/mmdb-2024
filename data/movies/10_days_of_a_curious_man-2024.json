@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_days_of_a_curious_man_2024",
+  "title": "10 Days of a Curious Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122462923",
+    "imdb": "tt28713370",
+    "tmdb": 1169361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07",
+  "runtime_minutes": 110
+}
