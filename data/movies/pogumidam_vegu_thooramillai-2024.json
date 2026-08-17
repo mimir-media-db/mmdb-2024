@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pogumidam_vegu_thooramillai_2024",
+  "title": "Pogumidam Vegu Thooramillai",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129431278",
+    "imdb": "tt32402578",
+    "tmdb": 1329956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-23"
+}

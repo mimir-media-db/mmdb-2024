@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punyu_katsu_ippai_daisuki_2024",
+  "title": "Punyu katsu: Ippai daisuki",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132444569",
+    "imdb": "tt35131163",
+    "tmdb": 1405264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-13"
+}

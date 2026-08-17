@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peaches_goes_bananas_2024",
+  "title": "Peaches Goes Bananas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130255692",
+    "imdb": "tt30327721",
+    "tmdb": 1268422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 73
+}

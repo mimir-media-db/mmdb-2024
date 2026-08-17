@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penascal_2024",
+  "title": "Peñascal",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140377209",
+    "imdb": "tt32597420",
+    "tmdb": 1323631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 15
+}

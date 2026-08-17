@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_is_burning_2024",
+  "title": "Paradise Is Burning",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117818579",
+    "imdb": "tt21874690",
+    "tmdb": 872508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-19",
+  "runtime_minutes": 108
+}

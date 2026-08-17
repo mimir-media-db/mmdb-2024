@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panda_plan_2024",
+  "title": "Panda Plan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131690947",
+    "imdb": "tt28630624",
+    "tmdb": 1160956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-01"
+}

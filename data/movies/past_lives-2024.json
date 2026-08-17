@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_past_lives_2024",
+  "title": "Past Lives",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116025865",
+    "imdb": "tt13238346",
+    "tmdb": 666277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 106
+}

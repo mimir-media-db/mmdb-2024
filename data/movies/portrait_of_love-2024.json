@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_love_2024",
+  "title": "A Portrait of Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126855973",
+    "imdb": "tt35553554",
+    "tmdb": 1229868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-19",
+  "runtime_minutes": 90
+}

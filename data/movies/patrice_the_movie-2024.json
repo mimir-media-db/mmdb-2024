@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patrice_the_movie_2024",
+  "title": "Patrice: The Movie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131573479",
+    "imdb": "tt30342963",
+    "tmdb": 1326895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

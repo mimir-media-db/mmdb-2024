@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prepare_to_die_2024",
+  "title": "Prepare to Die",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135649175",
+    "imdb": "tt28972404",
+    "tmdb": 1217410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 93
+}

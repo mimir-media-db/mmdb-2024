@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_professionals_2024",
+  "title": "The Professionals",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123998459",
+    "imdb": "tt30869622",
+    "tmdb": 1197989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04"
+}

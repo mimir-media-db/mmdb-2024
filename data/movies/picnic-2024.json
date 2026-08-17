@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_picnic_2024",
+  "title": "Picnic",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124804941",
+    "imdb": "tt29579024",
+    "tmdb": 1115168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paolo_conte_alla_scala_2024",
+  "title": "Paolo Conte Alla Scala",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127513822",
+    "imdb": "tt30089360",
+    "tmdb": 1210219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pulled_pork_2024",
+  "title": "Pulled Pork",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116352448",
+    "imdb": "tt28335725",
+    "tmdb": 1187640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-11"
+}

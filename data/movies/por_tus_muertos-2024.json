@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_por_tus_muertos_2024",
+  "title": "Por tus muertos",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123929910",
+    "imdb": "tt29451310",
+    "tmdb": 1209304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

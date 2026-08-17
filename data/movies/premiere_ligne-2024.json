@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premiere_ligne_2024",
+  "title": "Première Ligne",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139393307",
+    "imdb": "tt33077039",
+    "tmdb": 1326064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

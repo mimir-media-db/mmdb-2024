@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_powder_2024",
+  "title": "Powder",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125935868",
+    "imdb": "tt28792979",
+    "tmdb": 1225414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-23"
+}

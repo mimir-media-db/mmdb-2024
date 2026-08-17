@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pandoras_legacy_2024",
+  "title": "Pandora's Legacy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125919403",
+    "imdb": "tt19721190",
+    "tmdb": 1219798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-17",
+  "runtime_minutes": 89
+}

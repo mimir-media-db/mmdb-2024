@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pariah_2024",
+  "title": "Pariah",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124370506",
+    "imdb": "tt30777379",
+    "tmdb": 1044677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

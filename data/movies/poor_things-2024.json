@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poor_things_2024",
+  "title": "Poor Things",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108760382",
+    "imdb": "tt14230458",
+    "tmdb": 792307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 141
+}

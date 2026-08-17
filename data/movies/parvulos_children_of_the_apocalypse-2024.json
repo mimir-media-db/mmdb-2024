@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parvulos_children_of_the_apocalypse_2024",
+  "title": "Párvulos: Children of the Apocalypse",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131387995",
+    "imdb": "tt28800662",
+    "tmdb": 1199974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_with_the_kids_2024",
+  "title": "Playing with the Kids",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126478147",
+    "imdb": "tt33658805",
+    "tmdb": 1261562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-12",
+  "runtime_minutes": 95
+}

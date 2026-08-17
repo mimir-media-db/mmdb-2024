@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pop_out_ken_friends_2024",
+  "title": "The Pop Out: Ken & Friends",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130302085",
+    "imdb": "tt32655276",
+    "tmdb": 1306624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-19",
+  "runtime_minutes": 257
+}

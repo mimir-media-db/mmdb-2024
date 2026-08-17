@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pimp_my_bride_2024",
+  "title": "Pimp My Bride",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130305624",
+    "imdb": "tt32373672",
+    "tmdb": 1235502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-25"
+}
