@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_breathe_2024",
+  "title": "Just Breathe",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130369929",
+    "imdb": "tt15865914",
+    "tmdb": 1219529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05",
+  "runtime_minutes": 98
+}

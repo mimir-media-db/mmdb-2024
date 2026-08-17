@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jenseits_von_schuld_2024",
+  "title": "Jenseits von Schuld",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127867791",
+    "imdb": "tt32344168",
+    "tmdb": 1283602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-19",
+  "runtime_minutes": 79
+}

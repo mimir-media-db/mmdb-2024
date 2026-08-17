@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_just_one_spring_2024",
+  "title": "Just One Spring",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130362802"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-19"
+}

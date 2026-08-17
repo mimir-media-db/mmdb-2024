@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jee_ve_sohneya_jee_2024",
+  "title": "Jee Ve Sohneya Jee",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124685538",
+    "imdb": "tt28554201",
+    "tmdb": 1239837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16",
+  "runtime_minutes": 141
+}

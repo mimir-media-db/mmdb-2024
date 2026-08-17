@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jango_edwards_el_hombre_el_mito_y_la_leyenda_2024",
+  "title": "Jango Edwards: el hombre, el mito y la leyenda",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126470645",
+    "imdb": "tt7946720",
+    "tmdb": 1243134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 45
+}

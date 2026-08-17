@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_zorn_i_ii_2024",
+  "title": "John Zorn I & II",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125553822",
+    "imdb": "tt23027520",
+    "tmdb": 507942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-25",
+  "runtime_minutes": 103
+}

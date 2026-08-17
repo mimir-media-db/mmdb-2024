@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_juni_2024",
+  "title": "Juni",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124619814",
+    "imdb": "tt30873611",
+    "tmdb": 1242433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

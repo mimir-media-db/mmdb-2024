@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jumping_the_fence_2024",
+  "title": "Jumping the Fence",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124576850",
+    "imdb": "tt15289660",
+    "tmdb": 1053588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-12",
+  "runtime_minutes": 85
+}

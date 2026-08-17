@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_juliette_au_printemps_2024",
+  "title": "Juliette au printemps",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125820300",
+    "imdb": "tt30835760",
+    "tmdb": 1000965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

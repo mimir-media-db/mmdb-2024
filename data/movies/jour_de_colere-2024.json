@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jour_de_colere_2024",
+  "title": "Jour de colère",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130265360",
+    "imdb": "tt10809702",
+    "tmdb": 872726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-16"
+}

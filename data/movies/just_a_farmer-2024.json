@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_farmer_2024",
+  "title": "Just a Farmer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135920270",
+    "imdb": "tt28433016",
+    "tmdb": 1225785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

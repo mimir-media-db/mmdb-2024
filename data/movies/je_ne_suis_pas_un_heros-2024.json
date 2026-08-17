@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_suis_pas_un_heros_2024",
+  "title": "Je ne suis pas un héros",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122761093",
+    "imdb": "tt29198884",
+    "tmdb": 1004255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01",
+  "runtime_minutes": 101
+}

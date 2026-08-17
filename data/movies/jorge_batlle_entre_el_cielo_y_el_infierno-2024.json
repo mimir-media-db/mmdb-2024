@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jorge_batlle_entre_el_cielo_y_el_infierno_2024",
+  "title": "Jorge Batlle: entre el cielo y el infierno",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127723790",
+    "imdb": "tt34579881"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

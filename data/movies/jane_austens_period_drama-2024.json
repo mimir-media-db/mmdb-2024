@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_austens_period_drama_2024",
+  "title": "Jane Austen's Period Drama",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137459089",
+    "imdb": "tt31171760",
+    "tmdb": 1272266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 13
+}

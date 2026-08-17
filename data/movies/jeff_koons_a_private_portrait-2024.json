@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeff_koons_a_private_portrait_2024",
+  "title": "Jeff Koons: A Private Portrait",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123126612",
+    "imdb": "tt29639021",
+    "tmdb": 1183749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-28",
+  "runtime_minutes": 80
+}
