@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_52hertz_whales_2024",
+  "title": "52-Hertz Whales",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136694959",
+    "imdb": "tt31712586",
+    "tmdb": 1205386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01"
+}

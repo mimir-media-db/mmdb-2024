@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_570_2024",
+  "title": "570",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104218405",
+    "imdb": "tt15193662",
+    "tmdb": 1283657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15"
+}
