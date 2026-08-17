@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shinjuku_field_hospital",
+  "title": "Shinjuku Field Hospital",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126003647",
+    "imdb": "tt32731577",
+    "tmdb": 257513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

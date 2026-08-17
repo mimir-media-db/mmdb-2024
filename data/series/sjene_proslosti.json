@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sjene_proslosti",
+  "title": "Sjene prošlosti",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q127966934",
+    "imdb": "tt33030426",
+    "tmdb": 262364
+  },
+  "last_updated": "2026-08-17"
+}

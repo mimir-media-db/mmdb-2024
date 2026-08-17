@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sram",
+  "title": "Sram",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126925960",
+    "imdb": "tt32062031",
+    "tmdb": 263208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

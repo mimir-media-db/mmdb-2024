@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_pearl_girl",
+  "title": "The Story of Pearl Girl",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131005454",
+    "imdb": "tt29362951",
+    "tmdb": 240440
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_stars_on_stage",
+  "title": "Stars on Stage",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124151395",
+    "imdb": "tt33615811"
+  },
+  "last_updated": "2026-08-17"
+}

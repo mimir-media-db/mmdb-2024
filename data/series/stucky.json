@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_stucky",
+  "title": "Stucky",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131197048",
+    "imdb": "tt32868688"
+  },
+  "last_updated": "2026-08-17"
+}

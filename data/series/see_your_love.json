@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_see_your_love",
+  "title": "See Your Love",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130571200",
+    "imdb": "tt33540940",
+    "tmdb": 253357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

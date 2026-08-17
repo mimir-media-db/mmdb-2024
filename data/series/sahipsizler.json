@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sahipsizler",
+  "title": "Sahipsizler",
+  "start_year": 2024,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135404686",
+    "imdb": "tt33349183",
+    "tmdb": 271548
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 51
+}

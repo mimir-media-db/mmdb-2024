@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sacchan_boku_wa",
+  "title": "Sacchan, Boku wa.",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126687235",
+    "imdb": "tt32600458",
+    "tmdb": 253451
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
