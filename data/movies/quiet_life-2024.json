@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_life_2024",
+  "title": "Quiet Life",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129836719",
+    "imdb": "tt33030320",
+    "tmdb": 1003722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 99
+}

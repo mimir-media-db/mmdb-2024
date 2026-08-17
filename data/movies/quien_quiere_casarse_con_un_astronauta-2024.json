@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_quiere_casarse_con_un_astronauta_2024",
+  "title": "¿Quién quiere casarse con un Astronauta?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131581642",
+    "imdb": "tt21257364",
+    "tmdb": 1254754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_my_dreams_2024",
+  "title": "The Queen of My Dreams",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121303161",
+    "imdb": "tt21876438",
+    "tmdb": 1122584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09",
+  "runtime_minutes": 97
+}

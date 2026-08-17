@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_ones_2024",
+  "title": "The Quiet Ones",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131419924",
+    "imdb": "tt32887283",
+    "tmdb": 1261050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-31",
+  "runtime_minutes": 110
+}

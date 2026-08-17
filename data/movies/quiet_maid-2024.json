@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_maid_2024",
+  "title": "The Quiet Maid",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125417942",
+    "imdb": "tt18291892",
+    "tmdb": 1188853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-04",
+  "runtime_minutes": 94
+}
