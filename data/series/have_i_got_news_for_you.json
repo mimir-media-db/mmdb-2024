@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_have_i_got_news_for_you",
+  "title": "Have I Got News for You",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130344527",
+    "imdb": "tt33096993",
+    "tmdb": 261507
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

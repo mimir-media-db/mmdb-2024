@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_street",
+  "title": "High Street",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125784344",
+    "imdb": "tt31976297",
+    "tmdb": 253333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_con_queen",
+  "title": "Hollywood Con Queen",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125760082",
+    "imdb": "tt32123951",
+    "tmdb": 251927
+  },
+  "last_updated": "2026-08-17"
+}

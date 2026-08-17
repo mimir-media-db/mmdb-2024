@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hunting_a_monster",
+  "title": "Hunting a monster",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130270426",
+    "imdb": "tt33050454",
+    "tmdb": 258847
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_potential",
+  "title": "High Potential",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129206932",
+    "imdb": "tt22091076",
+    "tmdb": 226637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

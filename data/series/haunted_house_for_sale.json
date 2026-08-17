@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_house_for_sale",
+  "title": "Haunted House for Sale",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125983894",
+    "imdb": "tt32362462",
+    "tmdb": 231782
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}
