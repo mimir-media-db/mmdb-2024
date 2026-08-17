@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_im_a_celebrity_unpacked",
+  "title": "I'm a Celebrity: Unpacked",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137723083",
+    "imdb": "tt34375633",
+    "tmdb": 275715
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_in_memoriam",
+  "title": "In Memoriam",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125408835",
+    "imdb": "tt28013728",
+    "tmdb": 242895
+  },
+  "last_updated": "2026-08-17"
+}

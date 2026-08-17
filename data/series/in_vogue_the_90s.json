@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_vogue_the_90s",
+  "title": "In Vogue: The 90s",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137919789",
+    "imdb": "tt28338483",
+    "tmdb": 233282
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

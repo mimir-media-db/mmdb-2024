@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_reign",
+  "title": "Iron Reign",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124632963",
+    "imdb": "tt23806252",
+    "tmdb": 242875
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
