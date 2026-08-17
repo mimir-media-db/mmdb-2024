@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boomer_uncle_2024",
+  "title": "Boomer Uncle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125536219",
+    "imdb": "tt23857200",
+    "tmdb": 1054770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

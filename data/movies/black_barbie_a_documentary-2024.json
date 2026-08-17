@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_barbie_a_documentary_2024",
+  "title": "Black Barbie: A Documentary",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126368697",
+    "imdb": "tt26593387",
+    "tmdb": 1081709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-19"
+}

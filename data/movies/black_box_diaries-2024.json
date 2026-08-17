@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_box_diaries_2024",
+  "title": "Black Box Diaries",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124365850",
+    "imdb": "tt30227076",
+    "tmdb": 1214499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-20",
+  "runtime_minutes": 103
+}

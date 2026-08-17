@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blitz_2024",
+  "title": "Blitz",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115616116",
+    "imdb": "tt15939198",
+    "tmdb": 896151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-09",
+  "runtime_minutes": 114
+}

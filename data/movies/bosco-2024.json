@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bosco_2024",
+  "title": "Bosco",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124260478",
+    "imdb": "tt17633634",
+    "tmdb": 1175351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_storm_2024",
+  "title": "Before the Storm",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121302642",
+    "imdb": "tt21042810",
+    "tmdb": 1203506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 86
+}

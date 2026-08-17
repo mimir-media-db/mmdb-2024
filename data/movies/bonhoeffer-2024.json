@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonhoeffer_2024",
+  "title": "Bonhoeffer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117376325",
+    "imdb": "tt26237514",
+    "tmdb": 1079244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

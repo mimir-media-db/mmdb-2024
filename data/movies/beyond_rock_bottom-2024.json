@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_rock_bottom_2024",
+  "title": "Beyond Rock Bottom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131580773",
+    "imdb": "tt31393102"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05",
+  "runtime_minutes": 86
+}

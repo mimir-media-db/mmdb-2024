@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_eviction_2024",
+  "title": "Berlin Eviction",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125149220",
+    "imdb": "tt30985649",
+    "tmdb": 1237005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-26",
+  "runtime_minutes": 92
+}

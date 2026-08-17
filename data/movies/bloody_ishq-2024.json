@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_ishq_2024",
+  "title": "Bloody Ishq",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127566781",
+    "imdb": "tt31115432",
+    "tmdb": 1317911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-26"
+}

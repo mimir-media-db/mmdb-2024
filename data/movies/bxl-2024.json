@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bxl_2024",
+  "title": "BXL",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130493017",
+    "imdb": "tt33022333",
+    "tmdb": 889813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bachelor_party_2024",
+  "title": "Bachelor Party",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124007194",
+    "imdb": "tt27424501",
+    "tmdb": 1019258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26"
+}

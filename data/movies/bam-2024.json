@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bam_2024",
+  "title": "BAM!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128640059",
+    "imdb": "tt21334360",
+    "tmdb": 1131175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 80
+}

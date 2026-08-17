@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_blanche_houellebecq_2024",
+  "title": "Being Blanche Houellebecq",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124733934",
+    "imdb": "tt29383085",
+    "tmdb": 1043899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-26",
+  "runtime_minutes": 88
+}

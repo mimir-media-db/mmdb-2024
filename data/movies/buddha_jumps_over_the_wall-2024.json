@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddha_jumps_over_the_wall_2024",
+  "title": "Buddha jumps over the wall",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136261490",
+    "imdb": "tt31153896",
+    "tmdb": 1259010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 83
+}

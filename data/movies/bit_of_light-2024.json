@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bit_of_light_2024",
+  "title": "A Bit of Light",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125213955",
+    "imdb": "tt15662700",
+    "tmdb": 952869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-05",
+  "runtime_minutes": 98
+}

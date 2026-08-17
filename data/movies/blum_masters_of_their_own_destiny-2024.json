@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blum_masters_of_their_own_destiny_2024",
+  "title": "Blum: Masters of Their Own Destiny",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136305328",
+    "imdb": "tt36595425",
+    "tmdb": 1078264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08",
+  "runtime_minutes": 76
+}

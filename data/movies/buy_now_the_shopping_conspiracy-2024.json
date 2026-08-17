@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buy_now_the_shopping_conspiracy_2024",
+  "title": "Buy Now! The Shopping Conspiracy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131196655",
+    "imdb": "tt34350086",
+    "tmdb": 1376704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-20",
+  "runtime_minutes": 84
+}

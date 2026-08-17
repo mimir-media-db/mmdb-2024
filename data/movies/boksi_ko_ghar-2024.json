@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boksi_ko_ghar_2024",
+  "title": "Boksi Ko Ghar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125663968",
+    "imdb": "tt32332133",
+    "tmdb": 1257567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-26",
+  "runtime_minutes": 116
+}

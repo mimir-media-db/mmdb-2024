@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balto_iv_wolf_destiny_2024",
+  "title": "Balto IV: Wolf Destiny",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118903228",
+    "imdb": "tt14698784"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-24",
+  "runtime_minutes": 74
+}

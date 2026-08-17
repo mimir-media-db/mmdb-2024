@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_2024",
+  "title": "The Body",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131064889",
+    "imdb": "tt28784834",
+    "tmdb": 1198877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 115
+}

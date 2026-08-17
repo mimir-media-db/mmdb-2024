@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bramayugam_2024",
+  "title": "Bramayugam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121842080",
+    "imdb": "tt27431598",
+    "tmdb": 1166133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barba_ensopada_de_sangue_2024",
+  "title": "Barba Ensopada de Sangue",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130642111",
+    "imdb": "tt19049226",
+    "tmdb": 1078801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 108
+}

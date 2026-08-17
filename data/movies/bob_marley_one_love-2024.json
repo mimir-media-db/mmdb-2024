@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_marley_one_love_2024",
+  "title": "Bob Marley: One Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112341432",
+    "imdb": "tt8521778",
+    "tmdb": 802219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-14",
+  "runtime_minutes": 104
+}

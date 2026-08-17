@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_temples_2024",
+  "title": "Between the Temples",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123690367",
+    "imdb": "tt27722375",
+    "tmdb": 1125073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-23",
+  "runtime_minutes": 111
+}

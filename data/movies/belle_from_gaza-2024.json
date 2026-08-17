@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belle_from_gaza_2024",
+  "title": "The Belle from Gaza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125830099",
+    "imdb": "tt31551124",
+    "tmdb": 1261533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-17",
+  "runtime_minutes": 76
+}

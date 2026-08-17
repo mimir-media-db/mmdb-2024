@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bu_tejo_sowan_jakarta_2024",
+  "title": "Bu Tejo Sowan Jakarta",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124325409",
+    "imdb": "tt30400709",
+    "tmdb": 1211275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 93
+}

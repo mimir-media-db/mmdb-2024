@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badland_hunters_2024",
+  "title": "Badland Hunters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123469290",
+    "imdb": "tt29722855",
+    "tmdb": 933131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26"
+}

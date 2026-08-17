@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bijoyar_pore_2024",
+  "title": "Bijoyar Pore",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124373515",
+    "imdb": "tt30843854",
+    "tmdb": 903861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12"
+}

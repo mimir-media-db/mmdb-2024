@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buzzy_noise_2024",
+  "title": "Buzzy Noise",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482885",
+    "imdb": "tt31680243",
+    "tmdb": 1219566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

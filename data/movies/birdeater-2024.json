@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birdeater_2024",
+  "title": "Birdeater",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118274978",
+    "imdb": "tt20674132",
+    "tmdb": 1114137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

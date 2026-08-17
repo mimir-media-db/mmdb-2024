@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blame_the_game_2024",
+  "title": "Blame the Game",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125602822",
+    "imdb": "tt28301898",
+    "tmdb": 1172648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-12",
+  "runtime_minutes": 92
+}

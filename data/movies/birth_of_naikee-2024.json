@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_naikee_2024",
+  "title": "The Birth of Naikee",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130581705",
+    "imdb": "tt31691613",
+    "tmdb": 1244664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_sunshine_2024",
+  "title": "Blue Sunshine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128631096",
+    "imdb": "tt28671772",
+    "tmdb": 1166041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

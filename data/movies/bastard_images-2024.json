@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastard_images_2024",
+  "title": "The Bastard Images",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129867680",
+    "imdb": "tt35955456",
+    "tmdb": 1318221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_front_live_in_london_2024",
+  "title": "Back to Front: Live in London",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124654573",
+    "imdb": "tt6543400",
+    "tmdb": 278535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beverly_hills_cop_axel_f_2024",
+  "title": "Beverly Hills Cop: Axel F",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113650759",
+    "imdb": "tt3083016",
+    "tmdb": 280180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-03",
+  "runtime_minutes": 157
+}

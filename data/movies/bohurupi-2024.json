@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bohurupi_2024",
+  "title": "Bohurupi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130288346",
+    "imdb": "tt32857110",
+    "tmdb": 1257622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_tea_2024",
+  "title": "Black Tea",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124324096",
+    "imdb": "tt21994228",
+    "tmdb": 662402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-28",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babli_2024",
+  "title": "Babli",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128208700",
+    "imdb": "tt33054695",
+    "tmdb": 1225107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15"
+}

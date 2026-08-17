@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharga_2024",
+  "title": "Bharga",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130400915",
+    "imdb": "tt33454418",
+    "tmdb": 1362805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhakshak_2024",
+  "title": "Bhakshak",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124323601",
+    "imdb": "tt27936770",
+    "tmdb": 1227136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 135
+}

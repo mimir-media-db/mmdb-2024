@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_box_2024",
+  "title": "The Box",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140299811",
+    "imdb": "tt24020726",
+    "tmdb": 1276916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

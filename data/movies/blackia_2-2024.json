@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blackia_2_2024",
+  "title": "Blackia 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684537",
+    "imdb": "tt28282203",
+    "tmdb": 1253059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

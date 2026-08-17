@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_2024",
+  "title": "Baby",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125486797",
+    "imdb": "tt32119268",
+    "tmdb": 1274746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 107
+}

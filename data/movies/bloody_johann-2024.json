@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_johann_2024",
+  "title": "Bloody Johann",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113362745",
+    "imdb": "tt31919760",
+    "tmdb": 1213913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 90
+}
