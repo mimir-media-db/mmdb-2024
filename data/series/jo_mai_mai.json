@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jo_mai_mai",
+  "title": "Jo mai mai",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124034153",
+    "imdb": "tt28220415",
+    "tmdb": 243300
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

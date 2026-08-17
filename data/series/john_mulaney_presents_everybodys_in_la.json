@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_john_mulaney_presents_everybodys_in_la",
+  "title": "John Mulaney Presents: Everybody's in LA",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125997059",
+    "imdb": "tt32053847",
+    "tmdb": 251414
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
