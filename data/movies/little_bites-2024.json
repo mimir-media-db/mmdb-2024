@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_bites_2024",
+  "title": "Little Bites",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130433127",
+    "imdb": "tt27725206",
+    "tmdb": 1139095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-04",
+  "runtime_minutes": 106
+}

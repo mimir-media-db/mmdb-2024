@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_live_servatius_2024",
+  "title": "Long Live Servatius!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19703350",
+    "imdb": "tt0154051",
+    "tmdb": 957472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-29"
+}

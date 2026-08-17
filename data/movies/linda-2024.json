@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_linda_2024",
+  "title": "Linda",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130308277",
+    "imdb": "tt33035303",
+    "tmdb": 1297185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-05",
+  "runtime_minutes": 100
+}

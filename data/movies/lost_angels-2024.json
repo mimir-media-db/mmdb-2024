@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_angels_2024",
+  "title": "Lost Angels",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133260337",
+    "imdb": "tt27811889",
+    "tmdb": 1330216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

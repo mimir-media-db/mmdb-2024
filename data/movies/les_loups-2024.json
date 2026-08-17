@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_loups_2024",
+  "title": "Les Loups",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132888785",
+    "imdb": "tt36106713",
+    "tmdb": 1301346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-27"
+}

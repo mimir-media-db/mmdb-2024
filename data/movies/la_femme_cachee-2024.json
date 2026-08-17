@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_femme_cachee_2024",
+  "title": "La Femme cachée",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127424542",
+    "imdb": "tt32306046",
+    "tmdb": 1001320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-07",
+  "runtime_minutes": 101
+}

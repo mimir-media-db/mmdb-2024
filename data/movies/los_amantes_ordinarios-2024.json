@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_amantes_ordinarios_2024",
+  "title": "Los amantes ordinarios",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130288165",
+    "imdb": "tt27610071",
+    "tmdb": 1308168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

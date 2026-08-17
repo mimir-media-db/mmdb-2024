@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_banda_del_pati_2024",
+  "title": "La banda del pati",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127506026",
+    "imdb": "tt32843532",
+    "tmdb": 1317593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-23"
+}

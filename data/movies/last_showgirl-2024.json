@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_showgirl_2024",
+  "title": "The Last Showgirl",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124547601",
+    "imdb": "tt31193791",
+    "tmdb": 1235499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

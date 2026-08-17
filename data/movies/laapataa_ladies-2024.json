@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laapataa_ladies_2024",
+  "title": "Laapataa Ladies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124714626",
+    "imdb": "tt21626284",
+    "tmdb": 1163194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01",
+  "runtime_minutes": 124
+}

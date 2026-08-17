@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_familia_beneton_2024",
+  "title": "La familia Benetón",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123457750",
+    "imdb": "tt29138109",
+    "tmdb": 1181511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 93
+}

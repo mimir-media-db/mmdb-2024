@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lima_is_burning_2024",
+  "title": "Lima is Burning",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123509455",
+    "tmdb": 1194981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-30"
+}

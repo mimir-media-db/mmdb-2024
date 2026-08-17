@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_barbaros_2024",
+  "title": "Los bárbaros",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137274561",
+    "imdb": "tt23649514",
+    "tmdb": 1478178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

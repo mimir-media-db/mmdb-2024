@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_dissolution_du_paysage_2024",
+  "title": "La dissolution du paysage",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128918542",
+    "imdb": "tt31491108",
+    "tmdb": 1251572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 24
+}

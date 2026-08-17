@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laura_2024",
+  "title": "Laura",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130304999",
+    "imdb": "tt31031881",
+    "tmdb": 1262471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-12",
+  "runtime_minutes": 104
+}

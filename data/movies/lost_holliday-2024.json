@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_holliday_2024",
+  "title": "The Lost Holliday",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129033617",
+    "imdb": "tt29352944",
+    "tmdb": 1355076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27"
+}

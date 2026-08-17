@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_beau_role_2024",
+  "title": "Le Beau Rôle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131413098",
+    "imdb": "tt33073915",
+    "tmdb": 1315540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-18"
+}

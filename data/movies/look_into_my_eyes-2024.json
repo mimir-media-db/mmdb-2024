@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_look_into_my_eyes_2024",
+  "title": "Look Into My Eyes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123738052",
+    "imdb": "tt19121796",
+    "tmdb": 951029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 108
+}

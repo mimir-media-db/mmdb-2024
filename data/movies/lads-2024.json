@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lads_2024",
+  "title": "Lads",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133503173",
+    "imdb": "tt30609236",
+    "tmdb": 1126699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_marsellesa_de_los_borrachos_2024",
+  "title": "La marsellesa de los borrachos",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132293411",
+    "imdb": "tt34716502",
+    "tmdb": 1362922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 96
+}

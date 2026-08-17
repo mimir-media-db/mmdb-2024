@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_bodins_enquetent_en_corse_2024",
+  "title": "Les Bodin's enquêtent en Corse",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128919435",
+    "imdb": "tt31321909",
+    "tmdb": 1146263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

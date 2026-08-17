@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luckiest_man_in_america_2024",
+  "title": "The Luckiest Man in America",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125861561",
+    "imdb": "tt32331377",
+    "tmdb": 1288070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-05",
+  "runtime_minutes": 90
+}

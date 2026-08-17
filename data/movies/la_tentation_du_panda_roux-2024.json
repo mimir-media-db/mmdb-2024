@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tentation_du_panda_roux_2024",
+  "title": "La tentation du panda roux",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130529589",
+    "imdb": "tt34854540",
+    "tmdb": 1223895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

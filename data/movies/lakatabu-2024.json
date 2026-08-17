@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakatabu_2024",
+  "title": "Lakatabu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130789412",
+    "imdb": "tt32631962",
+    "tmdb": 1306592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

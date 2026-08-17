@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_baskhar_2024",
+  "title": "Lucky Baskhar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125453590",
+    "imdb": "tt27540542",
+    "tmdb": 1239511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-31",
+  "runtime_minutes": 151
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_culpa_de_nada_2024",
+  "title": "La culpa de nada",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134621384",
+    "imdb": "tt33356241",
+    "tmdb": 1308643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

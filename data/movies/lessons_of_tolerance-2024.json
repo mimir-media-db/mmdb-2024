@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lessons_of_tolerance_2024",
+  "title": "Lessons Of Tolerance",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124636788",
+    "imdb": "tt29561824",
+    "tmdb": 1185207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-14",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lolo_and_the_kid_2024",
+  "title": "Lolo and the Kid",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128799555",
+    "imdb": "tt32921458",
+    "tmdb": 1317887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-07",
+  "runtime_minutes": 97
+}

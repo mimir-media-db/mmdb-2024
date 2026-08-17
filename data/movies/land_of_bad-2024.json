@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_bad_2024",
+  "title": "Land of Bad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117176605",
+    "imdb": "tt19864802",
+    "tmdb": 969492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16",
+  "runtime_minutes": 6826
+}

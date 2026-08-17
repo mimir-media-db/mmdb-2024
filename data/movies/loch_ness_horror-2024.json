@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loch_ness_horror_2024",
+  "title": "The Loch Ness Horror",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134741291",
+    "imdb": "tt15481986",
+    "tmdb": 981347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-12",
+  "runtime_minutes": 79
+}

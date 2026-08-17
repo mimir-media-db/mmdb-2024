@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lazaro_at_night_2024",
+  "title": "Lázaro at Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129744056",
+    "imdb": "tt33084901",
+    "tmdb": 1301235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 76
+}

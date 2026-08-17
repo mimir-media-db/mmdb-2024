@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_hess_2024",
+  "title": "La Hess",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123993871"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03",
+  "runtime_minutes": 62
+}

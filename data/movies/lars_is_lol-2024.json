@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lars_is_lol_2024",
+  "title": "Lars is LOL",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125018996",
+    "imdb": "tt26423054",
+    "tmdb": 1136765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 89
+}

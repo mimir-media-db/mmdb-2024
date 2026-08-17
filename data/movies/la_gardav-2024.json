@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_gardav_2024",
+  "title": "La Gardav",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126100545",
+    "imdb": "tt27487494",
+    "tmdb": 1189286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-05",
+  "runtime_minutes": 87
+}

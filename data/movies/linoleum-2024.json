@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_linoleum_2024",
+  "title": "Linoleum",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104873310",
+    "imdb": "tt13483866",
+    "tmdb": 765904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15",
+  "runtime_minutes": 101
+}

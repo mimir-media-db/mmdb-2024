@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_pistolets_en_plastique_2024",
+  "title": "Les Pistolets en plastique",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126692772",
+    "imdb": "tt30824664",
+    "tmdb": 1000888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 96
+}

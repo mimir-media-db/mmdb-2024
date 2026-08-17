@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luna_2024",
+  "title": "Luna",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136095435",
+    "imdb": "tt34714750",
+    "tmdb": 1390690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 76
+}

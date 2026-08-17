@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_soldados_del_tanque_27_2024",
+  "title": "Los soldados del tanque 27",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128588487",
+    "tmdb": 1316585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-07",
+  "runtime_minutes": 42
+}

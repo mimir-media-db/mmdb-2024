@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rifleman_2024",
+  "title": "The Last Rifleman",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119856907",
+    "imdb": "tt12404266",
+    "tmdb": 763144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 99
+}

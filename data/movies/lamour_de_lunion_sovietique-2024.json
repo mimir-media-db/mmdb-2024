@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamour_de_lunion_sovietique_2024",
+  "title": "L'Amour de l'Union soviétique",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134650614",
+    "imdb": "tt25314032",
+    "tmdb": 1152700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07"
+}

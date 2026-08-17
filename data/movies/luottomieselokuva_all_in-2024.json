@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luottomieselokuva_all_in_2024",
+  "title": "Luottomies-elokuva: All In",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124653941",
+    "imdb": "tt29423112",
+    "tmdb": 1141496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

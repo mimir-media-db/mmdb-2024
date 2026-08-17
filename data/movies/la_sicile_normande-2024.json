@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sicile_normande_2024",
+  "title": "La Sicile normande",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125701139",
+    "imdb": "tt31067565",
+    "tmdb": 1236349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

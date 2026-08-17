@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_children_2024",
+  "title": "The Lost Children",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131202165",
+    "imdb": "tt34058121",
+    "tmdb": 1372665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_on_a_mountain_in_maine_2024",
+  "title": "Lost on a Mountain in Maine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132156339",
+    "imdb": "tt2965408",
+    "tmdb": 1197619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_child_2024",
+  "title": "Love Child",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130240869",
+    "imdb": "tt32915305",
+    "tmdb": 1167815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02",
+  "runtime_minutes": 100
+}
