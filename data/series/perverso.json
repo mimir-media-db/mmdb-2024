@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perverso",
+  "title": "Perverso",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125144795",
+    "imdb": "tt30058110",
+    "tmdb": 239663
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

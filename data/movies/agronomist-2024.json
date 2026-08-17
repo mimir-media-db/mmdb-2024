@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agronomist_2024",
+  "title": "The Agronomist",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130431224",
+    "imdb": "tt26453182",
+    "tmdb": 1177916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_were_all_going_to_die_2024",
+  "title": "We're all going to die!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130266242"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-31",
+  "runtime_minutes": 93
+}

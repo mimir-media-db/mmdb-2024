@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_blind_dates_2024",
+  "title": "Five Blind Dates",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124536069",
+    "imdb": "tt21236048",
+    "tmdb": 1231953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-13",
+  "runtime_minutes": 84
+}

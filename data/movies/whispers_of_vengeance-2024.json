@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whispers_of_vengeance_2024",
+  "title": "Whispers of Vengeance",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482871",
+    "imdb": "tt38882753",
+    "tmdb": 1491067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-28"
+}

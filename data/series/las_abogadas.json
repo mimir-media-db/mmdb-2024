@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_abogadas",
+  "title": "Las abogadas",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124023772",
+    "imdb": "tt26446256",
+    "tmdb": 236837
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

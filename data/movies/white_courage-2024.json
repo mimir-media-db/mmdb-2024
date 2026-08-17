@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_courage_2024",
+  "title": "White Courage",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130806111",
+    "imdb": "tt26937210",
+    "tmdb": 1204186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

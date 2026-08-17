@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pantaskah_aku_berhijab_2024",
+  "title": "Pantaskah Aku Berhijab",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131324112",
+    "imdb": "tt33983022",
+    "tmdb": 1297919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-21",
+  "runtime_minutes": 114
+}

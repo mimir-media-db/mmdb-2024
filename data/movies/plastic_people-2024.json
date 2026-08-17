@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plastic_people_2024",
+  "title": "Plastic People",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124850110",
+    "imdb": "tt30835991",
+    "tmdb": 1229901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

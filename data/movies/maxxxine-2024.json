@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maxxxine_2024",
+  "title": "MaXXXine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116032682",
+    "imdb": "tt22048412",
+    "tmdb": 1023922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05",
+  "runtime_minutes": 103
+}

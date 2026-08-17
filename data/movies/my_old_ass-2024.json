@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_old_ass_2024",
+  "title": "My Old Ass",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119206819",
+    "imdb": "tt18559464",
+    "tmdb": 947891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13",
+  "runtime_minutes": 89
+}

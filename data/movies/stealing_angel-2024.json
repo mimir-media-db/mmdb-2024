@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stealing_angel_2024",
+  "title": "Stealing Angel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131829575",
+    "imdb": "tt35319926",
+    "tmdb": 1175267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-17",
+  "runtime_minutes": 101
+}

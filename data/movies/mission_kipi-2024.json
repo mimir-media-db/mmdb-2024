@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_kipi_2024",
+  "title": "Mission Kipi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124652746",
+    "tmdb": 1245397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

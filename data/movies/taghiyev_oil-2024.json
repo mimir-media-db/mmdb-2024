@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taghiyev_oil_2024",
+  "title": "Taghiyev: Oil",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134393733",
+    "imdb": "tt34740878",
+    "tmdb": 1360595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

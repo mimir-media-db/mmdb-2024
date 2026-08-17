@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thesis_on_a_domestication_2024",
+  "title": "Thesis on a Domestication",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134837904",
+    "imdb": "tt26681570",
+    "tmdb": 1107798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-19",
+  "runtime_minutes": 113
+}

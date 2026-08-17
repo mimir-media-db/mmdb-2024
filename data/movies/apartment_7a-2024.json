@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apartment_7a_2024",
+  "title": "Apartment 7A",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112865585",
+    "imdb": "tt14371860",
+    "tmdb": 807339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20",
+  "runtime_minutes": 104
+}

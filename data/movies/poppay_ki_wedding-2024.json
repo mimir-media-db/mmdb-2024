@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poppay_ki_wedding_2024",
+  "title": "Poppay Ki Wedding",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127514908",
+    "imdb": "tt32214046",
+    "tmdb": 1282260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10"
+}

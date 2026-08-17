@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuch_khattaa_ho_jaay_2024",
+  "title": "Kuch Khattaa Ho Jaay",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124555611",
+    "imdb": "tt22543124",
+    "tmdb": 1032706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

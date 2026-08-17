@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_safe_whats_gross_whats_selfish_and_whats_stupid_2024",
+  "title": "What's Safe, What's Gross, What's Selfish and What's Stupid",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128645189",
+    "imdb": "tt31456356",
+    "tmdb": 1244625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 72
+}

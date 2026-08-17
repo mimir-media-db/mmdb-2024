@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_virtuous_business",
+  "title": "A Virtuous Business",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q127690872",
+    "imdb": "tt33509073",
+    "tmdb": 255086
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_new_friends_2024",
+  "title": "My New Friends",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124306549",
+    "imdb": "tt26760867",
+    "tmdb": 961082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

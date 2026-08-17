@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_regardless_of_us_2024",
+  "title": "Regardless of Us",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116318075",
+    "imdb": "tt26348079",
+    "tmdb": 1074764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-26"
+}

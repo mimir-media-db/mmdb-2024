@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shontaan_2024",
+  "title": "Shontaan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131351401",
+    "imdb": "tt34386263",
+    "tmdb": 1112559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20"
+}

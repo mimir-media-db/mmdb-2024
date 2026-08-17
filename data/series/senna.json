@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_senna",
+  "title": "Senna",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123312645",
+    "imdb": "tt9145758",
+    "tmdb": 211039
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

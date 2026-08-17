@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marina_unplugged_2024",
+  "title": "Marina, Unplugged",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131405850",
+    "imdb": "tt29068795",
+    "tmdb": 1193677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01",
+  "runtime_minutes": 94
+}

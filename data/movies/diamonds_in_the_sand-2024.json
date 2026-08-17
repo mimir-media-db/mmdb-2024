@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diamonds_in_the_sand_2024",
+  "title": "Diamonds in the Sand",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136378600",
+    "imdb": "tt31645722",
+    "tmdb": 1257420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-23",
+  "runtime_minutes": 102
+}

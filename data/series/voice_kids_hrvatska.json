@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_kids_hrvatska",
+  "title": "The Voice Kids Hrvatska",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130698389",
+    "imdb": "tt34618095",
+    "tmdb": 280957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

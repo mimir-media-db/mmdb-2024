@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_le_vent_des_marquises_2024",
+  "title": "Sous le vent des Marquises",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124334365",
+    "imdb": "tt28244012",
+    "tmdb": 1001008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-31"
+}

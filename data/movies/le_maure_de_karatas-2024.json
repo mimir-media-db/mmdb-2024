@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_maure_de_karatas_2024",
+  "title": "Le Maure de Karatas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139492523",
+    "imdb": "tt34745912"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-20"
+}

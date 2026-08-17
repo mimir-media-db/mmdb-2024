@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hereditary_villa_2024",
+  "title": "Hereditary Villa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125792160",
+    "imdb": "tt32359419",
+    "tmdb": 1474944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_one_2024",
+  "title": "Good One",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123783550",
+    "imdb": "tt30319516",
+    "tmdb": 1122618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_goin_bulilit",
+  "title": "Goin' Bulilit",
+  "start_year": 2023,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5577667",
+    "imdb": "tt0441923",
+    "tmdb": 2954
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 684
+}

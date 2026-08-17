@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_clarence_2024",
+  "title": "The Book of Clarence",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115624081",
+    "imdb": "tt22866358",
+    "tmdb": 976584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 129
+}

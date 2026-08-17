@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nasoor_2024",
+  "title": "Nasoor",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130720026",
+    "imdb": "tt31115226",
+    "tmdb": 1249050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23"
+}

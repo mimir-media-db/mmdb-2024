@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ravikula_raghurama_2024",
+  "title": "Ravikula Raghurama",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125101639",
+    "imdb": "tt26733465",
+    "tmdb": 1393508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15"
+}

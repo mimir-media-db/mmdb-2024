@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oye_bhole_oye_2024",
+  "title": "Oye Bhole Oye",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124460443",
+    "imdb": "tt27424190",
+    "tmdb": 1246507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

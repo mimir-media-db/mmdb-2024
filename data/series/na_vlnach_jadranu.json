@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_na_vlnach_jadranu",
+  "title": "Na vlnách Jadranu",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124649074",
+    "imdb": "tt29546449",
+    "tmdb": 236159
+  },
+  "last_updated": "2026-08-17"
+}

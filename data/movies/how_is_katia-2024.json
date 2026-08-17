@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_is_katia_2024",
+  "title": "How Is Katia?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130296151",
+    "imdb": "tt14665658",
+    "tmdb": 851476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 101
+}

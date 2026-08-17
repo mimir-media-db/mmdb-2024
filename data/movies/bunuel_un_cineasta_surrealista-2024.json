@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunuel_un_cineasta_surrealista_2024",
+  "title": "Buñuel, un cineasta surrealista",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110930073",
+    "imdb": "tt14809334",
+    "tmdb": 844178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-10",
+  "runtime_minutes": 83
+}

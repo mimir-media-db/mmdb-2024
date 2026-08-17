@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nickel_boys_2024",
+  "title": "Nickel Boys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116030637",
+    "imdb": "tt23055660",
+    "tmdb": 1028196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30",
+  "runtime_minutes": 140
+}

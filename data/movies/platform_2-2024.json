@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_platform_2_2024",
+  "title": "The Platform 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124651039",
+    "imdb": "tt27729779",
+    "tmdb": 1125510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27",
+  "runtime_minutes": 99
+}

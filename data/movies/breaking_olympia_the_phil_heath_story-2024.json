@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_olympia_the_phil_heath_story_2024",
+  "title": "Breaking Olympia: The Phil Heath Story",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135495318",
+    "imdb": "tt13292750",
+    "tmdb": 1201117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-25",
+  "runtime_minutes": 114
+}

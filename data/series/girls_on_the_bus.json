@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_on_the_bus",
+  "title": "The Girls on the Bus",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q115012577",
+    "imdb": "tt10970364",
+    "tmdb": 105532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dalia_and_the_red_book_2024",
+  "title": "Dalia and the Red Book",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131572871",
+    "imdb": "tt9881850",
+    "tmdb": 1333099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 107
+}

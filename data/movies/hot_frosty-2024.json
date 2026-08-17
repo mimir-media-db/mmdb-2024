@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_frosty_2024",
+  "title": "Hot Frosty",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125948108",
+    "imdb": "tt32359447",
+    "tmdb": 1290287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-13",
+  "runtime_minutes": 92
+}

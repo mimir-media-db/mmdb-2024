@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ryuichi_sakamoto_opus_2024",
+  "title": "Ryuichi Sakamoto | Opus",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124830608",
+    "imdb": "tt28490873",
+    "tmdb": 1156189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-28",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_avatar_the_last_airbender",
+  "title": "Avatar: The Last Airbender",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109608844",
+    "imdb": "tt9018736",
+    "tmdb": 82452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

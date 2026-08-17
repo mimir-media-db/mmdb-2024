@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_renoir_reviled_and_revered_2024",
+  "title": "Renoir: Reviled and Revered",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22945997",
+    "imdb": "tt5105656",
+    "tmdb": 371913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-25",
+  "runtime_minutes": 87
+}

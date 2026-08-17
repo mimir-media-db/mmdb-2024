@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khadari_2024",
+  "title": "Khadari",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684536",
+    "imdb": "tt30889257",
+    "tmdb": 1241666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 120
+}

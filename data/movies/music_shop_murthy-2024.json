@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_shop_murthy_2024",
+  "title": "Music Shop Murthy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127662631",
+    "imdb": "tt32189369",
+    "tmdb": 1304474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-14",
+  "runtime_minutes": 127
+}

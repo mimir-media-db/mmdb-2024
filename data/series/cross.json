@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cross",
+  "title": "Cross",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125998318",
+    "imdb": "tt11794812",
+    "tmdb": 213306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

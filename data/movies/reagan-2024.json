@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reagan_2024",
+  "title": "Reagan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104144784",
+    "imdb": "tt1723808",
+    "tmdb": 647245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30",
+  "runtime_minutes": 135
+}

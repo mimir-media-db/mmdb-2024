@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_you_every_me_2024",
+  "title": "Every You Every Me",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124308575",
+    "imdb": "tt29102244",
+    "tmdb": 1125169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

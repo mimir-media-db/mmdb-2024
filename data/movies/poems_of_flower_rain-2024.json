@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poems_of_flower_rain_2024",
+  "title": "Poems of Flower Rain",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136378379",
+    "tmdb": 1306456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-14",
+  "runtime_minutes": 79
+}

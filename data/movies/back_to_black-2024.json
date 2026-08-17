@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_black_2024",
+  "title": "Back to Black",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116507926",
+    "imdb": "tt21261712",
+    "tmdb": 998846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 122
+}

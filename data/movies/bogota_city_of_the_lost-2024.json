@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bogota_city_of_the_lost_2024",
+  "title": "Bogota: City of the Lost",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111946850",
+    "imdb": "tt22507374",
+    "tmdb": 636279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 108
+}

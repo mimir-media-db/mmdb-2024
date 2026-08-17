@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hate_to_love_nickelback_2024",
+  "title": "Hate to Love: Nickelback",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120887778",
+    "imdb": "tt28490042",
+    "tmdb": 1155815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-27",
+  "runtime_minutes": 90
+}

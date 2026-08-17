@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battlefield_2024",
+  "title": "Battlefield",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127728283",
+    "imdb": "tt31322960",
+    "tmdb": 1174246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-31",
+  "runtime_minutes": 104
+}

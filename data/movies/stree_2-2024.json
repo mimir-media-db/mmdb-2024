@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stree_2_2024",
+  "title": "Stree 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124254266",
+    "imdb": "tt27510174",
+    "tmdb": 1112426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 149
+}

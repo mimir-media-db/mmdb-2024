@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_scenario_2024",
+  "title": "Dream Scenario",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804772",
+    "imdb": "tt21942866",
+    "tmdb": 823482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

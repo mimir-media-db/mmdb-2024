@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_backyard_2024",
+  "title": "The American Backyard",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129167527",
+    "imdb": "tt33029833",
+    "tmdb": 1191815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-07",
+  "runtime_minutes": 107
+}

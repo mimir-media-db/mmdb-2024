@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kul_masal",
+  "title": "Kül Masalı",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125958462",
+    "imdb": "tt31064976",
+    "tmdb": 245420
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

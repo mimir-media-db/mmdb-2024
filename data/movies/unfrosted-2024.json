@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unfrosted_2024",
+  "title": "Unfrosted",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112609799",
+    "imdb": "tt14914430",
+    "tmdb": 844185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03",
+  "runtime_minutes": 93
+}

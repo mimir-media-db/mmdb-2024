@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_anos_nuevos",
+  "title": "Los años nuevos",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130570783",
+    "imdb": "tt29615330",
+    "tmdb": 238106
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

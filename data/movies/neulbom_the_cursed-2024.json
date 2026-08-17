@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neulbom_the_cursed_2024",
+  "title": "Neulbom: The Cursed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130250759",
+    "imdb": "tt26736821",
+    "tmdb": 977156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-21"
+}

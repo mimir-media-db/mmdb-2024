@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richelieu_2024",
+  "title": "Richelieu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118602368",
+    "imdb": "tt11706872",
+    "tmdb": 958734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-05",
+  "runtime_minutes": 89
+}

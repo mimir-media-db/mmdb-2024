@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sidonie_in_japan_2024",
+  "title": "Sidonie in Japan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124616716",
+    "imdb": "tt26254622",
+    "tmdb": 1004555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 95
+}

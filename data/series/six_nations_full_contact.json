@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_six_nations_full_contact",
+  "title": "Six Nations: Full Contact",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124371387",
+    "imdb": "tt26218826",
+    "tmdb": 242394
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

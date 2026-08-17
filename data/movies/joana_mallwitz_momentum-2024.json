@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joana_mallwitz_momentum_2024",
+  "title": "Joana Mallwitz – Momentum",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125488255",
+    "imdb": "tt32421441"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-16",
+  "runtime_minutes": 88
+}

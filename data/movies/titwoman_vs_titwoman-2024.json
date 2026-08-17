@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_titwoman_vs_titwoman_2024",
+  "title": "Titwoman Vs Titwoman",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136497574",
+    "imdb": "tt32264369",
+    "tmdb": 1285610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-04",
+  "runtime_minutes": 153
+}

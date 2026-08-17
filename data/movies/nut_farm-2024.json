@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nut_farm_2024",
+  "title": "The Nut Farm",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135920286",
+    "imdb": "tt23182050",
+    "tmdb": 1225783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

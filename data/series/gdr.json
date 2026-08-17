@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gdr",
+  "title": "GDR",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124518304",
+    "imdb": "tt28785965",
+    "tmdb": 245303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

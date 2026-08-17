@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_affair",
+  "title": "Affair",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q129096281",
+    "imdb": "tt32215946",
+    "tmdb": 257788
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

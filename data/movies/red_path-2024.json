@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_path_2024",
+  "title": "Red Path",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131341672",
+    "imdb": "tt23782554",
+    "tmdb": 1000110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

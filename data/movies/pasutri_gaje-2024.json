@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pasutri_gaje_2024",
+  "title": "Pasutri Gaje",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124499772",
+    "imdb": "tt28131321",
+    "tmdb": 1148279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07",
+  "runtime_minutes": 109
+}

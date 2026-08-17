@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_butterflies_2024",
+  "title": "Black Butterflies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126680631",
+    "imdb": "tt28061840",
+    "tmdb": 1280400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

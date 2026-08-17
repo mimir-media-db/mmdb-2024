@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bunker_2024",
+  "title": "The Bunker",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107071525",
+    "imdb": "tt14598536",
+    "tmdb": 831396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16"
+}

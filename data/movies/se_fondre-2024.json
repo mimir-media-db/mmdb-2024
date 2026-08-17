@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_fondre_2024",
+  "title": "Se fondre",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127416240",
+    "imdb": "tt23551572",
+    "tmdb": 1189723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23",
+  "runtime_minutes": 112
+}

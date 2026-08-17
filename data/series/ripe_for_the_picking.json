@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ripe_for_the_picking",
+  "title": "Ripe for the Picking",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q137163907",
+    "imdb": "tt31067853",
+    "tmdb": 241199
+  },
+  "last_updated": "2026-08-17"
+}

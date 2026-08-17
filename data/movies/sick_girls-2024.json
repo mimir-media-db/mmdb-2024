@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sick_girls_2024",
+  "title": "Sick Girls",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124419326",
+    "imdb": "tt31543763",
+    "tmdb": 1211325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-05",
+  "runtime_minutes": 79
+}

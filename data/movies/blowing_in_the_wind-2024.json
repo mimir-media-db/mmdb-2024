@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blowing_in_the_wind_2024",
+  "title": "Blowing in the Wind",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136687157",
+    "imdb": "tt34696754",
+    "tmdb": 1374381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-15"
+}

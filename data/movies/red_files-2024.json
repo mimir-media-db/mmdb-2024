@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_files_2024",
+  "title": "The Red Files",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125167444",
+    "imdb": "tt31855783",
+    "tmdb": 1265993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

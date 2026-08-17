@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joachim_and_the_apocalypse_2024",
+  "title": "Joachim and the Apocalypse",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130442699",
+    "imdb": "tt14824880",
+    "tmdb": 1365049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 85
+}

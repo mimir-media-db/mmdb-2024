@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_jewish_boy_2024",
+  "title": "A Good Jewish Boy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124289926",
+    "imdb": "tt16160544",
+    "tmdb": 958855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24"
+}

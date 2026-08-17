@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_skinnet_bedrar",
+  "title": "Skinnet bedrar",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125495074",
+    "imdb": "tt31147588",
+    "tmdb": 244012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_and_justice_2024",
+  "title": "War and Justice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125499198",
+    "imdb": "tt28106880",
+    "tmdb": 1132483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_taught_love_2024",
+  "title": "She Taught Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130381565",
+    "imdb": "tt7983904",
+    "tmdb": 1007723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27",
+  "runtime_minutes": 101
+}

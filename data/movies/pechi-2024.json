@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pechi_2024",
+  "title": "Pechi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128045292",
+    "imdb": "tt33034505",
+    "tmdb": 1321821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02"
+}

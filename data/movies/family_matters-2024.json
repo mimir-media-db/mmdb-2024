@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_matters_2024",
+  "title": "Family Matters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125731123",
+    "imdb": "tt28350789",
+    "tmdb": 1113505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01"
+}

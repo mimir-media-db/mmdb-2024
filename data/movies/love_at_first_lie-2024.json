@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_first_lie_2024",
+  "title": "Love at First Lie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741557",
+    "imdb": "tt30474040",
+    "tmdb": 1184505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18"
+}

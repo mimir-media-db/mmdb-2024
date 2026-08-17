@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_rocks_and_clouds_2024",
+  "title": "Through Rocks and Clouds",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124460439",
+    "imdb": "tt30970632",
+    "tmdb": 1232710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 83
+}

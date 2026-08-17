@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_999_2024",
+  "title": "Room 999",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123051190",
+    "imdb": "tt27729122",
+    "tmdb": 978261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-01",
+  "runtime_minutes": 85
+}

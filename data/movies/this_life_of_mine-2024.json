@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_life_of_mine_2024",
+  "title": "This Life of Mine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125923687",
+    "imdb": "tt30797042",
+    "tmdb": 1001434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-15",
+  "runtime_minutes": 99
+}

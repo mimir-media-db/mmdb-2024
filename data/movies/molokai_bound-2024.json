@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_molokai_bound_2024",
+  "title": "Molokaʻi Bound",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133720020",
+    "imdb": "tt32155974",
+    "tmdb": 1275957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 112
+}

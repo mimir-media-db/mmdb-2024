@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bagger_drama_2024",
+  "title": "Bagger Drama",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133455744",
+    "imdb": "tt33322041",
+    "tmdb": 1336472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

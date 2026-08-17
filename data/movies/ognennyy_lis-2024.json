@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ognennyy_lis_2024",
+  "title": "Ognennyy lis",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125996718",
+    "imdb": "tt30744030",
+    "tmdb": 1273871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 81
+}

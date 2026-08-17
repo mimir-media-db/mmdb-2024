@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_property_2024",
+  "title": "The Property",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131430119",
+    "imdb": "tt32799295",
+    "tmdb": 1311415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_virgin_2024",
+  "title": "The Red Virgin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120532060",
+    "imdb": "tt27599713",
+    "tmdb": 1118028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loverboy_emoties_uit_2024",
+  "title": "Loverboy: Emoties uit",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130299125",
+    "imdb": "tt32792697",
+    "tmdb": 1327732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-27"
+}

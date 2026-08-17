@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_averroes_rosa_parks_2024",
+  "title": "Averroès & Rosa Parks",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124412413",
+    "imdb": "tt30886786",
+    "tmdb": 1204067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-20",
+  "runtime_minutes": 143
+}

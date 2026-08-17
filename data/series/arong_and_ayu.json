@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arong_and_ayu",
+  "title": "Arong and Ayu",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131106708",
+    "imdb": "tt34441602",
+    "tmdb": 273042
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

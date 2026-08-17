@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_maria_lassnig_2024",
+  "title": "The Ballad of Maria Lassnig",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124413058",
+    "imdb": "tt0104814",
+    "tmdb": 553996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 8
+}

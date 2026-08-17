@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campeonas_el_regreso_a_la_gloria_2024",
+  "title": "Campeonas: el regreso a la gloria",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128892622",
+    "tmdb": 1611942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-14",
+  "runtime_minutes": 69
+}

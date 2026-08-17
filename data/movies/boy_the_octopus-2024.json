@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_the_octopus_2024",
+  "title": "The Boy & the Octopus",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131541318",
+    "imdb": "tt34572436",
+    "tmdb": 1385485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 5
+}

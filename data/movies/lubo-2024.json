@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lubo_2024",
+  "title": "Lubo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120914277",
+    "imdb": "tt4707780",
+    "tmdb": 1023962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-20",
+  "runtime_minutes": 175
+}

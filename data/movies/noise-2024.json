@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noise_2024",
+  "title": "Noise",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133575909",
+    "imdb": "tt29845247",
+    "tmdb": 1194963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-07"
+}

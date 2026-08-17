@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nirvana_2024",
+  "title": "Nirvana",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125744186",
+    "imdb": "tt32329233",
+    "tmdb": 1268202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

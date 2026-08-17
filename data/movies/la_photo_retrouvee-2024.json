@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_photo_retrouvee_2024",
+  "title": "La photo retrouvée",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130461847",
+    "imdb": "tt33419961",
+    "tmdb": 1000499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

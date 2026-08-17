@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_color_purple_2024",
+  "title": "The Color Purple",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111270010",
+    "imdb": "tt1200263",
+    "tmdb": 558915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 141
+}

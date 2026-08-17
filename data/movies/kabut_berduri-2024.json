@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kabut_berduri_2024",
+  "title": "Kabut Berduri",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128497026",
+    "imdb": "tt27004149",
+    "tmdb": 1126357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-01",
+  "runtime_minutes": 112
+}

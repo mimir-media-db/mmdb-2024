@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dar_nssa",
+  "title": "Dar Nssa",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128797476",
+    "imdb": "tt31728744",
+    "tmdb": 249585
+  },
+  "last_updated": "2026-08-17"
+}

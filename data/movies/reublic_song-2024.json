@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reublic_song_2024",
+  "title": "A Reublic Song",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130689361",
+    "imdb": "tt34247440",
+    "tmdb": 1277254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

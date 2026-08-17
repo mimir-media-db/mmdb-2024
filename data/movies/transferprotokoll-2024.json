@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transferprotokoll_2024",
+  "title": "Transferprotokoll",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138521810",
+    "imdb": "tt32341604",
+    "tmdb": 1678094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

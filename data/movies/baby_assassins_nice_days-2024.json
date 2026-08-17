@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_assassins_nice_days_2024",
+  "title": "Baby Assassins Nice Days",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125589298",
+    "imdb": "tt32382919",
+    "tmdb": 1279752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27"
+}

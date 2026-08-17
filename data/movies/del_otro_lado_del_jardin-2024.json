@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_del_otro_lado_del_jardin_2024",
+  "title": "Del otro lado del jardín",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131032381",
+    "imdb": "tt27665031",
+    "tmdb": 1369595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-25"
+}

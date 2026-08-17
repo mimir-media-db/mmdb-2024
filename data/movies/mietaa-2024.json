@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mietaa_2024",
+  "title": "Mietaa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131105340",
+    "imdb": "tt33907263",
+    "tmdb": 1355231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08"
+}

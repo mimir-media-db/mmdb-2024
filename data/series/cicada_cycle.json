@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cicada_cycle",
+  "title": "Cicada Cycle",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123389245",
+    "imdb": "tt33499493",
+    "tmdb": 271223
+  },
+  "last_updated": "2026-08-17"
+}

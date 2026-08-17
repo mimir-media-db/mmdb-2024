@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buzz_house_the_movie_2024",
+  "title": "Buzz House: The Movie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125704916",
+    "imdb": "tt31703444",
+    "tmdb": 1265662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-23"
+}

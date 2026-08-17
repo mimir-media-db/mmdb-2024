@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_hair_day_2024",
+  "title": "Bad Hair Day",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123530981",
+    "imdb": "tt24969464",
+    "tmdb": 1137724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 78
+}

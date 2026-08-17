@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_terminal",
+  "title": "Terminal",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125542034",
+    "imdb": "tt31712029",
+    "tmdb": 237630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eggsplosive_easter_2024",
+  "title": "The Eggsplosive Easter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126891259",
+    "imdb": "tt31862921",
+    "tmdb": 1257411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 97
+}

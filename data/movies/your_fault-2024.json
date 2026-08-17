@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_your_fault_2024",
+  "title": "Your Fault",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128787041",
+    "imdb": "tt28510079",
+    "tmdb": 1156593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-27"
+}

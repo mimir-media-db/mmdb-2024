@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_omar_2024",
+  "title": "Omar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125393806",
+    "imdb": "tt31851608",
+    "tmdb": 1224775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

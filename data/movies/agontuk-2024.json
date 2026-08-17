@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agontuk_2024",
+  "title": "Agontuk",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126520857",
+    "imdb": "tt32597303",
+    "tmdb": 1429884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lumina_2024",
+  "title": "Lumina",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68121903",
+    "imdb": "tt5636228",
+    "tmdb": 1113231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-12",
+  "runtime_minutes": 120
+}

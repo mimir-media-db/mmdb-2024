@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boys_ride_or_die_2024",
+  "title": "Bad Boys: Ride or Die",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271357",
+    "imdb": "tt4919268",
+    "tmdb": 573435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-05",
+  "runtime_minutes": 115
+}

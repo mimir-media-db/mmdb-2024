@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_grande_maison_paris_2024",
+  "title": "La Grande Maison Paris",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127515049",
+    "imdb": "tt32868318",
+    "tmdb": 1306061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-30"
+}

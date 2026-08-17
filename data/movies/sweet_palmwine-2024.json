@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_palmwine_2024",
+  "title": "Sweet Palmwine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136350152",
+    "imdb": "tt34555660",
+    "tmdb": 1689808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-26"
+}

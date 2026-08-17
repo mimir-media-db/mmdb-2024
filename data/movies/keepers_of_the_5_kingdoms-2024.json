@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_keepers_of_the_5_kingdoms_2024",
+  "title": "The Keepers of the 5 Kingdoms",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131358517",
+    "imdb": "tt8959084",
+    "tmdb": 1093879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-20"
+}

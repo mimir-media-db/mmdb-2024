@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_systeme_victoria_2024",
+  "title": "Le Système Victoria",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132798426",
+    "imdb": "tt29301256",
+    "tmdb": 1001249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29"
+}

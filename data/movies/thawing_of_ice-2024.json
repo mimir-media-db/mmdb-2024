@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thawing_of_ice_2024",
+  "title": "The Thawing of Ice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125013249",
+    "imdb": "tt31511644",
+    "tmdb": 1237398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 106
+}

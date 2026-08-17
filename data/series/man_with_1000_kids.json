@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_man_with_1000_kids",
+  "title": "The Man with 1000 Kids",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126894725",
+    "imdb": "tt27712032",
+    "tmdb": 257207
+  },
+  "last_updated": "2026-08-17"
+}

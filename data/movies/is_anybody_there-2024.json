@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_is_anybody_there_2024",
+  "title": "Is Anybody There?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4177246",
+    "imdb": "tt1130088",
+    "tmdb": 22447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14",
+  "runtime_minutes": 94
+}

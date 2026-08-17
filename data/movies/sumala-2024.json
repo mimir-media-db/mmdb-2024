@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sumala_2024",
+  "title": "Sumala﻿",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135294069",
+    "imdb": "tt31592660",
+    "tmdb": 1260594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-26"
+}

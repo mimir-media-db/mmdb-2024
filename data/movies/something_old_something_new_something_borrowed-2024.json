@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_old_something_new_something_borrowed_2024",
+  "title": "Something Old, Something New, Something Borrowed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131318993",
+    "imdb": "tt32128950",
+    "tmdb": 898271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

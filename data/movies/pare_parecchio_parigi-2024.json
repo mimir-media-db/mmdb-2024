@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pare_parecchio_parigi_2024",
+  "title": "Pare parecchio Parigi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124104990",
+    "imdb": "tt28225574",
+    "tmdb": 1140222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18"
+}

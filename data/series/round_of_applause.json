@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_round_of_applause",
+  "title": "A Round of Applause",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131353909",
+    "imdb": "tt31049778",
+    "tmdb": 244842
+  },
+  "last_updated": "2026-08-17"
+}

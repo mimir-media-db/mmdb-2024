@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blink_twice_2024",
+  "title": "Blink Twice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113012523",
+    "imdb": "tt14858658",
+    "tmdb": 840705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-21",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catatan_harian_menantu_sinting_2024",
+  "title": "Catatan Harian Menantu Sinting",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131443771",
+    "imdb": "tt30817467",
+    "tmdb": 1267366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-18",
+  "runtime_minutes": 122
+}

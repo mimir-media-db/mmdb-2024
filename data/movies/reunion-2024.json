@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_2024",
+  "title": "Reunion",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112190851",
+    "imdb": "tt15338966",
+    "tmdb": 869597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-13",
+  "runtime_minutes": 90
+}

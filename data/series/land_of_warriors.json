@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_warriors",
+  "title": "The Land Of Warriors",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131294494",
+    "imdb": "tt27305026",
+    "tmdb": 277520
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_match_play",
+  "title": "Match Play",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137294552"
+  },
+  "last_updated": "2026-08-17"
+}

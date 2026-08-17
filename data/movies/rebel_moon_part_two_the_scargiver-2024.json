@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_moon_part_two_the_scargiver_2024",
+  "title": "Rebel Moon — Part Two: The Scargiver",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121741971",
+    "imdb": "tt23137904",
+    "tmdb": 934632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-19",
+  "runtime_minutes": 122
+}

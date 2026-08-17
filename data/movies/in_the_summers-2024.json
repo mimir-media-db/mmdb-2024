@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_summers_2024",
+  "title": "In the Summers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123784984",
+    "imdb": "tt24805832",
+    "tmdb": 1151082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-22",
+  "runtime_minutes": 95
+}

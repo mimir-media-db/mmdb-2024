@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_3_2024",
+  "title": "Ice 3",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124624585",
+    "imdb": "tt27487288",
+    "tmdb": 1205088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-14",
+  "runtime_minutes": 134
+}

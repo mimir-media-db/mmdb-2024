@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rafa_marquez_el_capitan_2024",
+  "title": "Rafa Márquez: El capitán",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127171409",
+    "imdb": "tt32441255",
+    "tmdb": 1290627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

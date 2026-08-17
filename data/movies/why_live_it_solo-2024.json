@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_why_live_it_solo_2024",
+  "title": "Why live it solo?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124005407",
+    "imdb": "tt32397283",
+    "tmdb": 1221470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_closer_2024",
+  "title": "Come Closer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126193226",
+    "imdb": "tt27827069",
+    "tmdb": 1290377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 107
+}

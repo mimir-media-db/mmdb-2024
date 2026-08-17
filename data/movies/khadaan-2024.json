@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khadaan_2024",
+  "title": "Khadaan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124834405",
+    "imdb": "tt30701950",
+    "tmdb": 1153230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20",
+  "runtime_minutes": 120
+}

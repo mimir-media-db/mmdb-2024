@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_if_you_dare_2024",
+  "title": "Kill Me If You Dare",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124528566",
+    "imdb": "tt30959158",
+    "tmdb": 1232943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-13"
+}

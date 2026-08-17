@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_box_man_2024",
+  "title": "The Box Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124309750",
+    "imdb": "tt27788905",
+    "tmdb": 1128156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-17",
+  "runtime_minutes": 120
+}

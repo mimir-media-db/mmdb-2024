@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sudan_remember_us_2024",
+  "title": "Sudan, Remember Us",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130284476",
+    "imdb": "tt28522241",
+    "tmdb": 1318742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 76
+}

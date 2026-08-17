@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_troubleshooters_2024",
+  "title": "Troubleshooters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136409973",
+    "imdb": "tt30661504",
+    "tmdb": 1383879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-12"
+}

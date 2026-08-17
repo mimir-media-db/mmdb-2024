@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varshangalkku_shesham_2024",
+  "title": "Varshangalkku Shesham",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124422248",
+    "imdb": "tt28364355",
+    "tmdb": 1151560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

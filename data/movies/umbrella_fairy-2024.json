@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_umbrella_fairy_2024",
+  "title": "The Umbrella Fairy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129164158",
+    "imdb": "tt32242290",
+    "tmdb": 1249635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

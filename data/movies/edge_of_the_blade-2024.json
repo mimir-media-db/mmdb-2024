@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_the_blade_2024",
+  "title": "The Edge of the Blade",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120486845",
+    "imdb": "tt28106865",
+    "tmdb": 960044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_2_the_night_owl_bar_shootout_2024",
+  "title": "Silence 2: The Night Owl Bar Shootout",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125289290",
+    "imdb": "tt28500558",
+    "tmdb": 1266109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-16"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seetharam_sitralu_2024",
+  "title": "Seetharam Sitralu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131920947",
+    "imdb": "tt33268763"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30"
+}

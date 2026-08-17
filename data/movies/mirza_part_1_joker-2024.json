@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mirza_part_1_joker_2024",
+  "title": "Mirza: Part 1 - Joker",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125102920",
+    "imdb": "tt22054994",
+    "tmdb": 1013247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

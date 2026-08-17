@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_not_a_murder_story",
+  "title": "Not a Murder Story",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q113962099",
+    "imdb": "tt23472304",
+    "tmdb": 214826
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

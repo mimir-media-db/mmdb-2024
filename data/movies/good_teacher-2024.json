@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_teacher_2024",
+  "title": "The Good Teacher",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118278015",
+    "imdb": "tt26060006",
+    "tmdb": 1000862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 91
+}

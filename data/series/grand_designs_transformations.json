@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_grand_designs_transformations",
+  "title": "Grand Designs Transformations",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124328577",
+    "imdb": "tt33506285",
+    "tmdb": 242204
+  },
+  "last_updated": "2026-08-17"
+}

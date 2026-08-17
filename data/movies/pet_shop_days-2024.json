@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pet_shop_days_2024",
+  "title": "Pet Shop Days",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120970471",
+    "imdb": "tt26449042",
+    "tmdb": 1078545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-13",
+  "runtime_minutes": 100
+}

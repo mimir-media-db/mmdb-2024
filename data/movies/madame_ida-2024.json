@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madame_ida_2024",
+  "title": "Madame Ida",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121268679",
+    "imdb": "tt32765069",
+    "tmdb": 1369363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saturn_return_2024",
+  "title": "Saturn Return",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123900127",
+    "imdb": "tt27518776",
+    "tmdb": 977548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-05",
+  "runtime_minutes": 110
+}

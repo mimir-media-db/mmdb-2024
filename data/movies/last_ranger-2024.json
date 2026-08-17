@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_ranger_2024",
+  "title": "The Last Ranger",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131872928",
+    "imdb": "tt15802124",
+    "tmdb": 1316292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 28
+}

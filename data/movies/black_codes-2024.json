@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_codes_2024",
+  "title": "Black Codes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124299876",
+    "imdb": "tt30890761",
+    "tmdb": 1231933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-15",
+  "runtime_minutes": 67
+}

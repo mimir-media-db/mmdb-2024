@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_wars_skeleton_crew",
+  "title": "Star Wars: Skeleton Crew",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113275091",
+    "imdb": "tt20600980",
+    "tmdb": 202879
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

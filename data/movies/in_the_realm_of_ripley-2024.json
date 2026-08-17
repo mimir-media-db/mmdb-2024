@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_realm_of_ripley_2024",
+  "title": "In the Realm of Ripley",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127719379",
+    "imdb": "tt32986426",
+    "tmdb": 1319558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-28",
+  "runtime_minutes": 50
+}

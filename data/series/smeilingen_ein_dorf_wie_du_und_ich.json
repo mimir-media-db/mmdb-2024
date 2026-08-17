@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_smeilingen_ein_dorf_wie_du_und_ich",
+  "title": "Smeilingen - Ein Dorf wie Du und Ich",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130755394",
+    "imdb": "tt33399961",
+    "tmdb": 275348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

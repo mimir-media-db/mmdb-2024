@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_from_fire_trail_road_2024",
+  "title": "Missing from Fire Trail Road",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136705480",
+    "imdb": "tt27829180",
+    "tmdb": 1291834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thelma_the_unicorn_2024",
+  "title": "Thelma the Unicorn",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124370507",
+    "imdb": "tt10442352",
+    "tmdb": 739547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-17",
+  "runtime_minutes": 93
+}

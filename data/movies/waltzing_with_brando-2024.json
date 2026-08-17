@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waltzing_with_brando_2024",
+  "title": "Waltzing with Brando",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738568",
+    "imdb": "tt9619902",
+    "tmdb": 574452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-30"
+}

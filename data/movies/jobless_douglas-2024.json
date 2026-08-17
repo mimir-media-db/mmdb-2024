@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jobless_douglas_2024",
+  "title": "Jobless Douglas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129319877",
+    "imdb": "tt9454548"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

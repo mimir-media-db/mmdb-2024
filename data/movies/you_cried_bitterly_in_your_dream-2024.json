@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_cried_bitterly_in_your_dream_2024",
+  "title": "You Cried Bitterly in Your Dream",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125394938",
+    "imdb": "tt32059821",
+    "tmdb": 1260537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 80
+}

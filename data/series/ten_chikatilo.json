@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ten_chikatilo",
+  "title": "Ten Chikatilo",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q119844688",
+    "imdb": "tt23747876",
+    "tmdb": 313093
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

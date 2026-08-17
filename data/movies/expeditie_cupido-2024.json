@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_expeditie_cupido_2024",
+  "title": "Expeditie Cupido",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118151231",
+    "imdb": "tt26455393",
+    "tmdb": 1152442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-17"
+}

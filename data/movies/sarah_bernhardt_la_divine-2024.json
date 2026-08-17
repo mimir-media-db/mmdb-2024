@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarah_bernhardt_la_divine_2024",
+  "title": "Sarah Bernhardt, La Divine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131405708",
+    "imdb": "tt33298403",
+    "tmdb": 1228322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-01",
+  "runtime_minutes": 98
+}

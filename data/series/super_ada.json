@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_super_ada",
+  "title": "Súper Ada",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124337764",
+    "imdb": "tt33503252",
+    "tmdb": 243952
+  },
+  "last_updated": "2026-08-17"
+}

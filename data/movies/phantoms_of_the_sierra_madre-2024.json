@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phantoms_of_the_sierra_madre_2024",
+  "title": "Phantoms of the Sierra Madre",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133295704",
+    "imdb": "tt31598172",
+    "tmdb": 1235491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-17",
+  "runtime_minutes": 99
+}

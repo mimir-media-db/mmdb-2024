@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aframe_2024",
+  "title": "The A-Frame",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126184078",
+    "imdb": "tt27652287",
+    "tmdb": 1153644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 82
+}

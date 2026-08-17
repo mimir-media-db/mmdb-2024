@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ce_qui_se_voit_et_ce_qui_ne_se_voit_pas_2024",
+  "title": "Ce qui se voit et ce qui ne se voit pas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129910804",
+    "imdb": "tt32880273",
+    "tmdb": 1341648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-04"
+}

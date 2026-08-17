@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_to_se_vysvetli_soudruzi",
+  "title": "To se vysvětlí, soudruzi!",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124006686",
+    "imdb": "tt28154033",
+    "tmdb": 247803
+  },
+  "last_updated": "2026-08-17"
+}

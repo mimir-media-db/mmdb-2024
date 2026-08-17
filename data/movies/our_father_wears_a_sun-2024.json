@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_father_wears_a_sun_2024",
+  "title": "Our Father Wears a Sun",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133804893",
+    "imdb": "tt31170824",
+    "tmdb": 1245202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 58
+}

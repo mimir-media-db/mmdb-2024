@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_woo",
+  "title": "Queen Woo",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121076688",
+    "imdb": "tt27554432",
+    "tmdb": 224732
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

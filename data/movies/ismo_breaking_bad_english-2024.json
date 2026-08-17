@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ismo_breaking_bad_english_2024",
+  "title": "Ismo: Breaking Bad English",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130744484",
+    "imdb": "tt33883401",
+    "tmdb": 1309626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01"
+}

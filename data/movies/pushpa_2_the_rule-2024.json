@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pushpa_2_the_rule_2024",
+  "title": "Pushpa 2: The Rule",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112083510",
+    "imdb": "tt16539454",
+    "tmdb": 857598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05"
+}

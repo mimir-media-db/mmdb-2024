@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_himuro_renji_2024",
+  "title": "Himuro Renji",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867482",
+    "tmdb": 1254532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-12"
+}

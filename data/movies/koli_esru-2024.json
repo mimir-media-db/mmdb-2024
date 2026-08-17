@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koli_esru_2024",
+  "title": "Koli Esru",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121734298",
+    "imdb": "tt31106876"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26",
+  "runtime_minutes": 84
+}

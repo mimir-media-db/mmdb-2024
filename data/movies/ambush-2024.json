@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ambush_2024",
+  "title": "Ambush",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117806062",
+    "imdb": "tt8270664",
+    "tmdb": 1074034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-04",
+  "runtime_minutes": 104
+}

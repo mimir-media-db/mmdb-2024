@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mexico_86_2024",
+  "title": "Mexico 86",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127381548",
+    "imdb": "tt31229255",
+    "tmdb": 1174027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 89
+}

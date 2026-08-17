@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baghead_2024",
+  "title": "Baghead",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123921399",
+    "imdb": "tt14030816",
+    "tmdb": 845783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_fast_move_2024",
+  "title": "One Fast Move",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114000403",
+    "imdb": "tt21096576",
+    "tmdb": 1281826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-08"
+}

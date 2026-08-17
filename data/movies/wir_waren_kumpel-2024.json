@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_waren_kumpel_2024",
+  "title": "Wir waren Kumpel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124428440",
+    "imdb": "tt27600775",
+    "tmdb": 1125214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-29",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_the_king_said_what_a_fantastic_machine_2024",
+  "title": "And the King Said, What a Fantastic Machine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122703295",
+    "imdb": "tt24082520",
+    "tmdb": 1058652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15",
+  "runtime_minutes": 88
+}

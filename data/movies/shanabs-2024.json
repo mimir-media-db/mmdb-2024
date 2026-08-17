@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shanabs_2024",
+  "title": "The Shanabs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124024849",
+    "imdb": "tt30472940",
+    "tmdb": 1180622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-30"
+}

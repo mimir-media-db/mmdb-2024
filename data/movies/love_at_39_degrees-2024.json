@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_39_degrees_2024",
+  "title": "Love at 39 Degrees",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132130032",
+    "imdb": "tt34605805",
+    "tmdb": 1387198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-06"
+}

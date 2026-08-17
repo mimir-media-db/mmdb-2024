@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prasanna_vadanam_2024",
+  "title": "Prasanna Vadanam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125888134",
+    "imdb": "tt31616213",
+    "tmdb": 1283166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maamla_legal_hai",
+  "title": "Maamla Legal Hai",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124830291",
+    "imdb": "tt31183656",
+    "tmdb": 246483
+  },
+  "last_updated": "2026-08-17"
+}

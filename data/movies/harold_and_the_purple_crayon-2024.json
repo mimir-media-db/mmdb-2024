@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harold_and_the_purple_crayon_2024",
+  "title": "Harold and the Purple Crayon",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111883640",
+    "imdb": "tt1609486",
+    "tmdb": 826510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02"
+}

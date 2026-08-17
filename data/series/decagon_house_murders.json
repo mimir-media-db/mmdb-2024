@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_decagon_house_murders",
+  "title": "The Decagon House Murders",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125535961",
+    "imdb": "tt31898580",
+    "tmdb": 242331
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

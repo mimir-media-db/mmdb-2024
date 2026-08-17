@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finalement_2024",
+  "title": "Finalement",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130024713",
+    "imdb": "tt27819140",
+    "tmdb": 1132634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-02"
+}

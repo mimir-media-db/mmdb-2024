@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_guest_2024",
+  "title": "The third guest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133276564",
+    "imdb": "tt14099490",
+    "tmdb": 1212574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mazhai_pidikkatha_manithan_2024",
+  "title": "Mazhai Pidikkatha Manithan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128502652",
+    "imdb": "tt27413174",
+    "tmdb": 896954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02",
+  "runtime_minutes": 133
+}

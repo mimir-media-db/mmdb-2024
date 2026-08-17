@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaking_it_up_the_life_and_times_of_liz_carpenter_2024",
+  "title": "Shaking It Up: The Life and Times of Liz Carpenter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124850658",
+    "imdb": "tt30836056",
+    "tmdb": 1234405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

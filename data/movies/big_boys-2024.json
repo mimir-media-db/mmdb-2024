@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_boys_2024",
+  "title": "Big Boys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119506588",
+    "imdb": "tt24486184",
+    "tmdb": 1087205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16",
+  "runtime_minutes": 90
+}

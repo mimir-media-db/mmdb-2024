@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonjour_lasile_2024",
+  "title": "Bonjour l'asile",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132472173",
+    "imdb": "tt33592275",
+    "tmdb": 1034674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-09"
+}

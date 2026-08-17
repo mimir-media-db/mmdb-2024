@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_paris_2024",
+  "title": "Dear Paris",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125857232",
+    "imdb": "tt29198659",
+    "tmdb": 1119546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-01"
+}

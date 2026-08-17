@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_days_of_fish_2024",
+  "title": "Three Days of Fish",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134386770",
+    "imdb": "tt9861214",
+    "tmdb": 1157712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-24",
+  "runtime_minutes": 85
+}

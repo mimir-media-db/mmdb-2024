@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taibhse_2024",
+  "title": "An Taibhse",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532446",
+    "imdb": "tt16350410",
+    "tmdb": 995045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-10"
+}

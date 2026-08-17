@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_einmal_richtig_2024",
+  "title": "Einmal richtig",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125285721",
+    "imdb": "tt31709206",
+    "tmdb": 1261095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 98
+}

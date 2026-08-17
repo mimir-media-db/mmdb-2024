@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_2024",
+  "title": "Fly",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124849825",
+    "imdb": "tt31189863",
+    "tmdb": 1242392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_dont_hurt_2024",
+  "title": "The Dead Don't Hurt",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116687153",
+    "imdb": "tt22773644",
+    "tmdb": 1032425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-14",
+  "runtime_minutes": 129
+}

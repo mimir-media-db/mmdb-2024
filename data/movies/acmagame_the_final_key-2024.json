@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acmagame_the_final_key_2024",
+  "title": "Acma:Game: The Final Key",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139550088",
+    "imdb": "tt33349179",
+    "tmdb": 1379842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-25",
+  "runtime_minutes": 119
+}

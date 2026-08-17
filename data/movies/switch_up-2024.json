@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_switch_up_2024",
+  "title": "Switch Up",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124847670",
+    "imdb": "tt15126712",
+    "tmdb": 1242366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

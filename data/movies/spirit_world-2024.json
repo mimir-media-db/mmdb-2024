@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_world_2024",
+  "title": "Spirit World",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130260598",
+    "imdb": "tt30832707",
+    "tmdb": 1229385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11"
+}

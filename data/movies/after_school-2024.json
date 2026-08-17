@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_2024",
+  "title": "After School",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354407",
+    "imdb": "tt27671363",
+    "tmdb": 1036397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_accident",
+  "title": "The Accident",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127936093",
+    "imdb": "tt30068042",
+    "tmdb": 259730
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

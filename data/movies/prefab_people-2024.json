@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prefab_people_2024",
+  "title": "The Prefab People",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475829",
+    "imdb": "tt0084465",
+    "tmdb": 60261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-08",
+  "runtime_minutes": 102
+}

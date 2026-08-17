@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaganachari_2024",
+  "title": "Gaganachari",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126734382",
+    "imdb": "tt15437820",
+    "tmdb": 874763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21"
+}

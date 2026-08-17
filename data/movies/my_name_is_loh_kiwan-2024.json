@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_loh_kiwan_2024",
+  "title": "My Name Is Loh Kiwan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116700659",
+    "imdb": "tt26672512",
+    "tmdb": 1039882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01",
+  "runtime_minutes": 133
+}

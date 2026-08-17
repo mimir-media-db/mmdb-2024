@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_good_to_the_hood_2024",
+  "title": "From Good to the Hood",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597435",
+    "imdb": "tt27960890",
+    "tmdb": 1151506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05"
+}

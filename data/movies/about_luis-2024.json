@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_luis_2024",
+  "title": "About Luis",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130466601",
+    "imdb": "tt32526006",
+    "tmdb": 1356664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 95
+}

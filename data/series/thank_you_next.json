@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thank_you_next",
+  "title": "Thank You, Next",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125582356",
+    "imdb": "tt28267514",
+    "tmdb": 251883
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

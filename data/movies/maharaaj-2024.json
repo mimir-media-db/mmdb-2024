@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maharaaj_2024",
+  "title": "Maharaaj",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125920605",
+    "imdb": "tt32152116",
+    "tmdb": 1286837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

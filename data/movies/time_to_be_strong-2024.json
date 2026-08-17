@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_to_be_strong_2024",
+  "title": "Time to Be Strong",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131624594",
+    "imdb": "tt33372514",
+    "tmdb": 1069537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-18"
+}

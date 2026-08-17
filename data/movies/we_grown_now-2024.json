@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_grown_now_2024",
+  "title": "We Grown Now",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121767976",
+    "imdb": "tt28639049",
+    "tmdb": 1163186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-19",
+  "runtime_minutes": 93
+}

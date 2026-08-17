@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sube_a_mi_nube_2024",
+  "title": "Sube a mi nube",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130287455",
+    "imdb": "tt33403430",
+    "tmdb": 1303662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 110
+}

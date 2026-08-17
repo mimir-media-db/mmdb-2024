@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_high_school_frenemy",
+  "title": "High School Frenemy",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131288051",
+    "imdb": "tt30098370",
+    "tmdb": 237338
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

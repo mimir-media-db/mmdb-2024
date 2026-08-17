@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_go_karaoke_2024",
+  "title": "Let's Go Karaoke!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130403947",
+    "imdb": "tt27957457",
+    "tmdb": 1070507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 107
+}

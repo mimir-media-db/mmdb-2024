@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_not_be_the_last_of_our_kind_2024",
+  "title": "We Will Not Be the Last of Our Kind",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124392950",
+    "imdb": "tt30887999",
+    "tmdb": 1233372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 25
+}

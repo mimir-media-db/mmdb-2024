@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhootpori_2024",
+  "title": "Bhootpori",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124328394",
+    "imdb": "tt12526976",
+    "tmdb": 716387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norah_2024",
+  "title": "Norah",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125492768",
+    "imdb": "tt9376490",
+    "tmdb": 1213982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 94
+}

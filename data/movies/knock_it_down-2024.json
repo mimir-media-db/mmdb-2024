@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knock_it_down_2024",
+  "title": "Knock it down!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16518588",
+    "imdb": "tt0101632",
+    "tmdb": 41055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-06"
+}

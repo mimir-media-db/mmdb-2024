@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soda_2024",
+  "title": "Soda",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131851513",
+    "imdb": "tt32516053",
+    "tmdb": 1300041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

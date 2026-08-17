@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hubba_2024",
+  "title": "Hubba",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121360390",
+    "imdb": "tt28670752",
+    "tmdb": 1021130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-19"
+}

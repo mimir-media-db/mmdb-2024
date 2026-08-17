@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rong_dhong_2024",
+  "title": "Rong Dhong",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131106671",
+    "imdb": "tt7650108",
+    "tmdb": 1381213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08"
+}

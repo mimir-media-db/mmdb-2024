@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_military_woman_2024",
+  "title": "Military Woman",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842312",
+    "tmdb": 1255643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07"
+}

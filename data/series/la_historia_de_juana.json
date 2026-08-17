@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_historia_de_juana",
+  "title": "La historia de Juana",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124344810",
+    "imdb": "tt31511583",
+    "tmdb": 253772
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 65
+}

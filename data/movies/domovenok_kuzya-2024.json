@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domovenok_kuzya_2024",
+  "title": "Domovenok Kuzya",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123252726",
+    "imdb": "tt27949746",
+    "tmdb": 1214092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

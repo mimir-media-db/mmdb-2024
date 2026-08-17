@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_heart_2024",
+  "title": "Wild Heart",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121788738",
+    "imdb": "tt26443400",
+    "tmdb": 1137207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-18",
+  "runtime_minutes": 99
+}

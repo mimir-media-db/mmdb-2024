@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_boys_2024",
+  "title": "The Lost Boys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115707175",
+    "imdb": "tt16148552",
+    "tmdb": 1000563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-15",
+  "runtime_minutes": 83
+}

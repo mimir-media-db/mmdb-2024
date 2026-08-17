@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mom_im_on_drugs_2024",
+  "title": "Mom, I'm on Drugs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134589875",
+    "imdb": "tt34771244",
+    "tmdb": 1419239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30",
+  "runtime_minutes": 73
+}

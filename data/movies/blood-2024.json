@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_2024",
+  "title": "Blood",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105820921",
+    "imdb": "tt13280054",
+    "tmdb": 746524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-03",
+  "runtime_minutes": 108
+}

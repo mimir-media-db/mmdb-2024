@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kombinaciya",
+  "title": "Kombinaciya",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123956516",
+    "imdb": "tt30491353",
+    "tmdb": 270483
+  },
+  "last_updated": "2026-08-17"
+}

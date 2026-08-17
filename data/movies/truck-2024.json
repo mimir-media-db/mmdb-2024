@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truck_2024",
+  "title": "The Truck",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573782",
+    "imdb": "tt15404924",
+    "tmdb": 1538587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-22",
+  "runtime_minutes": 102
+}

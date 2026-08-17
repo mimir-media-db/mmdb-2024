@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_galgos",
+  "title": "Galgos",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124744902",
+    "imdb": "tt23557990",
+    "tmdb": 214216
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

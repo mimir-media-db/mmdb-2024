@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consumed_2024",
+  "title": "Consumed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130526908",
+    "imdb": "tt13374480",
+    "tmdb": 1280990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16",
+  "runtime_minutes": 89
+}

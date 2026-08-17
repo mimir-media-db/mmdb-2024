@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbreak_motel_2024",
+  "title": "Heartbreak Motel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130572591",
+    "imdb": "tt30320624",
+    "tmdb": 1218850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-01"
+}

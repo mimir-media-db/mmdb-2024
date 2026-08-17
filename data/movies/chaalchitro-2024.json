@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaalchitro_2024",
+  "title": "Chaalchitro",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131430724",
+    "imdb": "tt29548171",
+    "tmdb": 1179715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20"
+}

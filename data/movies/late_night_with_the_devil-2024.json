@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_night_with_the_devil_2024",
+  "title": "Late Night with the Devil",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119718080",
+    "imdb": "tt14966898",
+    "tmdb": 938614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-19",
+  "runtime_minutes": 92
+}

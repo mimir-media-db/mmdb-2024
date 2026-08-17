@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_and_glory_2024",
+  "title": "Hope and Glory",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131573073",
+    "imdb": "tt15590932",
+    "tmdb": 1366897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

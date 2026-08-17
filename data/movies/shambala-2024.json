@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shambala_2024",
+  "title": "Shambala",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124334509",
+    "imdb": "tt30804400",
+    "tmdb": 1234593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 150
+}

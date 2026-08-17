@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_promise_of_decades_2024",
+  "title": "Promise of Decades",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691868",
+    "imdb": "tt34773193",
+    "tmdb": 1394182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-14"
+}

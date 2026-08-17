@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_beats_per_minute_2024",
+  "title": "7 Beats Per Minute",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124848092",
+    "imdb": "tt24327754",
+    "tmdb": 1242381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 100
+}

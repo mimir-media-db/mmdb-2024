@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesson_learned_2024",
+  "title": "Lesson Learned",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130245117",
+    "imdb": "tt30807200",
+    "tmdb": 1309745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-19",
+  "runtime_minutes": 119
+}

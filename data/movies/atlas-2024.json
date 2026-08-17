@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlas_2024",
+  "title": "Atlas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115474889",
+    "imdb": "tt14856980",
+    "tmdb": 614933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24",
+  "runtime_minutes": 120
+}

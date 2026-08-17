@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_rooms_2024",
+  "title": "Red Rooms",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118921851",
+    "imdb": "tt22207786",
+    "tmdb": 912480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-17",
+  "runtime_minutes": 118
+}

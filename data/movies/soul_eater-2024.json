@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_eater_2024",
+  "title": "The Soul Eater",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125401237",
+    "imdb": "tt28821588",
+    "tmdb": 1084863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

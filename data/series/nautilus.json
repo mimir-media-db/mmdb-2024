@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nautilus",
+  "title": "Nautilus",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q111169891",
+    "imdb": "tt15286302",
+    "tmdb": 131835
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

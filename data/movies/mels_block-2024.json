@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mels_block_2024",
+  "title": "Mels Block",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135938248",
+    "imdb": "tt33472102",
+    "tmdb": 1358083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-24",
+  "runtime_minutes": 81
+}

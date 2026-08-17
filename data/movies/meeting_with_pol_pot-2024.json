@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meeting_with_pol_pot_2024",
+  "title": "Meeting with Pol Pot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126101118",
+    "imdb": "tt32086004",
+    "tmdb": 1257400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-16",
+  "runtime_minutes": 112
+}

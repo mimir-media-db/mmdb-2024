@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perjalanan_pembuktian_cinta_2024",
+  "title": "Perjalanan Pembuktian Cinta",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125684894",
+    "imdb": "tt31032534",
+    "tmdb": 1126322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 129
+}

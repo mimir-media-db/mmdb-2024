@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gawaza_toxic_2024",
+  "title": "Gawaza Toxic",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126518887",
+    "imdb": "tt32893073",
+    "tmdb": 1281623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-03"
+}

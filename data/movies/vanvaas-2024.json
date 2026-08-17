@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanvaas_2024",
+  "title": "Vanvaas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131303346",
+    "imdb": "tt29120307",
+    "tmdb": 1371030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20"
+}

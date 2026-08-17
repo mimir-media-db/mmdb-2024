@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avicii_im_tim_2024",
+  "title": "Avicii – I'm Tim",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125716857",
+    "imdb": "tt32138523",
+    "tmdb": 1275945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-31"
+}

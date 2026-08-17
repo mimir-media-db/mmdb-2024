@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flower_of_mine_2024",
+  "title": "A Flower of Mine",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132856433",
+    "imdb": "tt29283637",
+    "tmdb": 1315134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-25",
+  "runtime_minutes": 80
+}

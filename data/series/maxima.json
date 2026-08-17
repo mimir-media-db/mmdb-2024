@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maxima",
+  "title": "Maxima",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122855690",
+    "imdb": "tt27159508",
+    "tmdb": 241889
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

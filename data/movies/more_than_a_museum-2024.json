@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_more_than_a_museum_2024",
+  "title": "More than a museum",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130297667",
+    "imdb": "tt31834845",
+    "tmdb": 1284398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 64
+}

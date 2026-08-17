@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ayalaan_2024",
+  "title": "Ayalaan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246864",
+    "imdb": "tt7892066",
+    "tmdb": 755388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 155
+}

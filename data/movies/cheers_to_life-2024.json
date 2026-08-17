@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheers_to_life_2024",
+  "title": "Cheers to Life!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131823648",
+    "imdb": "tt26849593",
+    "tmdb": 1186940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-27"
+}

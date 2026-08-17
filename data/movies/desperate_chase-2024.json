@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desperate_chase_2024",
+  "title": "The Desperate Chase",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123474846",
+    "imdb": "tt27176023",
+    "tmdb": 1063814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-21"
+}

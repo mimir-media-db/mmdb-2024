@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dough_2024",
+  "title": "Dough",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127689403",
+    "imdb": "tt31862960",
+    "tmdb": 1277682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02"
+}

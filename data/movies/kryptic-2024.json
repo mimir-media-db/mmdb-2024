@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kryptic_2024",
+  "title": "Kryptic",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124852786",
+    "imdb": "tt22697898",
+    "tmdb": 1229910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inch_forward_2024",
+  "title": "Inch Forward",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130468884",
+    "imdb": "tt31158123",
+    "tmdb": 1240381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-06",
+  "runtime_minutes": 83
+}

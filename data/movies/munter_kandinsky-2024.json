@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_munter_kandinsky_2024",
+  "title": "Münter & Kandinsky",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130805448",
+    "imdb": "tt19726720",
+    "tmdb": 1170141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vhsbeyond_2024",
+  "title": "V/H/S/Beyond",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129167045",
+    "imdb": "tt32880932",
+    "tmdb": 1190868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_fantastici_5",
+  "title": "I fantastici 5",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124041622",
+    "imdb": "tt30310215",
+    "tmdb": 243936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naples_to_new_york_2024",
+  "title": "Naples to New York",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130732756",
+    "imdb": "tt22490428",
+    "tmdb": 1112637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-21",
+  "runtime_minutes": 124
+}

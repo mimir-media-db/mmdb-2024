@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_bones_2024",
+  "title": "Green Bones",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127596335",
+    "imdb": "tt34140719",
+    "tmdb": 1377080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-25",
+  "runtime_minutes": 96
+}

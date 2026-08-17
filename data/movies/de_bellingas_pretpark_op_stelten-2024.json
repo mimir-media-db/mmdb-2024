@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_bellingas_pretpark_op_stelten_2024",
+  "title": "De Bellinga's: Pretpark op stelten",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127785887",
+    "imdb": "tt32179421",
+    "tmdb": 1296743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-10",
+  "runtime_minutes": 70
+}

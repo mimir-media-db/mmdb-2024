@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trash_goes_out_on_tuesday_2024",
+  "title": "The Trash Goes Out on Tuesday",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130473206",
+    "imdb": "tt21153106",
+    "tmdb": 1239835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

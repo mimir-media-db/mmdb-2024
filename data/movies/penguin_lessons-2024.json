@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penguin_lessons_2024",
+  "title": "The Penguin Lessons",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128031876",
+    "imdb": "tt26677014",
+    "tmdb": 1086497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

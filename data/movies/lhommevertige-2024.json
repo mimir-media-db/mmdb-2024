@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lhommevertige_2024",
+  "title": "L’homme-vertige",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124449962",
+    "imdb": "tt30956113",
+    "tmdb": 1233280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spin_the_bottle_2024",
+  "title": "Spin the Bottle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131198878",
+    "imdb": "tt22029194",
+    "tmdb": 1030983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-04"
+}

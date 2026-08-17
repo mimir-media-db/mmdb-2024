@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cable_that_changed_the_world_2024",
+  "title": "The Cable that Changed the World",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129268445",
+    "imdb": "tt33058129",
+    "tmdb": 1325095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-05",
+  "runtime_minutes": 90
+}

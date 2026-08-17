@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_papas_por_conveniencia",
+  "title": "Papás por conveniencia",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q125867196",
+    "imdb": "tt32187140",
+    "tmdb": 247885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_save_the_date",
+  "title": "Save The Date",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130023227",
+    "imdb": "tt34850760",
+    "tmdb": 279160
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

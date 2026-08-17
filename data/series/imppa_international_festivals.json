@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_imppa_international_festivals",
+  "title": "IMPPA International Festivals",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128788917",
+    "imdb": "tt32653414"
+  },
+  "last_updated": "2026-08-17"
+}

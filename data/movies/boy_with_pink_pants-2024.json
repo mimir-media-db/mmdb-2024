@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_with_pink_pants_2024",
+  "title": "The Boy with Pink Pants",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130698883",
+    "imdb": "tt31712800",
+    "tmdb": 1280941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-24",
+  "runtime_minutes": 115
+}

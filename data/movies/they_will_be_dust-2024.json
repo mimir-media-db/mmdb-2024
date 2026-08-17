@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_will_be_dust_2024",
+  "title": "They Will Be Dust",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127929937",
+    "imdb": "tt27142003",
+    "tmdb": 1224666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 106
+}

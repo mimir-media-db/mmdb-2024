@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nerve_2024",
+  "title": "Nerve",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126896096",
+    "imdb": "tt30448115"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21"
+}

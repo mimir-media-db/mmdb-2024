@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bakkal_amca_mahmut_tuncer_2024",
+  "title": "Bakkal Amca: Mahmut Tuncer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137272756",
+    "imdb": "tt32276924",
+    "tmdb": 1281192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03",
+  "runtime_minutes": 106
+}

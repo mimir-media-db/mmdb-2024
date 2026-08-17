@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lhome_dels_nassos_2024",
+  "title": "L'home dels nassos",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116856005",
+    "imdb": "tt26763320",
+    "tmdb": 1196367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

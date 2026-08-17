@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oshomoy_2024",
+  "title": "Oshomoy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124376951",
+    "imdb": "tt30343329",
+    "tmdb": 1232855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18"
+}

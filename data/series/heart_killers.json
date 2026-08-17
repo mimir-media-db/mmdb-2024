@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_heart_killers",
+  "title": "The Heart Killers",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130901641",
+    "imdb": "tt32215345",
+    "tmdb": 252617
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

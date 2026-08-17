@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cd_2024",
+  "title": "C.D",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129262923",
+    "imdb": "tt32424592",
+    "tmdb": 1377388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_udan_chhoo_2024",
+  "title": "Udan Chhoo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128804202",
+    "imdb": "tt32059728",
+    "tmdb": 1323593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

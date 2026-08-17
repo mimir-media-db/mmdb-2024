@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_british_airways_killer",
+  "title": "The British Airways Killer",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132533481",
+    "imdb": "tt31494137",
+    "tmdb": 247623
+  },
+  "last_updated": "2026-08-17"
+}

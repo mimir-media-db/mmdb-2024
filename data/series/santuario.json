@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_santuario",
+  "title": "Santuario",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131544281",
+    "imdb": "tt22175732",
+    "tmdb": 242860
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

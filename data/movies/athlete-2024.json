@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_athlete_2024",
+  "title": "The Athlete",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131295370",
+    "tmdb": 1377047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

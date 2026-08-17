@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_fur_immer_2024",
+  "title": "Wir für immer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126764529",
+    "imdb": "tt32844372",
+    "tmdb": 1330359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

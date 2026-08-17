@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stay_still_2024",
+  "title": "Stay Still",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129869767",
+    "imdb": "tt32816974",
+    "tmdb": 865574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

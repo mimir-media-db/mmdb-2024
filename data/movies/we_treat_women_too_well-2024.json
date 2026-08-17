@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_treat_women_too_well_2024",
+  "title": "We Treat Women Too Well",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123683231",
+    "imdb": "tt26931909",
+    "tmdb": 1209285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-03",
+  "runtime_minutes": 90
+}

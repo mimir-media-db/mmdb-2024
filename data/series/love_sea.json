@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_sea",
+  "title": "Love Sea",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126912541",
+    "imdb": "tt32586038",
+    "tmdb": 236300
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

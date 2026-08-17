@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lukas_film_2024",
+  "title": "Lukas Film",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131312961",
+    "imdb": "tt31592092",
+    "tmdb": 1255088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01"
+}

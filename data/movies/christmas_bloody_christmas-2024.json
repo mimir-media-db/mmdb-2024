@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_bloody_christmas_2024",
+  "title": "Christmas Bloody Christmas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115762254",
+    "imdb": "tt22042742",
+    "tmdb": 1019836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-28"
+}

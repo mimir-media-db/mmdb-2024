@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_umjolo_day_ones_2024",
+  "title": "Umjolo: Day Ones",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131576830",
+    "imdb": "tt34619564",
+    "tmdb": 1395642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20"
+}

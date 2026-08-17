@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulgar_2024",
+  "title": "Vulgar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130936223",
+    "imdb": "tt32916201",
+    "tmdb": 1372447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 103
+}

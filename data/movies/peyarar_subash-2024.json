@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peyarar_subash_2024",
+  "title": "Peyarar Subash",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117919465",
+    "imdb": "tt27480960",
+    "tmdb": 1109134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

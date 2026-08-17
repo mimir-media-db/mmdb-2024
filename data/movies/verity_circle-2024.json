@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verity_circle_2024",
+  "title": "Verity Circle",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130467417",
+    "imdb": "tt14427274",
+    "tmdb": 1340531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07",
+  "runtime_minutes": 84
+}

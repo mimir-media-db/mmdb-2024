@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dreaming_dogs_2024",
+  "title": "Dreaming Dogs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134450928"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02",
+  "runtime_minutes": 77
+}

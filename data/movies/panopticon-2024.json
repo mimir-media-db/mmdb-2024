@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panopticon_2024",
+  "title": "Panopticon",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131363673",
+    "imdb": "tt21958116",
+    "tmdb": 1213193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-30",
+  "runtime_minutes": 105
+}

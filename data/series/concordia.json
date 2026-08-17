@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_concordia",
+  "title": "ConcordIA",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125398076",
+    "imdb": "tt11324982",
+    "tmdb": 218703
+  },
+  "last_updated": "2026-08-17"
+}

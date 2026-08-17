@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pasilan_myrkky",
+  "title": "Pasilan myrkky",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125545076",
+    "imdb": "tt31116734",
+    "tmdb": 242785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

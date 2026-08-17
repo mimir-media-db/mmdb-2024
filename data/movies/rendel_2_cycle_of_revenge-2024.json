@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rendel_2_cycle_of_revenge_2024",
+  "title": "Rendel 2: Cycle of Revenge",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245186",
+    "imdb": "tt8406934",
+    "tmdb": 547475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21",
+  "runtime_minutes": 99
+}

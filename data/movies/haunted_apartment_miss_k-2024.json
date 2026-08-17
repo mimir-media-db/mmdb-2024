@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_apartment_miss_k_2024",
+  "title": "The Haunted Apartment: Miss K",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131745619",
+    "imdb": "tt33047058",
+    "tmdb": 1321326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-25"
+}

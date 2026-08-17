@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_camp_2024",
+  "title": "Summer Camp",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119892837",
+    "imdb": "tt26928684",
+    "tmdb": 1094009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-31"
+}

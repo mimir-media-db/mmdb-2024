@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dans_lombre",
+  "title": "Dans l'ombre",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121816864",
+    "imdb": "tt27813554",
+    "tmdb": 212815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

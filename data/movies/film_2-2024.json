@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_film_2_2024",
+  "title": "The Film 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125424063",
+    "tmdb": 1278034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

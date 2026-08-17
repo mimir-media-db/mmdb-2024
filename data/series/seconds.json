@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seconds",
+  "title": "Seconds",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126283173",
+    "imdb": "tt27953039",
+    "tmdb": 251121
+  },
+  "last_updated": "2026-08-17"
+}

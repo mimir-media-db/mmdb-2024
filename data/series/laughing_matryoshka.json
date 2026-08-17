@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_laughing_matryoshka",
+  "title": "Laughing Matryoshka",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125754360",
+    "imdb": "tt32864472",
+    "tmdb": 256740
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fathers_and_mothers_2024",
+  "title": "Fathers and Mothers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114730010",
+    "imdb": "tt15964414",
+    "tmdb": 986812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 97
+}

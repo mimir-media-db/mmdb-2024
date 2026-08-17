@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hija_del_volcan_2024",
+  "title": "Hija del volcán",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136102706",
+    "imdb": "tt12861936"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 109
+}

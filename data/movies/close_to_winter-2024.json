@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_close_to_winter_2024",
+  "title": "Close to Winter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124176387",
+    "imdb": "tt28296662",
+    "tmdb": 1147758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23",
+  "runtime_minutes": 93
+}

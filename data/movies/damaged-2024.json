@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_damaged_2024",
+  "title": "Damaged",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123284951",
+    "imdb": "tt27304026",
+    "tmdb": 1105407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-22"
+}

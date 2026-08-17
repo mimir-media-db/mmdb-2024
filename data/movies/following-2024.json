@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_following_2024",
+  "title": "Following",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125943204",
+    "imdb": "tt32220831",
+    "tmdb": 743815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-15",
+  "runtime_minutes": 102
+}

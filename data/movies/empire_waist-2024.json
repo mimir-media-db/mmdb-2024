@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empire_waist_2024",
+  "title": "Empire Waist",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137638878",
+    "imdb": "tt15823456",
+    "tmdb": 1048923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27",
+  "runtime_minutes": 94
+}

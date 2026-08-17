@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_un_nuevo_amanecer",
+  "title": "Un nuevo amanecer",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124745502",
+    "imdb": "tt28074406",
+    "tmdb": 230367
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

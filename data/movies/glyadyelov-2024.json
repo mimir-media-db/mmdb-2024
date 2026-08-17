@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glyadyelov_2024",
+  "title": "Glyadyelov",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576007",
+    "imdb": "tt28131457",
+    "tmdb": 1239697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-16",
+  "runtime_minutes": 97
+}

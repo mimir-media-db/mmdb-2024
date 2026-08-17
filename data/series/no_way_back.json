@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_no_way_back",
+  "title": "No Way Back",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131705690",
+    "imdb": "tt35309082"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

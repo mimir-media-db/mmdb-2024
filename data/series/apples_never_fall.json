@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_apples_never_fall",
+  "title": "Apples Never Fall",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117350508",
+    "imdb": "tt14371926",
+    "tmdb": 222031
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

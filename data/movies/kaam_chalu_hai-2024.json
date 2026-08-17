@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaam_chalu_hai_2024",
+  "title": "Kaam Chalu Hai",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125470463",
+    "imdb": "tt30783769",
+    "tmdb": 1274217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-19"
+}

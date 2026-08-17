@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meghna_konnya_2024",
+  "title": "Meghna Konnya",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125395789",
+    "imdb": "tt31638238",
+    "tmdb": 1363389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

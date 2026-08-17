@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cocaine_werewolf_2024",
+  "title": "Cocaine Werewolf",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129255850",
+    "imdb": "tt31448377",
+    "tmdb": 1258195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05",
+  "runtime_minutes": 80
+}

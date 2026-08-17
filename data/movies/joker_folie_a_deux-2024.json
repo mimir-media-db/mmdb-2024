@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joker_folie_a_deux_2024",
+  "title": "Joker: Folie à Deux",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108628759",
+    "imdb": "tt11315808",
+    "tmdb": 889737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 138
+}

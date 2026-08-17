@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_go_2024",
+  "title": "Let Go",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123944157",
+    "imdb": "tt27410895",
+    "tmdb": 1360721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01",
+  "runtime_minutes": 110
+}

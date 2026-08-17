@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_news_2024",
+  "title": "Good News",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123860223",
+    "imdb": "tt31307458",
+    "tmdb": 1218681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 80
+}

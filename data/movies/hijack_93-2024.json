@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hijack_93_2024",
+  "title": "Hijack '93",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130707099",
+    "imdb": "tt33540966",
+    "tmdb": 1364082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-25"
+}

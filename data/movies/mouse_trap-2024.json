@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mouse_trap_2024",
+  "title": "The Mouse Trap",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124098360",
+    "imdb": "tt30743549",
+    "tmdb": 1225377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

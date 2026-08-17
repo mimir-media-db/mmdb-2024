@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greatest_2024",
+  "title": "The Greatest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126326954",
+    "imdb": "tt17013888",
+    "tmdb": 1245087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 114
+}

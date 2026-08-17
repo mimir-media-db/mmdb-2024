@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sixteen_2024",
+  "title": "Sweet Sixteen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117458884",
+    "imdb": "tt31180541",
+    "tmdb": 1109674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

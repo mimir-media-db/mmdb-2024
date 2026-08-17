@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_look",
+  "title": "The New Look",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112124715",
+    "imdb": "tt18177528",
+    "tmdb": 157368
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

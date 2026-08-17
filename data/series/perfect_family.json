@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_family",
+  "title": "Perfect Family",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125211794",
+    "imdb": "tt33096403",
+    "tmdb": 221007
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

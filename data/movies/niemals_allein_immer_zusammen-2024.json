@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_niemals_allein_immer_zusammen_2024",
+  "title": "Niemals allein, immer zusammen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125499327",
+    "imdb": "tt32131323",
+    "tmdb": 1275262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-13",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaza_2024",
+  "title": "Gaza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138561889",
+    "tmdb": 1365747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 81
+}

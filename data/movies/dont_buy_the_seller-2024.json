@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_buy_the_seller_2024",
+  "title": "Don't Buy the Seller",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124348204",
+    "imdb": "tt22507484",
+    "tmdb": 813079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-05",
+  "runtime_minutes": 102
+}

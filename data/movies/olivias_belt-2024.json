@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olivias_belt_2024",
+  "title": "Olivia's Belt",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135940022",
+    "imdb": "tt26455805",
+    "tmdb": 1391304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 89
+}

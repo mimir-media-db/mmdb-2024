@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_get_your_lover",
+  "title": "Get Your Lover",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125544857",
+    "tmdb": 247849
+  },
+  "last_updated": "2026-08-17"
+}

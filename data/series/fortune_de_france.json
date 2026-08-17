@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fortune_de_france",
+  "title": "Fortune de France",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118141073",
+    "imdb": "tt27644193",
+    "tmdb": 222662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

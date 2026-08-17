@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_between_us_2024",
+  "title": "Far Between Us",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136679989",
+    "imdb": "tt37393132",
+    "tmdb": 1453979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-28",
+  "runtime_minutes": 13
+}

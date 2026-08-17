@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_boardwalk_2024",
+  "title": "Under the Boardwalk",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113485088",
+    "imdb": "tt10551654",
+    "tmdb": 609271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

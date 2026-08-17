@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thicket_2024",
+  "title": "The Thicket",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116965262",
+    "imdb": "tt4058618",
+    "tmdb": 395817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

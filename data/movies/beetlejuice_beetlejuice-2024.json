@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beetlejuice_beetlejuice_2024",
+  "title": "Beetlejuice Beetlejuice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112865900",
+    "imdb": "tt2049403",
+    "tmdb": 917496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-28",
+  "runtime_minutes": 104
+}

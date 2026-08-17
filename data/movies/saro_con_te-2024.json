@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saro_con_te_2024",
+  "title": "Sarò con te",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125543998",
+    "imdb": "tt32306217",
+    "tmdb": 1273576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-04"
+}

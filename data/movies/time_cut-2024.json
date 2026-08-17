@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_cut_2024",
+  "title": "Time Cut",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124393043",
+    "imdb": "tt14857528",
+    "tmdb": 827931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-30",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_thomas_mann_confidence_man_2024",
+  "title": "Confessions of Thomas Mann, Confidence Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130467539",
+    "imdb": "tt33397394",
+    "tmdb": 1361018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07",
+  "runtime_minutes": 91
+}

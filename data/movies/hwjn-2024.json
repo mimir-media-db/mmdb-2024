@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hwjn_2024",
+  "title": "HWJN",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123596324",
+    "imdb": "tt24060354",
+    "tmdb": 1073635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04"
+}

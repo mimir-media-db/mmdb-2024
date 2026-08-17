@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katas_2024",
+  "title": "Katas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124713253",
+    "imdb": "tt31031372",
+    "tmdb": 1226306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

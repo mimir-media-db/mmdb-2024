@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shawn_mendes_for_friends_and_family_only_2024",
+  "title": "Shawn Mendes: For Friends and Family Only",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130484588",
+    "imdb": "tt33852325",
+    "tmdb": 1370383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

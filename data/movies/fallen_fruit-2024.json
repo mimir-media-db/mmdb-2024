@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fallen_fruit_2024",
+  "title": "Fallen Fruit",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598255",
+    "imdb": "tt29079683",
+    "tmdb": 1256885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-05",
+  "runtime_minutes": 85
+}

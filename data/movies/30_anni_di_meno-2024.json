@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_30_anni_di_meno_2024",
+  "title": "30 anni (di meno)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130283566",
+    "imdb": "tt27145274",
+    "tmdb": 1296824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

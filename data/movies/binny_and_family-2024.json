@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_binny_and_family_2024",
+  "title": "Binny And Family",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130362806",
+    "imdb": "tt20452454",
+    "tmdb": 1341476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27"
+}

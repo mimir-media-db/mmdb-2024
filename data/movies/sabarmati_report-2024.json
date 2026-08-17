@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sabarmati_report_2024",
+  "title": "The Sabarmati Report",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124693553",
+    "imdb": "tt30889755",
+    "tmdb": 1213906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

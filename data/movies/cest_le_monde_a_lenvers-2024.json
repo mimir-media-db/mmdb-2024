@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cest_le_monde_a_lenvers_2024",
+  "title": "C'est le monde à l'envers !",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130404069",
+    "imdb": "tt32919648",
+    "tmdb": 964876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_ne_me_laisserai_plus_faire_2024",
+  "title": "Je ne me laisserai plus faire",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130175768",
+    "imdb": "tt30056829",
+    "tmdb": 1145479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 98
+}

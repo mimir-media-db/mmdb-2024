@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_otto_by_otto_2024",
+  "title": "Otto by Otto",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128115472",
+    "imdb": "tt9193060",
+    "tmdb": 1300381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

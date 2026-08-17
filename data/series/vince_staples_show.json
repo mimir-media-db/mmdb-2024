@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vince_staples_show",
+  "title": "The Vince Staples Show",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125758520",
+    "imdb": "tt21993130",
+    "tmdb": 243861
+  },
+  "last_updated": "2026-08-17"
+}

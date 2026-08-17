@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_reina_del_convento_2024",
+  "title": "La reina del convento",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123395129",
+    "imdb": "tt13986176",
+    "tmdb": 1199748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 84
+}

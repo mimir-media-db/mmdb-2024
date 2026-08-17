@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sally_2024",
+  "title": "Sally!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130473437",
+    "imdb": "tt13876004",
+    "tmdb": 1138458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-26",
+  "runtime_minutes": 94
+}

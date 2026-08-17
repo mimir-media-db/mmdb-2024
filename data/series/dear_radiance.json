@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_radiance",
+  "title": "Dear Radiance",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q111966448",
+    "imdb": "tt31624534",
+    "tmdb": 239790
+  },
+  "last_updated": "2026-08-17"
+}

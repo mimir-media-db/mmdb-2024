@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_as_beautiful_as_you",
+  "title": "As Beautiful as You",
+  "start_year": 2024,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q127083518",
+    "imdb": "tt27571873",
+    "tmdb": 219915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

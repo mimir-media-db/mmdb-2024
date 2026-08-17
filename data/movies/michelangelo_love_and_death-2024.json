@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_michelangelo_love_and_death_2024",
+  "title": "Michelangelo: Love and Death",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30101800",
+    "imdb": "tt7055784",
+    "tmdb": 463901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-28"
+}

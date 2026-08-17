@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_my_cousin_2024",
+  "title": "Me and My Cousin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123998472",
+    "imdb": "tt31187732",
+    "tmdb": 1217412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04"
+}

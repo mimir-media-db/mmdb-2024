@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_it_takes_2024",
+  "title": "Whatever it Takes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124850715",
+    "imdb": "tt30833365",
+    "tmdb": 1229905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_madness",
+  "title": "The Madness",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130289093",
+    "imdb": "tt26676489",
+    "tmdb": 220056
+  },
+  "last_updated": "2026-08-17"
+}

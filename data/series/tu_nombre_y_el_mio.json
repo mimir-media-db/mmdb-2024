@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_nombre_y_el_mio",
+  "title": "Tu nombre y el mío",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128672927",
+    "imdb": "tt33088592",
+    "tmdb": 260535
+  },
+  "last_updated": "2026-08-17"
+}

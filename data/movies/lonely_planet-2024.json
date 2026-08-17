@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_planet_2024",
+  "title": "Lonely Planet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129983519",
+    "imdb": "tt20194882",
+    "tmdb": 959429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11",
+  "runtime_minutes": 94
+}

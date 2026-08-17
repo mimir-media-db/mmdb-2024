@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_stand_of_ellen_cole_2024",
+  "title": "The Last Stand of Ellen Cole",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140393479",
+    "imdb": "tt15682498",
+    "tmdb": 1411773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-18",
+  "runtime_minutes": 97
+}

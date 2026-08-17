@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youth_spring_2024",
+  "title": "Youth (Spring)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117706339",
+    "imdb": "tt8469104",
+    "tmdb": 493514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03",
+  "runtime_minutes": 212
+}

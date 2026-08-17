@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_firing_squad_2024",
+  "title": "The Firing Squad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125814469",
+    "imdb": "tt30110854",
+    "tmdb": 1213395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-02"
+}

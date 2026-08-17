@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_2024",
+  "title": "The End",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117287129",
+    "imdb": "tt15551346",
+    "tmdb": 881366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-31"
+}

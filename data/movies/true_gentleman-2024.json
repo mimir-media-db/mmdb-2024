@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_gentleman_2024",
+  "title": "A True Gentleman",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130331993",
+    "imdb": "tt23218054",
+    "tmdb": 1352821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-26"
+}

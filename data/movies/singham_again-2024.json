@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singham_again_2024",
+  "title": "Singham Again",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528206",
+    "imdb": "tt11976134",
+    "tmdb": 1014214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

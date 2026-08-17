@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infinite_place_2024",
+  "title": "Infinite Place",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129330138",
+    "imdb": "tt30138825",
+    "tmdb": 1221294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-03",
+  "runtime_minutes": 94
+}

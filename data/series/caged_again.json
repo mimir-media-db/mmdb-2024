@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_caged_again",
+  "title": "Caged Again",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q136465519",
+    "imdb": "tt34347006",
+    "tmdb": 242682
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

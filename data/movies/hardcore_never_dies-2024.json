@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hardcore_never_dies_2024",
+  "title": "Hardcore Never Dies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123708153",
+    "imdb": "tt29607491",
+    "tmdb": 1103789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-20"
+}

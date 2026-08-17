@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coup_de_chance_2024",
+  "title": "Coup de chance",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114670912",
+    "imdb": "tt15140278",
+    "tmdb": 859235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 96
+}

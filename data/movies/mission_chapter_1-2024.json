@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_chapter_1_2024",
+  "title": "Mission: Chapter 1",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842625",
+    "imdb": "tt23752056",
+    "tmdb": 1043311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_menow_a_love_story_2024",
+  "title": "This Is Me...Now: A Love Story",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124569068",
+    "imdb": "tt30215084",
+    "tmdb": 1217343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16",
+  "runtime_minutes": 65
+}

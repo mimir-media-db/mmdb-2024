@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abhi_2024",
+  "title": "Abhi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127514862",
+    "imdb": "tt32633659"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-17",
+  "runtime_minutes": 135
+}

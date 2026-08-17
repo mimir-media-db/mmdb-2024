@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_of_magical_animals_2024",
+  "title": "School of Magical Animals",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108885070",
+    "imdb": "tt11455260",
+    "tmdb": 793937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-22",
+  "runtime_minutes": 93
+}

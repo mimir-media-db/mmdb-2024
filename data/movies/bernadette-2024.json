@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bernadette_2024",
+  "title": "Bernadette",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117025319",
+    "imdb": "tt19858184",
+    "tmdb": 961084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 93
+}

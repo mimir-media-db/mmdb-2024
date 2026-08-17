@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agastya_chapter_1_2024",
+  "title": "Agastya: Chapter 1",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125243820",
+    "imdb": "tt31433228",
+    "tmdb": 1256551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01",
+  "runtime_minutes": 170
+}

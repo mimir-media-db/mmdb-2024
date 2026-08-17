@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kahan_shuru_kahan_khatam_2024",
+  "title": "Kahan Shuru Kahan Khatam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129581086",
+    "imdb": "tt33245905",
+    "tmdb": 1341448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20"
+}

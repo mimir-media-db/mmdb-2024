@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_the_graves_the_wind_is_blowing_2024",
+  "title": "Through the Graves the Wind Is Blowing",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136261485",
+    "imdb": "tt31018975",
+    "tmdb": 1234620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 84
+}

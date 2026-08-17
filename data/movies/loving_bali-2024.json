@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loving_bali_2024",
+  "title": "Loving Bali",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118122388",
+    "imdb": "tt27651263",
+    "tmdb": 1142611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-28"
+}

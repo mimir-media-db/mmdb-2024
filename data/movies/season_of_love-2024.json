@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_season_of_love_2024",
+  "title": "Season of Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124125149",
+    "imdb": "tt30050756",
+    "tmdb": 1220635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02"
+}

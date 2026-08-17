@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_wedding_2024",
+  "title": "Beautiful Wedding",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124257974",
+    "imdb": "tt26546123",
+    "tmdb": 1096342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24",
+  "runtime_minutes": 100
+}

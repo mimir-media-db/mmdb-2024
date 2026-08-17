@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_metukim",
+  "title": "Metukim",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124535504",
+    "imdb": "tt31308890",
+    "tmdb": 245972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

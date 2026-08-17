@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_night_will_come_2024",
+  "title": "For Night Will Come",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126126338",
+    "imdb": "tt22986716",
+    "tmdb": 1158416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26",
+  "runtime_minutes": 104
+}

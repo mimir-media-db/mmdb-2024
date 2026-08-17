@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_bolero_de_ruben_2024",
+  "title": "El bolero de Rubén",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124738784",
+    "imdb": "tt31080995",
+    "tmdb": 1232694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

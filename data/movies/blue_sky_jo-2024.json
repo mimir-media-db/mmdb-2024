@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_sky_jo_2024",
+  "title": "Blue Sky Jo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129598368",
+    "imdb": "tt33327831",
+    "tmdb": 1196668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-17",
+  "runtime_minutes": 104
+}

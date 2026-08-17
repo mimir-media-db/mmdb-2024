@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_about_family_2024",
+  "title": "About Family",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597944",
+    "imdb": "tt26224870",
+    "tmdb": 1064205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-11"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_end_of_the_line",
+  "title": "End of the Line",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127272560",
+    "imdb": "tt30476509",
+    "tmdb": 242396
+  },
+  "last_updated": "2026-08-17"
+}

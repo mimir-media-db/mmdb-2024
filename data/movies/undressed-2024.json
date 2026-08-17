@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_undressed_2024",
+  "title": "Un/Dressed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126914068",
+    "imdb": "tt32272322",
+    "tmdb": 1326963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

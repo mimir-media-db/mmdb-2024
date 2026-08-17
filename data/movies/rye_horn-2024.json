@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rye_horn_2024",
+  "title": "The Rye Horn",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120648855",
+    "imdb": "tt21920634",
+    "tmdb": 816888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 103
+}

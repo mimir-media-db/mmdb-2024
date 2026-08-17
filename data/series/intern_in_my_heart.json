@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_intern_in_my_heart",
+  "title": "Intern in My Heart",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123735669",
+    "imdb": "tt14433660",
+    "tmdb": 242836
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

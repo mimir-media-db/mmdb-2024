@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cells_at_work_2024",
+  "title": "Cells at Work!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132153509",
+    "imdb": "tt27192829",
+    "tmdb": 1303162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07"
+}

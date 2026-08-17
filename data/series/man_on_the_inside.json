@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_on_the_inside",
+  "title": "A Man on the Inside",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130241306",
+    "imdb": "tt26670955",
+    "tmdb": 245312
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

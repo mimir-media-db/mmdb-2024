@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exile_never_ends_2024",
+  "title": "Exile Never Ends",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126902043",
+    "imdb": "tt32378716",
+    "tmdb": 1237873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-04",
+  "runtime_minutes": 100
+}

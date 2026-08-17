@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tripolia_tale_of_three_cities_2024",
+  "title": "Tripoli/A Tale of Three Cities",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134580907",
+    "imdb": "tt34095148",
+    "tmdb": 1374368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

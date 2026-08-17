@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hajjan_2024",
+  "title": "Hajjan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125492764",
+    "imdb": "tt15048870",
+    "tmdb": 1069180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 117
+}

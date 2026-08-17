@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_valuable_wife_2024",
+  "title": "The Most Valuable Wife",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109595388",
+    "imdb": "tt0228806",
+    "tmdb": 190931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-15",
+  "runtime_minutes": 95
+}

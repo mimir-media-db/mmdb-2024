@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morena_2024",
+  "title": "Morena",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38671356",
+    "imdb": "tt7782854",
+    "tmdb": 1299648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-05",
+  "runtime_minutes": 106
+}

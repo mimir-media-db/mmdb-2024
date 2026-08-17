@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_wild_punjab_2024",
+  "title": "Wild Wild Punjab",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127375342",
+    "imdb": "tt31514262",
+    "tmdb": 1252455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-10"
+}

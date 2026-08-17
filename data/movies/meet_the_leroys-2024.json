@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_leroys_2024",
+  "title": "Meet the Leroys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117326449",
+    "imdb": "tt28480619",
+    "tmdb": 964877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-16",
+  "runtime_minutes": 103
+}

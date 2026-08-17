@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_or_dare_2024",
+  "title": "Truth or Dare",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136763783",
+    "imdb": "tt27302416",
+    "tmdb": 1303095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

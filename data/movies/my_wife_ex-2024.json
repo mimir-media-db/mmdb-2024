@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wife_ex_2024",
+  "title": "My Wife' Ex",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128091487",
+    "imdb": "tt33053428",
+    "tmdb": 1276086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-24"
+}

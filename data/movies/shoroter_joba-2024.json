@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shoroter_joba_2024",
+  "title": "Shoroter Joba",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130534672",
+    "imdb": "tt33475386",
+    "tmdb": 1369928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-11",
+  "runtime_minutes": 123
+}

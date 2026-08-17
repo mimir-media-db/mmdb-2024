@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_life_with_ghosts_2024",
+  "title": "Still Life with Ghosts",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131538587",
+    "imdb": "tt30192612",
+    "tmdb": 1352706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

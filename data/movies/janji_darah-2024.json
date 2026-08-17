@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_janji_darah_2024",
+  "title": "Janji Darah",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355289",
+    "imdb": "tt32569446",
+    "tmdb": 1301273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-04"
+}

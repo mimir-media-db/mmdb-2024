@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dads_lullaby_2024",
+  "title": "Dad's Lullaby",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130304203",
+    "imdb": "tt21811692",
+    "tmdb": 1341257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-18",
+  "runtime_minutes": 78
+}

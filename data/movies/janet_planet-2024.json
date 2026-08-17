@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janet_planet_2024",
+  "title": "Janet Planet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121334864",
+    "imdb": "tt28366692",
+    "tmdb": 1037035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21",
+  "runtime_minutes": 113
+}

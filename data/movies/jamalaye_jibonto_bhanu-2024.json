@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jamalaye_jibonto_bhanu_2024",
+  "title": "Jamalaye Jibonto Bhanu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130677792",
+    "imdb": "tt27203513",
+    "tmdb": 1016886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-15"
+}

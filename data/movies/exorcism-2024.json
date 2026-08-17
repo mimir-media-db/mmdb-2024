@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exorcism_2024",
+  "title": "The Exorcism",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73792046",
+    "imdb": "tt11240348",
+    "tmdb": 646683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21",
+  "runtime_minutes": 93
+}

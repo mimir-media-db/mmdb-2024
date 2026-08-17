@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golda_2024",
+  "title": "Golda",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107621661",
+    "imdb": "tt14454876",
+    "tmdb": 899524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_preminchoddu_2024",
+  "title": "Preminchoddu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131177991",
+    "imdb": "tt29354056",
+    "tmdb": 1414664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_owning_manhattan",
+  "title": "Owning Manhattan",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127876198",
+    "imdb": "tt32460481",
+    "tmdb": 255690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

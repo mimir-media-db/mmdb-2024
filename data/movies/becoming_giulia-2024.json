@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_giulia_2024",
+  "title": "Becoming Giulia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123909091",
+    "imdb": "tt21944838",
+    "tmdb": 1022154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-18",
+  "runtime_minutes": 100
+}

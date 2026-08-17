@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucy_grizzli_sophie_2024",
+  "title": "Lucy Grizzli Sophie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124649732",
+    "imdb": "tt29630504",
+    "tmdb": 1004994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-21",
+  "runtime_minutes": 89
+}

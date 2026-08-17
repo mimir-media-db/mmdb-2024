@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_to_the_moon_and_back_2024",
+  "title": "I Love You, to the Moon, and Back",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137162214",
+    "imdb": "tt26732344",
+    "tmdb": 1116469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01"
+}

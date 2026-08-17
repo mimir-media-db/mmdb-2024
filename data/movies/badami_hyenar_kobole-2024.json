@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_badami_hyenar_kobole_2024",
+  "title": "Badami Hyenar Kobole",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123244803",
+    "imdb": "tt29522518",
+    "tmdb": 1127826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rest_in_pieces_2024",
+  "title": "Rest in Pieces",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133865067",
+    "imdb": "tt34111110",
+    "tmdb": 1373124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-18",
+  "runtime_minutes": 67
+}

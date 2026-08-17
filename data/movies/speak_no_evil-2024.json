@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speak_no_evil_2024",
+  "title": "Speak No Evil",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119064873",
+    "imdb": "tt27534307",
+    "tmdb": 1114513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-12",
+  "runtime_minutes": 110
+}

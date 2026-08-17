@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_historia_del_agua_de_mendoza_2024",
+  "title": "Historia del Agua de Mendoza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132410222",
+    "tmdb": 1251960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 98
+}

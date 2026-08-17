@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karaoke_2024",
+  "title": "Karaoké",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124810058",
+    "imdb": "tt28244038",
+    "tmdb": 1088570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-20",
+  "runtime_minutes": 89
+}

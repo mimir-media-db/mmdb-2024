@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_germany",
+  "title": "Made in Germany",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130631796",
+    "imdb": "tt28247376",
+    "tmdb": 265148
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

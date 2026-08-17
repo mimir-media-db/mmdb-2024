@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vittoria_2024",
+  "title": "Vittoria",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130497479",
+    "imdb": "tt32038799",
+    "tmdb": 1295517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30"
+}

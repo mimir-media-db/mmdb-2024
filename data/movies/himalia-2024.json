@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_himalia_2024",
+  "title": "Himalia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137926691",
+    "imdb": "tt28485954",
+    "tmdb": 1362234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-01",
+  "runtime_minutes": 21
+}

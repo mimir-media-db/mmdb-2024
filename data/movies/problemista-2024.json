@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_problemista_2024",
+  "title": "Problemista",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116692764",
+    "imdb": "tt15078804",
+    "tmdb": 852247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22",
+  "runtime_minutes": 98
+}

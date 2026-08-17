@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prom_dates_2024",
+  "title": "Prom Dates",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124883607",
+    "imdb": "tt29919979",
+    "tmdb": 1227780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 86
+}

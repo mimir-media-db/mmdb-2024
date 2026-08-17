@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_elkhorn",
+  "title": "Elkhorn",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125020357",
+    "imdb": "tt31028625",
+    "tmdb": 244330
+  },
+  "last_updated": "2026-08-17"
+}

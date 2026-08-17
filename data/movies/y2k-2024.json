@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_y2k_2024",
+  "title": "Y2K",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117481301",
+    "imdb": "tt27218960",
+    "tmdb": 1094274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09",
+  "runtime_minutes": 93
+}

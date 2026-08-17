@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nawi_2024",
+  "title": "Nawi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130717297",
+    "imdb": "tt33318721",
+    "tmdb": 1355803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

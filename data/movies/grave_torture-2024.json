@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grave_torture_2024",
+  "title": "Grave Torture",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125423852",
+    "imdb": "tt27004148",
+    "tmdb": 1119527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 117
+}

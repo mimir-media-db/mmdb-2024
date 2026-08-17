@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_gun_from_the_files_of_police_squad_2024",
+  "title": "The Naked Gun: From the Files of Police Squad!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q832047",
+    "imdb": "tt0095705",
+    "tmdb": 37136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-28",
+  "runtime_minutes": 85
+}

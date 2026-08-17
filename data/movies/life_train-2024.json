@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_train_2024",
+  "title": "Life Train",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573774",
+    "imdb": "tt31103027",
+    "tmdb": 1364954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14",
+  "runtime_minutes": 90
+}

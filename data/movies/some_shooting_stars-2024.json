@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_some_shooting_stars_2024",
+  "title": "Some Shooting Stars",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125694771",
+    "imdb": "tt31797833",
+    "tmdb": 979473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-23",
+  "runtime_minutes": 102
+}

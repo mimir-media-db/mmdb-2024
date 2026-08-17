@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_the_seven_oceans_2024",
+  "title": "Curse of the Seven Oceans",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132165349",
+    "imdb": "tt32495411",
+    "tmdb": 1269108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-07"
+}

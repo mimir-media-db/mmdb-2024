@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_shift_2024",
+  "title": "First Shift",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125256467",
+    "imdb": "tt26434746",
+    "tmdb": 1090007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-10"
+}

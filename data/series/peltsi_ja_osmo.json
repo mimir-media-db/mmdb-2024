@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_peltsi_ja_osmo",
+  "title": "Peltsi ja Osmo",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135471394",
+    "imdb": "tt35242475",
+    "tmdb": 281990
+  },
+  "last_updated": "2026-08-17"
+}

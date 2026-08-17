@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alaska_baby_2024",
+  "title": "Alaska Baby",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133391979",
+    "imdb": "tt35993662"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-18",
+  "runtime_minutes": 31
+}

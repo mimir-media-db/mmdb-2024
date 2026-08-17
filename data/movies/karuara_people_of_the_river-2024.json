@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karuara_people_of_the_river_2024",
+  "title": "Karuara, People of the River",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129730144",
+    "imdb": "tt32065685",
+    "tmdb": 1266623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 78
+}

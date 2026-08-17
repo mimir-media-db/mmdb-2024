@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miranda_de_viernes_a_lunes_2024",
+  "title": "Miranda de viernes a lunes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134607511",
+    "imdb": "tt30886556",
+    "tmdb": 888854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 86
+}

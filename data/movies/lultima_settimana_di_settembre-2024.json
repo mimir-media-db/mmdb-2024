@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lultima_settimana_di_settembre_2024",
+  "title": "L'ultima settimana di settembre",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130316248",
+    "imdb": "tt3008844"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

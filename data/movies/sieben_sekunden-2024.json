@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sieben_sekunden_2024",
+  "title": "Sieben Sekunden",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126032722",
+    "tmdb": 1265048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-28",
+  "runtime_minutes": 99
+}

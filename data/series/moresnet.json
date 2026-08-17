@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_moresnet",
+  "title": "Moresnet",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136807779",
+    "imdb": "tt22871950",
+    "tmdb": 228851
+  },
+  "last_updated": "2026-08-17"
+}

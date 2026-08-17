@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_year_that_never_came_2024",
+  "title": "The New Year That Never Came",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130108154",
+    "imdb": "tt33030375",
+    "tmdb": 1320276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 138
+}

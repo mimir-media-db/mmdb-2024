@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pailam_pilaga_2024",
+  "title": "Pailam Pilaga",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130344609",
+    "imdb": "tt33062754",
+    "tmdb": 1357437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20"
+}

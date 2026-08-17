@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_the_projectionist_2024",
+  "title": "The Return of the Projectionist",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130266306",
+    "imdb": "tt32020174",
+    "tmdb": 1274787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-01",
+  "runtime_minutes": 90
+}

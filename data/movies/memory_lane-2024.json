@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_lane_2024",
+  "title": "Memory Lane",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130316199",
+    "imdb": "tt20519180",
+    "tmdb": 1245874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-21"
+}

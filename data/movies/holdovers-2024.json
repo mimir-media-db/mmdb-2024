@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holdovers_2024",
+  "title": "The Holdovers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112114745",
+    "imdb": "tt14849194",
+    "tmdb": 840430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-29",
+  "runtime_minutes": 133
+}

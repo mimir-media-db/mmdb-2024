@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_young_picasso_2024",
+  "title": "Exhibition on Screen: Young Picasso",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61989802",
+    "imdb": "tt9298612",
+    "tmdb": 527089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-16",
+  "runtime_minutes": 85
+}

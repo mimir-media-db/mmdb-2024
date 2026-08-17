@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_color_of_air_2024",
+  "title": "The Color of Air",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130388201",
+    "imdb": "tt33641832",
+    "tmdb": 1354866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-28"
+}

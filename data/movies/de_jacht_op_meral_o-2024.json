@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_jacht_op_meral_o_2024",
+  "title": "De Jacht op Meral Ö",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130280980",
+    "imdb": "tt31194049",
+    "tmdb": 1308745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-02"
+}

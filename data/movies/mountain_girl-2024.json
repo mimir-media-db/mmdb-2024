@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mountain_girl_2024",
+  "title": "Mountain Girl",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133572990",
+    "imdb": "tt31938238",
+    "tmdb": 1265888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-27"
+}

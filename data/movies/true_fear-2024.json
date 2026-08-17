@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_fear_2024",
+  "title": "True Fear",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125739288",
+    "imdb": "tt28668007",
+    "tmdb": 1245398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06"
+}

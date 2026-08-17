@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ronja_the_robbers_daughter",
+  "title": "Ronja the Robber's Daughter",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q113638147",
+    "imdb": "tt15379396",
+    "tmdb": 209809
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

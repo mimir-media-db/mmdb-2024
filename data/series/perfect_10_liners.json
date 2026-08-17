@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_10_liners",
+  "title": "Perfect 10 Liners",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130640107",
+    "imdb": "tt32237667",
+    "tmdb": 252650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

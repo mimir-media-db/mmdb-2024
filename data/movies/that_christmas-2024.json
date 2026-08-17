@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_christmas_2024",
+  "title": "That Christmas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112726939",
+    "imdb": "tt14855468",
+    "tmdb": 645757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-04",
+  "runtime_minutes": 92
+}

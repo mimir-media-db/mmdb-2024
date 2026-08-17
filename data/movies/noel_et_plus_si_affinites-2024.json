@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noel_et_plus_si_affinites_2024",
+  "title": "Noël… et plus si affinités",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187452",
+    "imdb": "tt31590631",
+    "tmdb": 1082238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-07"
+}

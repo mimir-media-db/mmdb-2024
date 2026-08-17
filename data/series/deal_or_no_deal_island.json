@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deal_or_no_deal_island",
+  "title": "Deal or No Deal Island",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124249871",
+    "imdb": "tt28454369",
+    "tmdb": 243408
+  },
+  "last_updated": "2026-08-17"
+}

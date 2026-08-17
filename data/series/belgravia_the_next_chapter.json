@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_belgravia_the_next_chapter",
+  "title": "Belgravia: The Next Chapter",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122707497",
+    "imdb": "tt23931190",
+    "tmdb": 211180
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

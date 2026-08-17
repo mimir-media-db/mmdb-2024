@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vindication_swim_2024",
+  "title": "Vindication Swim",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105095126",
+    "imdb": "tt10776714",
+    "tmdb": 1049000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

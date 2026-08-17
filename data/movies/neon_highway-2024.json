@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neon_highway_2024",
+  "title": "The Neon Highway",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123900126",
+    "imdb": "tt14356266",
+    "tmdb": 1223440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-27"
+}

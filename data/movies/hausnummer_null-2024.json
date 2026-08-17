@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hausnummer_null_2024",
+  "title": "Hausnummer Null",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127790948",
+    "imdb": "tt32369687"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24",
+  "runtime_minutes": 95
+}

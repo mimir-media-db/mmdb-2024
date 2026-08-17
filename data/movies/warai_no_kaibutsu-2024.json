@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_warai_no_kaibutsu_2024",
+  "title": "Warai no Kaibutsu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130581699",
+    "imdb": "tt30832536",
+    "tmdb": 1212560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-05"
+}

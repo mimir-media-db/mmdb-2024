@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_patti_2024",
+  "title": "Do Patti",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130424855",
+    "imdb": "tt28075881",
+    "tmdb": 1148172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-25",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_rizk_iii_2024",
+  "title": "Sons of Rizk III",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126489322",
+    "imdb": "tt20877986",
+    "tmdb": 629040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-12"
+}

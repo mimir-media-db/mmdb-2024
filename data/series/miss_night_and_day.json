@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_night_and_day",
+  "title": "Miss Night and Day",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125865640",
+    "imdb": "tt30368332",
+    "tmdb": 231749
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

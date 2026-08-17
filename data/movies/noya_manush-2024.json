@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_noya_manush_2024",
+  "title": "Noya Manush",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131386696",
+    "imdb": "tt34883545"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-06"
+}

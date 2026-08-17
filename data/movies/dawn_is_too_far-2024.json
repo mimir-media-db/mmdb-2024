@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dawn_is_too_far_2024",
+  "title": "The Dawn is Too Far",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130278421",
+    "imdb": "tt33085802",
+    "tmdb": 1551186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-31",
+  "runtime_minutes": 55
+}

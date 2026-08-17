@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daaaaaali_2024",
+  "title": "Daaaaaalí !",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117006376",
+    "imdb": "tt23476446",
+    "tmdb": 1045770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-07",
+  "runtime_minutes": 77
+}

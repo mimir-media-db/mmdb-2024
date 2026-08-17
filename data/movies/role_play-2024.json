@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_role_play_2024",
+  "title": "Role Play",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113212962",
+    "imdb": "tt12964320",
+    "tmdb": 848187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uprising_2024",
+  "title": "Uprising",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123760976",
+    "imdb": "tt27987046",
+    "tmdb": 1075676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 126
+}

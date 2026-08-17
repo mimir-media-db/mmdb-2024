@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limpermeable_magique_2024",
+  "title": "L'Imperméable Magique",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131606085",
+    "imdb": "tt26445481",
+    "tmdb": 1277172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-03",
+  "runtime_minutes": 89
+}

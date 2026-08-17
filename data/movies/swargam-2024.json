@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swargam_2024",
+  "title": "Swargam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131341673",
+    "imdb": "tt32161676",
+    "tmdb": 1372862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-08"
+}

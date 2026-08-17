@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mis_ganas_ganan_la_historia_de_elena_huelva_2024",
+  "title": "Mis ganas ganan, la historia de Elena Huelva",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125274904",
+    "imdb": "tt31925219",
+    "tmdb": 1256188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

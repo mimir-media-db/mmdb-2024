@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kingdom_2024",
+  "title": "The Kingdom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126075285",
+    "imdb": "tt32086032",
+    "tmdb": 1079311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-20",
+  "runtime_minutes": 108
+}

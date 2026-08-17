@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ape_x_mecha_ape_new_world_order_2024",
+  "title": "Ape x Mecha Ape: New World Order",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132404992",
+    "imdb": "tt30816499",
+    "tmdb": 1269539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 87
+}

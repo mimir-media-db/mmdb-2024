@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yalla_parkour_2024",
+  "title": "Yalla Parkour",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131802622",
+    "imdb": "tt12402876",
+    "tmdb": 1370210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01"
+}

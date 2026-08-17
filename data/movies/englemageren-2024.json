@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_englemageren_2024",
+  "title": "Englemageren",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120476405",
+    "imdb": "tt22203026",
+    "tmdb": 1115377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 93
+}

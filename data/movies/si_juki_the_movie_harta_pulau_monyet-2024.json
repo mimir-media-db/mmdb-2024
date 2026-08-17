@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_si_juki_the_movie_harta_pulau_monyet_2024",
+  "title": "Si Juki The Movie: Harta Pulau Monyet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97309111",
+    "imdb": "tt10640084",
+    "tmdb": 617209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-27"
+}

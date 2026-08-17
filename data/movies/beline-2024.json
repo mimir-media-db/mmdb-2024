@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beline_2024",
+  "title": "Beline",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125148716",
+    "imdb": "tt15512754",
+    "tmdb": 1256074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29"
+}

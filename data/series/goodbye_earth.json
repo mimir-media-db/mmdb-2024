@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_goodbye_earth",
+  "title": "Goodbye Earth",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113504488",
+    "imdb": "tt17492848",
+    "tmdb": 139547
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

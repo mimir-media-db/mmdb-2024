@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutant_2024",
+  "title": "Mutant",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691865",
+    "imdb": "tt32386443",
+    "tmdb": 1295415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_up_mom_2024",
+  "title": "Wake Up Mom",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129677497",
+    "imdb": "tt26258388",
+    "tmdb": 1297044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-30",
+  "runtime_minutes": 99
+}

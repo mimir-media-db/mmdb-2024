@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaalchitra_ekhon_2024",
+  "title": "Chaalchitra Ekhon",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125955010",
+    "imdb": "tt32199478",
+    "tmdb": 975554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-10",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_case_2024",
+  "title": "An Ordinary Case",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124789445",
+    "imdb": "tt29102598",
+    "tmdb": 1136394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-21",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nova_alice_2024",
+  "title": "Nova & Alice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125461928",
+    "imdb": "tt32064571",
+    "tmdb": 1278076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lady_jane",
+  "title": "My Lady Jane",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116798236",
+    "imdb": "tt11379456",
+    "tmdb": 203413
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

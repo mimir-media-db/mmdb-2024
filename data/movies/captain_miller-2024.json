@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_miller_2024",
+  "title": "Captain Miller",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118383015",
+    "imdb": "tt22170036",
+    "tmdb": 962074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 157
+}

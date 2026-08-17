@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_jodi_are_u_ready",
+  "title": "Jodi Are U Ready",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124326467",
+    "imdb": "tt12404058"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aay_2024",
+  "title": "Aay",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129169439",
+    "imdb": "tt28359277",
+    "tmdb": 1330078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16",
+  "runtime_minutes": 139
+}

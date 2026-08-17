@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_uniquely_ours",
+  "title": "Uniquely Ours",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134464176",
+    "imdb": "tt35130041",
+    "tmdb": 278968
+  },
+  "last_updated": "2026-08-17"
+}

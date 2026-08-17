@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_segreto_di_liberato_2024",
+  "title": "Il segreto di Liberato",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126086586",
+    "imdb": "tt32063216",
+    "tmdb": 1272285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-09"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_that_gives_2024",
+  "title": "The Gift That Gives",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135920219",
+    "imdb": "tt23462622",
+    "tmdb": 1225776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

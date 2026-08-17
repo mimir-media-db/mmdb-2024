@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killers_game_2024",
+  "title": "The Killer's Game",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121091587",
+    "imdb": "tt0327785",
+    "tmdb": 507241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13",
+  "runtime_minutes": 104
+}

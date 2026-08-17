@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_completely_madeup_adventures_of_dick_turpin",
+  "title": "The Completely Made-Up Adventures of Dick Turpin",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124314022",
+    "imdb": "tt19516036",
+    "tmdb": 197459
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

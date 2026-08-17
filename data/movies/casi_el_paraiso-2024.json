@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_casi_el_paraiso_2024",
+  "title": "Casi el Paraíso",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122827715",
+    "imdb": "tt27836519",
+    "tmdb": 1232732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

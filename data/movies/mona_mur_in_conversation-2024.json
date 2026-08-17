@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mona_mur_in_conversation_2024",
+  "title": "Mona Mur in Conversation",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135981386",
+    "imdb": "tt34554826",
+    "tmdb": 1514535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 87
+}

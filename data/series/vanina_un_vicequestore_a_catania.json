@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vanina_un_vicequestore_a_catania",
+  "title": "Vanina - Un vicequestore a Catania",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125008955",
+    "imdb": "tt31721916",
+    "tmdb": 250498
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

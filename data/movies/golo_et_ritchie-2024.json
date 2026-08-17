@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golo_et_ritchie_2024",
+  "title": "Golo et Ritchie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129110874",
+    "imdb": "tt33029251",
+    "tmdb": 1290941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-14",
+  "runtime_minutes": 74
+}

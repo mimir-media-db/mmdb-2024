@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brothers_dream_awake_2024",
+  "title": "My Brothers Dream Awake",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109255534",
+    "imdb": "tt15078266",
+    "tmdb": 743374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-13",
+  "runtime_minutes": 85
+}

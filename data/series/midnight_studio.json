@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_studio",
+  "title": "The Midnight Studio",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124310925",
+    "imdb": "tt31261522",
+    "tmdb": 223890
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

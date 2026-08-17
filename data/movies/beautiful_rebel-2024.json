@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_rebel_2024",
+  "title": "Beautiful Rebel",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124544558",
+    "imdb": "tt28690443",
+    "tmdb": 1156966
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02",
+  "runtime_minutes": 113
+}

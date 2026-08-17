@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sopilka_peruna_2024",
+  "title": "Sopilka Peruna",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575631",
+    "imdb": "tt32656109",
+    "tmdb": 1300276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-15",
+  "runtime_minutes": 68
+}

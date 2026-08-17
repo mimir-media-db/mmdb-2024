@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deliverance_2024",
+  "title": "The Deliverance",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115806052",
+    "imdb": "tt4196566",
+    "tmdb": 930600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16"
+}

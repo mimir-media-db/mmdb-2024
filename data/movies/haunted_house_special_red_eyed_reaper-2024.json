@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_house_special_red_eyed_reaper_2024",
+  "title": "The Haunted House Special: Red Eyed Reaper",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127727204",
+    "imdb": "tt33242065",
+    "tmdb": 1322349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-14"
+}

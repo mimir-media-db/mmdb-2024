@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pidyomna_syla_2024",
+  "title": "Pidyomna syla",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573897",
+    "imdb": "tt33308490"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-10",
+  "runtime_minutes": 87
+}

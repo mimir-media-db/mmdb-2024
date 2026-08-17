@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_white_man_2024",
+  "title": "Old White Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124061756",
+    "imdb": "tt32216008",
+    "tmdb": 1219560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-31",
+  "runtime_minutes": 114
+}

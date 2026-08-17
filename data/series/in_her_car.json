@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_in_her_car",
+  "title": "In Her Car",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124629890",
+    "imdb": "tt28083023",
+    "tmdb": 236652
+  },
+  "last_updated": "2026-08-17"
+}

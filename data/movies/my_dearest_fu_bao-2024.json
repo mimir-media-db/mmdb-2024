@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dearest_fu_bao_2024",
+  "title": "My Dearest Fu Bao",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125619068",
+    "imdb": "tt33368329",
+    "tmdb": 1314450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-04"
+}

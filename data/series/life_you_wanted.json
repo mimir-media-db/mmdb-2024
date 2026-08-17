@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_life_you_wanted",
+  "title": "The Life You Wanted",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123024861",
+    "imdb": "tt28019927",
+    "tmdb": 253361
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

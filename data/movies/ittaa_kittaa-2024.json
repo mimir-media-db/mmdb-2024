@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ittaa_kittaa_2024",
+  "title": "Ittaa Kittaa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124080292",
+    "imdb": "tt29615171",
+    "tmdb": 1232514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-19",
+  "runtime_minutes": 123
+}

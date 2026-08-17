@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_bois_assassins_2024",
+  "title": "Les Bois assassins",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123024489",
+    "imdb": "tt31721945",
+    "tmdb": 1186671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-11",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emu_war_2024",
+  "title": "The Emu War",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135920371",
+    "imdb": "tt29486767",
+    "tmdb": 1190531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

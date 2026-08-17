@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pourquoi_tu_souris_2024",
+  "title": "Pourquoi tu souris ?",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126279549",
+    "imdb": "tt26998074",
+    "tmdb": 1000079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-03",
+  "runtime_minutes": 95
+}

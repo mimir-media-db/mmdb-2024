@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saintexupery_2024",
+  "title": "Saint-Exupery",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131110879",
+    "imdb": "tt27156915",
+    "tmdb": 1056652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-12",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_is_she",
+  "title": "Who Is She",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130596257",
+    "imdb": "tt29899900",
+    "tmdb": 221550
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

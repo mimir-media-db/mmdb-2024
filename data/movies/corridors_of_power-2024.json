@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corridors_of_power_2024",
+  "title": "The Corridors Of Power",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125498864",
+    "imdb": "tt22020670",
+    "tmdb": 1019418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-30",
+  "runtime_minutes": 135
+}

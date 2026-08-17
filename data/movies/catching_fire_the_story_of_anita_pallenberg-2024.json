@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catching_fire_the_story_of_anita_pallenberg_2024",
+  "title": "Catching Fire: The Story of Anita Pallenberg",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125968859",
+    "imdb": "tt27766499",
+    "tmdb": 1122602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03",
+  "runtime_minutes": 113
+}

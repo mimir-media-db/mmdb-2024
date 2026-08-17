@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_assistant_2024",
+  "title": "The Assistant",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130296115",
+    "imdb": "tt30625671",
+    "tmdb": 1196747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

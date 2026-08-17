@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sada_ronger_prithibi_2024",
+  "title": "Sada Ronger Prithibi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124652102",
+    "imdb": "tt28566029",
+    "tmdb": 1103768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23"
+}

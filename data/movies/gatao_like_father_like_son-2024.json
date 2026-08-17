@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gatao_like_father_like_son_2024",
+  "title": "GATAO: Like Father Like Son",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131411541",
+    "imdb": "tt32915791",
+    "tmdb": 1303236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thaghut_2024",
+  "title": "Thaghut",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130287590",
+    "imdb": "tt32642725",
+    "tmdb": 1262496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29",
+  "runtime_minutes": 102
+}

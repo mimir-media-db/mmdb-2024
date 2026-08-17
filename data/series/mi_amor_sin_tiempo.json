@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_amor_sin_tiempo",
+  "title": "Mi amor sin tiempo",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126284846",
+    "imdb": "tt32383381",
+    "tmdb": 259086
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

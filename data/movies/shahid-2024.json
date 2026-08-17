@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shahid_2024",
+  "title": "Shahid",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124435298",
+    "imdb": "tt30808146",
+    "tmdb": 1233297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

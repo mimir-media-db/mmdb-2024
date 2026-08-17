@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_from_the_cellar_2024",
+  "title": "Stories from the Cellar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575570",
+    "imdb": "tt35052250",
+    "tmdb": 1404367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-09",
+  "runtime_minutes": 81
+}

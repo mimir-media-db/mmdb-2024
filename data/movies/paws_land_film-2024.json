@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paws_land_film_2024",
+  "title": "Paws Land (film)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134520590",
+    "imdb": "tt35841524"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-27",
+  "runtime_minutes": 103
+}

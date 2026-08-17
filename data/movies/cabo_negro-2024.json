@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cabo_negro_2024",
+  "title": "Cabo Negro",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130461592",
+    "imdb": "tt32478023",
+    "tmdb": 1297024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

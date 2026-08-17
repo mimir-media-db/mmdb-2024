@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lembayung_2024",
+  "title": "Lembayung",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134081286",
+    "imdb": "tt29899715",
+    "tmdb": 1164355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-19"
+}

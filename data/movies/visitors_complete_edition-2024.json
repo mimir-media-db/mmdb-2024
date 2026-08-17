@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visitors_complete_edition_2024",
+  "title": "Visitors - Complete Edition-",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867589",
+    "imdb": "tt29143170",
+    "tmdb": 1165462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23"
+}

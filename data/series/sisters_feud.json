@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sisters_feud",
+  "title": "Sisters' Feud",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130562351",
+    "imdb": "tt31226362",
+    "tmdb": 274558
+  },
+  "last_updated": "2026-08-17"
+}

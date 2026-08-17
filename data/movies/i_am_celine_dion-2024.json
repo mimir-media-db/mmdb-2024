@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_celine_dion_2024",
+  "title": "I Am: Celine Dion",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125510641",
+    "imdb": "tt28620587",
+    "tmdb": 879805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-17",
+  "runtime_minutes": 102
+}

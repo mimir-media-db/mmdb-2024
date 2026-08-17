@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breakfast_with_giraffes_2024",
+  "title": "Breakfast with Giraffes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124079925",
+    "imdb": "tt30764843",
+    "tmdb": 1236291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

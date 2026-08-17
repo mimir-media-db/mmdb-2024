@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_follow_bear_to_adventure_2024",
+  "title": "Follow Bear To Adventure",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691862",
+    "imdb": "tt29307747",
+    "tmdb": 1192417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12"
+}

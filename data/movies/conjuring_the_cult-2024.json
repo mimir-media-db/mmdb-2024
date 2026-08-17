@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conjuring_the_cult_2024",
+  "title": "Conjuring the Cult",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131908083",
+    "imdb": "tt32545223",
+    "tmdb": 1359977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

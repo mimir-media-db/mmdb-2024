@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tokimeki_bakudan",
+  "title": "Tokimeki Bakudan",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136747907",
+    "tmdb": 278586
+  },
+  "last_updated": "2026-08-17"
+}

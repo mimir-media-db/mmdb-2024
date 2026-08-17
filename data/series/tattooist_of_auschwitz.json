@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tattooist_of_auschwitz",
+  "title": "The Tattooist of Auschwitz",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117704007",
+    "imdb": "tt9022422",
+    "tmdb": 222405
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

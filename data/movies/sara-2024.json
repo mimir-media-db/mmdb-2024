@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sara_2024",
+  "title": "Sara",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140377033",
+    "imdb": "tt36817736",
+    "tmdb": 1324485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 17
+}

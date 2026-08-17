@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skywalkers_a_love_story_2024",
+  "title": "Skywalkers: A Love Story",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124323599",
+    "imdb": "tt30319830",
+    "tmdb": 1214488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-19",
+  "runtime_minutes": 100
+}

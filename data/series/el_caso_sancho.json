@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_caso_sancho",
+  "title": "El caso Sancho",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125955667",
+    "imdb": "tt33319186",
+    "tmdb": 263246
+  },
+  "last_updated": "2026-08-17"
+}

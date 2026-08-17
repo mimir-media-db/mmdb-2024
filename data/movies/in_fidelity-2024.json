@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_fidelity_2024",
+  "title": "In Fidelity",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130545587",
+    "imdb": "tt22899346",
+    "tmdb": 1381522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-04"
+}

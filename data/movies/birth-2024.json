@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_2024",
+  "title": "Birth",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125635770",
+    "imdb": "tt18969840",
+    "tmdb": 1248529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 101
+}

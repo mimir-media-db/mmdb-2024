@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_babes_2024",
+  "title": "Killer Babes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124176386",
+    "imdb": "tt29897924",
+    "tmdb": 1227624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

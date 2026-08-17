@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simon_of_the_mountain_2024",
+  "title": "Simon of the Mountain",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125938891",
+    "imdb": "tt32119337",
+    "tmdb": 1274686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaga_chromatica_ball_2024",
+  "title": "Gaga Chromatica Ball",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125858197",
+    "imdb": "tt29794647",
+    "tmdb": 1063549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-25"
+}

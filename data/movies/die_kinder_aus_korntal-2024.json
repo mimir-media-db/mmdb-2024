@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_kinder_aus_korntal_2024",
+  "title": "Die Kinder aus Korntal",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128034649",
+    "imdb": "tt29485508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-26",
+  "runtime_minutes": 95
+}

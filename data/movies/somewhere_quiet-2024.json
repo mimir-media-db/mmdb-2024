@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_quiet_2024",
+  "title": "Somewhere Quiet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119916853",
+    "imdb": "tt15479438",
+    "tmdb": 1114922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02",
+  "runtime_minutes": 98
+}

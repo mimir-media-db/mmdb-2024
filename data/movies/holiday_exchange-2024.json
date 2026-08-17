@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_exchange_2024",
+  "title": "The Holiday Exchange",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131600300",
+    "imdb": "tt27420000",
+    "tmdb": 1111794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

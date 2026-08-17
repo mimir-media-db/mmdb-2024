@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maru_2024",
+  "title": "Maru",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867507",
+    "imdb": "tt33669276",
+    "tmdb": 1304880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-18",
+  "runtime_minutes": 117
+}

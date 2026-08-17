@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_typhoon_club_2024",
+  "title": "Typhoon Club",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74437",
+    "imdb": "tt0088222",
+    "tmdb": 108634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 115
+}

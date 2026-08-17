@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soodabeh_2024",
+  "title": "Soodabeh",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108551990",
+    "imdb": "tt15081530",
+    "tmdb": 1506921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-21"
+}

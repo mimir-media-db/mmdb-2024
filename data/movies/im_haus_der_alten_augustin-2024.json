@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_im_haus_der_alten_augustin_2024",
+  "title": "Im Haus der alten Augustin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125472589",
+    "imdb": "tt32433286"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-08"
+}

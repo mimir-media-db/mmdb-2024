@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanu_man_2024",
+  "title": "Hanu Man",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108940313",
+    "imdb": "tt15433956",
+    "tmdb": 869760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 158
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clean_up_crew_2024",
+  "title": "Clean Up Crew",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123144592",
+    "imdb": "tt21614558",
+    "tmdb": 1010161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-20"
+}

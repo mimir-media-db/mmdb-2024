@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_aznavour_2024",
+  "title": "Monsieur Aznavour",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121118356",
+    "imdb": "tt26743414",
+    "tmdb": 1002155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 133
+}

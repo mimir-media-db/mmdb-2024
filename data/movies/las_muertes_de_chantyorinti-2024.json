@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_las_muertes_de_chantyorinti_2024",
+  "title": "Las muertes de Chantyorinti",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137274709",
+    "imdb": "tt38531311",
+    "tmdb": 1389485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

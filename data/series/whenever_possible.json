@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_whenever_possible",
+  "title": "Whenever Possible",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125524050",
+    "imdb": "tt34460456",
+    "tmdb": 247805
+  },
+  "last_updated": "2026-08-17"
+}

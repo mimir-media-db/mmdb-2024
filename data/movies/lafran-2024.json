@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lafran_2024",
+  "title": "Lafran",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130858934",
+    "imdb": "tt31250833",
+    "tmdb": 1204866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-16",
+  "runtime_minutes": 99
+}

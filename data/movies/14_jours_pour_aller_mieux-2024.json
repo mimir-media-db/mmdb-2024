@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_jours_pour_aller_mieux_2024",
+  "title": "14 jours pour aller mieux",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124356758",
+    "imdb": "tt29007338",
+    "tmdb": 1118841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-19",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_border_2024",
+  "title": "Green Border",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116996004",
+    "imdb": "tt27722543",
+    "tmdb": 1121956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-27",
+  "runtime_minutes": 147
+}

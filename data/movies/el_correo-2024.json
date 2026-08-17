@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_correo_2024",
+  "title": "El correo",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123530882",
+    "imdb": "tt27050277",
+    "tmdb": 1148713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

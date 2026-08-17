@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prinsessa_pikkiriikki_2024",
+  "title": "Prinsessa Pikkiriikki",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119156315",
+    "imdb": "tt26808813",
+    "tmdb": 1055867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-27",
+  "runtime_minutes": 74
+}

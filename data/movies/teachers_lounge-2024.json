@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teachers_lounge_2024",
+  "title": "The Teachers' Lounge",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116251270",
+    "imdb": "tt26612950",
+    "tmdb": 998022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_misty_the_erroll_garner_story_2024",
+  "title": "Misty - The Erroll Garner Story",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130266035",
+    "imdb": "tt32421579",
+    "tmdb": 1208294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-05",
+  "runtime_minutes": 100
+}

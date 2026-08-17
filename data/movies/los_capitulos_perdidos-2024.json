@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_capitulos_perdidos_2024",
+  "title": "Los capítulos perdidos",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130743464",
+    "imdb": "tt32551664",
+    "tmdb": 1275090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lumen_2024",
+  "title": "Lumen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127705306",
+    "imdb": "tt32609571",
+    "tmdb": 1305735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-18",
+  "runtime_minutes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_indian_kapil_show",
+  "title": "The Great Indian Kapil Show",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125207918",
+    "imdb": "tt30003786",
+    "tmdb": 247769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 13
+}

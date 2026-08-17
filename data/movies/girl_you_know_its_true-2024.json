@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_you_know_its_true_2024",
+  "title": "Girl You Know It's True",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113645430",
+    "imdb": "tt21927594",
+    "tmdb": 1067950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15",
+  "runtime_minutes": 124
+}

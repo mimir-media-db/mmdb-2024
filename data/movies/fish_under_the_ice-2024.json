@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_under_the_ice_2024",
+  "title": "Fish Under The Ice",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354126",
+    "imdb": "tt13276318",
+    "tmdb": 819205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23"
+}

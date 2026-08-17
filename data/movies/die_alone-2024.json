@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_alone_2024",
+  "title": "Die Alone",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125758673",
+    "imdb": "tt21097192",
+    "tmdb": 1141182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-21"
+}

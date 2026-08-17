@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verano_en_diciembre_2024",
+  "title": "Verano en diciembre",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130198891",
+    "imdb": "tt29804437",
+    "tmdb": 1360733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-19",
+  "runtime_minutes": 97
+}

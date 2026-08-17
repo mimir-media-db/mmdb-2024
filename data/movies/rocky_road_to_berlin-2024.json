@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_road_to_berlin_2024",
+  "title": "Rocky Road to Berlin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108828701",
+    "imdb": "tt13585362",
+    "tmdb": 851479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-13",
+  "runtime_minutes": 104
+}

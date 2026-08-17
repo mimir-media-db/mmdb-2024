@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colors_of_evil_red_2024",
+  "title": "Colors of Evil: Red",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125986080",
+    "imdb": "tt27578157",
+    "tmdb": 1115395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-29",
+  "runtime_minutes": 111
+}

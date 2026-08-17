@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raub_ihren_atem_2024",
+  "title": "Raub ihren Atem",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131370511",
+    "imdb": "tt31240036",
+    "tmdb": 1336672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 109
+}

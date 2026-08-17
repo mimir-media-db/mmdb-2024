@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_despues_2024",
+  "title": "Después",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131581596",
+    "imdb": "tt14862810",
+    "tmdb": 1279064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

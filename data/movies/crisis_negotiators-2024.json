@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crisis_negotiators_2024",
+  "title": "Crisis Negotiators",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330656",
+    "imdb": "tt32338725",
+    "tmdb": 1255065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-24"
+}

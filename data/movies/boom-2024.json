@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boom_2024",
+  "title": "Boom!",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135271153",
+    "imdb": "tt32097000",
+    "tmdb": 1163613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madu_2024",
+  "title": "Madu",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135114734",
+    "imdb": "tt14152882",
+    "tmdb": 1232929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-29",
+  "runtime_minutes": 100
+}

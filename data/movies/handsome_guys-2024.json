@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handsome_guys_2024",
+  "title": "Handsome Guys",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126199462",
+    "imdb": "tt32475217",
+    "tmdb": 736720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-26",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vaazha_2024",
+  "title": "Vaazha",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128153066",
+    "imdb": "tt29470244",
+    "tmdb": 1189518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 125
+}

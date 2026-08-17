@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_date_2024",
+  "title": "Date",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134430145"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-22"
+}

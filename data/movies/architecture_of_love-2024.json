@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_architecture_of_love_2024",
+  "title": "The Architecture of Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125782358",
+    "imdb": "tt29560417",
+    "tmdb": 1126459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-30",
+  "runtime_minutes": 130
+}

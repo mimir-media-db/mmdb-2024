@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_molieres_last_stage_2024",
+  "title": "Molière's Last Stage",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124260833",
+    "imdb": "tt26760837",
+    "tmdb": 1001143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-14"
+}

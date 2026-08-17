@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparrow_in_the_chimney_2024",
+  "title": "The Sparrow in the Chimney",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127327207",
+    "imdb": "tt32359054",
+    "tmdb": 1102390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 116
+}

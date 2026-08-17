@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_imperfect_us",
+  "title": "Imperfect Us",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125506014",
+    "imdb": "tt31137266",
+    "tmdb": 235081
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

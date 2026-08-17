@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chimp_crazy",
+  "title": "Chimp Crazy",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127618678",
+    "imdb": "tt32937646",
+    "tmdb": 259271
+  },
+  "last_updated": "2026-08-17"
+}

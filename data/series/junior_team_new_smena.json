@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_junior_team_new_smena",
+  "title": "The Junior Team. New smena",
+  "start_year": 2024,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124261393",
+    "imdb": "tt30870221",
+    "tmdb": 276105
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

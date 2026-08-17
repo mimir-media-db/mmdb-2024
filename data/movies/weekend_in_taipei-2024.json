@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_in_taipei_2024",
+  "title": "Weekend in Taipei",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128307093",
+    "imdb": "tt28142896",
+    "tmdb": 1167271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krazy_house_2024",
+  "title": "Krazy House",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116980505",
+    "imdb": "tt12276028",
+    "tmdb": 607338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-20",
+  "runtime_minutes": 88
+}

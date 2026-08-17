@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sonic_the_hedgehog_3_2024",
+  "title": "Sonic the Hedgehog 3",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115859490",
+    "imdb": "tt18259086",
+    "tmdb": 939243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-20",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sommartider_2024",
+  "title": "Sommartider",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123979603",
+    "imdb": "tt28298505",
+    "tmdb": 1149153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-17"
+}

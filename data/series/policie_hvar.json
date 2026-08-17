@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_policie_hvar",
+  "title": "Policie Hvar",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116998474",
+    "imdb": "tt30764881",
+    "tmdb": 244014
+  },
+  "last_updated": "2026-08-17"
+}

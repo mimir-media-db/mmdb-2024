@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_critical_zone_2024",
+  "title": "Critical Zone",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121436713",
+    "imdb": "tt27720531",
+    "tmdb": 1147359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07",
+  "runtime_minutes": 99
+}

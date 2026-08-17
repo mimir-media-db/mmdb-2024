@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfs_2024",
+  "title": "Wolfs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116470707",
+    "imdb": "tt14257582",
+    "tmdb": 877817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20",
+  "runtime_minutes": 108
+}

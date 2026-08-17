@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanami_2024",
+  "title": "Hanami",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130335733",
+    "imdb": "tt29344907",
+    "tmdb": 1315405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-14",
+  "runtime_minutes": 96
+}

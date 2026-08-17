@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balconettes_2024",
+  "title": "The Balconettes",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124663486",
+    "imdb": "tt27721737",
+    "tmdb": 1112466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-19",
+  "runtime_minutes": 103
+}

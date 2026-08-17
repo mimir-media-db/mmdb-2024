@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ya_i_felix_2024",
+  "title": "Ya i Felix",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573732",
+    "imdb": "tt12923836",
+    "tmdb": 977956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 92
+}

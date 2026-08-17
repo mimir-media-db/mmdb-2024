@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raju_gari_ammayi_naidu_gari_abbayi_2024",
+  "title": "Raju Gari Ammayi Naidu Gari Abbayi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125543964",
+    "imdb": "tt28306789",
+    "tmdb": 1454579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-09",
+  "runtime_minutes": 158
+}

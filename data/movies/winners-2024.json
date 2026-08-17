@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winners_2024",
+  "title": "Winners",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123936409",
+    "imdb": "tt28228462",
+    "tmdb": 1220549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-16"
+}

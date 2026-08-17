@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zwischen_uns_der_fluss_2024",
+  "title": "Zwischen uns der Fluss",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126484689",
+    "imdb": "tt29537229",
+    "tmdb": 1187092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 94
+}

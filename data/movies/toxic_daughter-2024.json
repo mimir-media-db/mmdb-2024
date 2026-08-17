@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toxic_daughter_2024",
+  "title": "Toxic Daughter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482891",
+    "imdb": "tt32622938",
+    "tmdb": 1205525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-05"
+}

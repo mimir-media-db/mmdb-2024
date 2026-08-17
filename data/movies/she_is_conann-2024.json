@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_is_conann_2024",
+  "title": "She Is Conann",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118070772",
+    "imdb": "tt16090596",
+    "tmdb": 724846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02",
+  "runtime_minutes": 105
+}

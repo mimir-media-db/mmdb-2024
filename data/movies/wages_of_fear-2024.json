@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wages_of_fear_2024",
+  "title": "The Wages of Fear",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117743095",
+    "imdb": "tt27487473",
+    "tmdb": 984324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 104
+}

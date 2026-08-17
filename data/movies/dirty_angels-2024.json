@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_angels_2024",
+  "title": "Dirty Angels",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116881172",
+    "imdb": "tt23872640",
+    "tmdb": 1043905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-26",
+  "runtime_minutes": 104
+}

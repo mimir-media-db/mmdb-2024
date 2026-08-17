@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rude_to_love_2024",
+  "title": "Rude to Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130403950",
+    "imdb": "tt32477724",
+    "tmdb": 1297016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-30",
+  "runtime_minutes": 105
+}

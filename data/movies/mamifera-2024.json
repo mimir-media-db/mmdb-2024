@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamifera_2024",
+  "title": "Mamifera",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124844832",
+    "imdb": "tt26699663",
+    "tmdb": 1229955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

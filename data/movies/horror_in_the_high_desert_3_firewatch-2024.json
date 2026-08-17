@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horror_in_the_high_desert_3_firewatch_2024",
+  "title": "Horror in the High Desert 3: Firewatch",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132202346",
+    "imdb": "tt27523300",
+    "tmdb": 1139036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 88
+}

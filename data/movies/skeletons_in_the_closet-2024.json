@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skeletons_in_the_closet_2024",
+  "title": "Skeletons in the Closet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112119012",
+    "imdb": "tt4923002",
+    "tmdb": 1150399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

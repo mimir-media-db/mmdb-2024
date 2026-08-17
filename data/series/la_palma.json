@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_palma",
+  "title": "La Palma",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131548174",
+    "imdb": "tt30317229",
+    "tmdb": 242977
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

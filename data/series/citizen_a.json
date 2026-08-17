@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_citizen_a",
+  "title": "Citizen A",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130397553",
+    "imdb": "tt4306822",
+    "tmdb": 275983
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

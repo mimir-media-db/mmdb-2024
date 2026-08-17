@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_guy_montgomerys_guy_montspelling_bee",
+  "title": "Guy Montgomery's Guy Mont-Spelling Bee",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128218325",
+    "imdb": "tt33075578",
+    "tmdb": 259361
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2unbreakable_2024",
+  "title": "2unbreakable",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126479104",
+    "imdb": "tt32421640",
+    "tmdb": 1248087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03",
+  "runtime_minutes": 93
+}

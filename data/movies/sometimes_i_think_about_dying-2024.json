@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sometimes_i_think_about_dying_2024",
+  "title": "Sometimes I Think About Dying",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116675851",
+    "imdb": "tt16431966",
+    "tmdb": 891933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-10",
+  "runtime_minutes": 91
+}

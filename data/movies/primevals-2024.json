@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_primevals_2024",
+  "title": "The Primevals",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120753197",
+    "imdb": "tt9352178",
+    "tmdb": 632995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-11",
+  "runtime_minutes": 90
+}

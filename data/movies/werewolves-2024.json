@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_werewolves_2024",
+  "title": "Werewolves",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127601395",
+    "imdb": "tt15041836",
+    "tmdb": 970450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-06",
+  "runtime_minutes": 94
+}

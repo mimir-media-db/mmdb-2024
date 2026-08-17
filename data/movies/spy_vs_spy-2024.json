@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_vs_spy_2024",
+  "title": "Spy vs. Spy",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131243924",
+    "imdb": "tt30192600",
+    "tmdb": 1239481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 107
+}

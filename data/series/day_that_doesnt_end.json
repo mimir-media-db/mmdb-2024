@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_day_that_doesnt_end",
+  "title": "The Day that Doesn’t End",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130369624",
+    "imdb": "tt36514805"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

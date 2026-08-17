@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_high_country",
+  "title": "High Country",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125017409",
+    "imdb": "tt27458866",
+    "tmdb": 239909
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_how_much_is_youth_worth",
+  "title": "How Much Is Youth Worth?",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130601782"
+  },
+  "last_updated": "2026-08-17"
+}

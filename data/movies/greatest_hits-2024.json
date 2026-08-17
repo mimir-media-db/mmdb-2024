@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greatest_hits_2024",
+  "title": "The Greatest Hits",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117272587",
+    "imdb": "tt2015349",
+    "tmdb": 1011082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 94
+}

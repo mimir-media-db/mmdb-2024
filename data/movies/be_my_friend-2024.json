@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_be_my_friend_2024",
+  "title": "Be My Friend",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126942881",
+    "imdb": "tt31970009",
+    "tmdb": 1267574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-08"
+}

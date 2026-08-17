@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aavesham_2024",
+  "title": "Aavesham",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125372922",
+    "imdb": "tt26660021",
+    "tmdb": 1084812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hands_in_the_fire_2024",
+  "title": "Hands in the Fire",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124356037",
+    "imdb": "tt31018048",
+    "tmdb": 1234619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-15"
+}

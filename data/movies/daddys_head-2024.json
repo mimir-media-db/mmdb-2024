@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daddys_head_2024",
+  "title": "Daddy's Head",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130550536",
+    "imdb": "tt26682012",
+    "tmdb": 1089123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 92
+}

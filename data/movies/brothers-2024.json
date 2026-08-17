@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_2024",
+  "title": "Brothers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108266237",
+    "imdb": "tt9860566",
+    "tmdb": 616446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-10"
+}

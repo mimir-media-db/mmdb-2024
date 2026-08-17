@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_got_talent_fantasy_league",
+  "title": "America's Got Talent: Fantasy League",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123523481",
+    "imdb": "tt29259648",
+    "tmdb": 236275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 1
+}

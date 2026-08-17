@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_owakare_hospital",
+  "title": "Owakare Hospital",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140483064",
+    "tmdb": 238195
+  },
+  "last_updated": "2026-08-17"
+}

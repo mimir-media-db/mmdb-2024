@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pilot_2024",
+  "title": "Pilot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354224",
+    "imdb": "tt32175399",
+    "tmdb": 965094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-31"
+}

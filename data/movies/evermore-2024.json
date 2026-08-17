@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evermore_2024",
+  "title": "Evermore",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135966815",
+    "imdb": "tt30056296",
+    "tmdb": 1258262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

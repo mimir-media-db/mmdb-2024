@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_city_greens_the_movie_spacecation_2024",
+  "title": "Big City Greens the Movie: Spacecation",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125750419",
+    "imdb": "tt22752312",
+    "tmdb": 929563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-06"
+}

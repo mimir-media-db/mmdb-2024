@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_bachchan_2024",
+  "title": "Mr. Bachchan",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127789927",
+    "imdb": "tt28282872",
+    "tmdb": 1232219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15",
+  "runtime_minutes": 150
+}

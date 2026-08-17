@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nefarious_2024",
+  "title": "Nefarious",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131830602",
+    "imdb": "tt0451272",
+    "tmdb": 278251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-28",
+  "runtime_minutes": 85
+}

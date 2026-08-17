@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sere_breve_al_momento_de_morir_2024",
+  "title": "Seré breve al momento de morir",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126285003",
+    "imdb": "tt7709174",
+    "tmdb": 675082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 78
+}

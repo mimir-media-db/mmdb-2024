@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_of_a_kind_2024",
+  "title": "Citizen of a Kind",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115778970",
+    "imdb": "tt30364726",
+    "tmdb": 696047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24",
+  "runtime_minutes": 114
+}

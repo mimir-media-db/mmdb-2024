@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liebe_und_zorn_2024",
+  "title": "Liebe und Zorn",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135750373",
+    "imdb": "tt33582650",
+    "tmdb": 1428863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 94
+}

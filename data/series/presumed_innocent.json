@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_presumed_innocent",
+  "title": "Presumed Innocent",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116736420",
+    "imdb": "tt17677860",
+    "tmdb": 156933
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

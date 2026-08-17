@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dard_2024",
+  "title": "Dard",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123193268",
+    "imdb": "tt29674465",
+    "tmdb": 1150425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-15"
+}

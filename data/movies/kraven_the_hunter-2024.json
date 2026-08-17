@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kraven_the_hunter_2024",
+  "title": "Kraven the Hunter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107390449",
+    "imdb": "tt8790086",
+    "tmdb": 539972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-12",
+  "runtime_minutes": 127
+}

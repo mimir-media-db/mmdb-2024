@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legally_veer_2024",
+  "title": "Legally Veer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137588553",
+    "imdb": "tt34896026",
+    "tmdb": 1445070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_of_parvin_2024",
+  "title": "The Miracle of Parvin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124299894",
+    "imdb": "tt30837285",
+    "tmdb": 1425757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01"
+}

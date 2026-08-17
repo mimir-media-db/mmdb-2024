@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agua_sala_2024",
+  "title": "Agua Salá",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125471240",
+    "imdb": "tt27158782",
+    "tmdb": 1258406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 83
+}

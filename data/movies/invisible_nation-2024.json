@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_nation_2024",
+  "title": "Invisible Nation",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125758684",
+    "imdb": "tt28853268",
+    "tmdb": 901024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-31",
+  "runtime_minutes": 85
+}

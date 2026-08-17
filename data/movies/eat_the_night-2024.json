@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eat_the_night_2024",
+  "title": "Eat the Night",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125831683",
+    "imdb": "tt32128915",
+    "tmdb": 1250007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_universal_theory_2024",
+  "title": "The Universal Theory",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120326801",
+    "imdb": "tt18453866",
+    "tmdb": 932801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-14",
+  "runtime_minutes": 118
+}

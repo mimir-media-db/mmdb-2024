@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_a_forest_2024",
+  "title": "Once Upon a Time in a Forest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126368299",
+    "imdb": "tt30526827",
+    "tmdb": 1209004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-28"
+}

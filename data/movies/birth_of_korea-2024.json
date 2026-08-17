@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_korea_2024",
+  "title": "The Birth of Korea",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125910979",
+    "imdb": "tt31180963",
+    "tmdb": 1235800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

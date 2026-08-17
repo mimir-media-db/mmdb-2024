@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lana_longbeard",
+  "title": "Lana Longbeard",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134269738",
+    "imdb": "tt29078926",
+    "tmdb": 236364
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

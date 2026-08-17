@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_my_window_looking_at_you_2024",
+  "title": "Through My Window: Looking at You",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123457721",
+    "imdb": "tt28105944",
+    "tmdb": 1139566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_trail_2024",
+  "title": "Ghost Trail",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125937019",
+    "imdb": "tt30135174",
+    "tmdb": 1001292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 105
+}

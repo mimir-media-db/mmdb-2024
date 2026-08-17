@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_im_so_focused_2024",
+  "title": "I'm So Focused",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842322",
+    "tmdb": 1241186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26"
+}

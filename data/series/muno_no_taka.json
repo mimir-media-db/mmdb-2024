@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_muno_no_taka",
+  "title": "Munō no Taka",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130333810",
+    "imdb": "tt33837332",
+    "tmdb": 270654
+  },
+  "last_updated": "2026-08-17"
+}

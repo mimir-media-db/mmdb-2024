@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_clouds_hide_the_shadow_2024",
+  "title": "When Clouds Hide the Shadow",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134125265",
+    "imdb": "tt33396193",
+    "tmdb": 1268743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 71
+}

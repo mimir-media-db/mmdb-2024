@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_not_everything_i_want_to_be_2024",
+  "title": "I’m not Everything I Want to Be",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123976167",
+    "imdb": "tt28090065",
+    "tmdb": 883126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-18",
+  "runtime_minutes": 90
+}

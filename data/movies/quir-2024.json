@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quir_2024",
+  "title": "Quir",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136885236",
+    "imdb": "tt33111867",
+    "tmdb": 1297093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 105
+}

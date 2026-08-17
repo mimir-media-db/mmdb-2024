@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dashing_youth",
+  "title": "Dashing Youth",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q128601749",
+    "imdb": "tt27932245",
+    "tmdb": 258280
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

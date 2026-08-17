@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bequeathed",
+  "title": "The Bequeathed",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123944011",
+    "imdb": "tt28225048",
+    "tmdb": 212553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

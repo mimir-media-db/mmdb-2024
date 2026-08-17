@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blow_down_2024",
+  "title": "Blow Down",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132733870",
+    "imdb": "tt33725048",
+    "tmdb": 1425013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-21",
+  "runtime_minutes": 8
+}

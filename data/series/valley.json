@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_valley",
+  "title": "The Valley",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125398700",
+    "imdb": "tt30972594",
+    "tmdb": 247758
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paw_patrol_the_mighty_movie_2024",
+  "title": "PAW Patrol: The Mighty Movie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111918018",
+    "imdb": "tt15837338",
+    "tmdb": 893723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-30",
+  "runtime_minutes": 88
+}

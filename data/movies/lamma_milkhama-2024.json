@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamma_milkhama_2024",
+  "title": "Lamma Milkhama",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137320304",
+    "imdb": "tt33029928",
+    "tmdb": 1320396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

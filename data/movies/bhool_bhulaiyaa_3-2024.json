@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhool_bhulaiyaa_3_2024",
+  "title": "Bhool Bhulaiyaa 3",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126954881",
+    "imdb": "tt26932223",
+    "tmdb": 980599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-01",
+  "runtime_minutes": 158
+}

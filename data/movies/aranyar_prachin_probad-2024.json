@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aranyar_prachin_probad_2024",
+  "title": "Aranyar Prachin Probad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127271260",
+    "imdb": "tt32809738",
+    "tmdb": 1157332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05"
+}

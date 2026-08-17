@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faders_up_the_john_aielli_experience_2024",
+  "title": "Faders Up: The John Aielli Experience",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124853401",
+    "imdb": "tt30835342",
+    "tmdb": 1234408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10"
+}

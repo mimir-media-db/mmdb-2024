@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_saltwater",
+  "title": "Hotel Saltwater",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124570392",
+    "imdb": "tt31024720",
+    "tmdb": 240642
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

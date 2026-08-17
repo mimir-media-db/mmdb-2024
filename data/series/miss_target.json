@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_target",
+  "title": "Miss Target",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126032400",
+    "imdb": "tt32169410",
+    "tmdb": 249847
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whale_2024",
+  "title": "A Whale",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131265144",
+    "imdb": "tt15466518",
+    "tmdb": 1266675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-10",
+  "runtime_minutes": 108
+}

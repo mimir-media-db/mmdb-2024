@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_and_suzanne_a_reunion_in_4_parts_2024",
+  "title": "Ben and Suzanne, A Reunion in 4 Parts",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124843188",
+    "imdb": "tt28668437",
+    "tmdb": 1223814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-11",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kubera_2024",
+  "title": "Kubera",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131226667",
+    "imdb": "tt23846482",
+    "tmdb": 1171101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-31"
+}

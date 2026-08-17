@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_of_the_bride_2024",
+  "title": "Mother of the Bride",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124395546",
+    "imdb": "tt26926267",
+    "tmdb": 1093231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-09",
+  "runtime_minutes": 90
+}

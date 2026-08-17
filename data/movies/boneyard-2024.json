@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boneyard_2024",
+  "title": "Boneyard",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124250975",
+    "imdb": "tt10993078",
+    "tmdb": 1114738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-05"
+}

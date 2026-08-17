@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_reconsidered_2024",
+  "title": "Love... Reconsidered",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128620967",
+    "imdb": "tt15432316",
+    "tmdb": 1128907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-22",
+  "runtime_minutes": 88
+}

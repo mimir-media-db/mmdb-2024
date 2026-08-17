@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_huaro_2024",
+  "title": "El huaro",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129730167",
+    "imdb": "tt34621733",
+    "tmdb": 1320970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 85
+}

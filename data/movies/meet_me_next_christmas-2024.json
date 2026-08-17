@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_me_next_christmas_2024",
+  "title": "Meet Me Next Christmas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125661977",
+    "imdb": "tt20502488",
+    "tmdb": 1104171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-06"
+}

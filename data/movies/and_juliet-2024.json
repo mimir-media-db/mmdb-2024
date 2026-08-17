@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_and_juliet_2024",
+  "title": "...and Juliet",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573756",
+    "imdb": "tt12683334",
+    "tmdb": 1346517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brocade_odyssey",
+  "title": "Brocade Odyssey",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132125283",
+    "imdb": "tt31129954",
+    "tmdb": 258463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

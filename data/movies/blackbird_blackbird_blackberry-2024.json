@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blackbird_blackbird_blackberry_2024",
+  "title": "Blackbird Blackbird Blackberry",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123463765",
+    "imdb": "tt27737950",
+    "tmdb": 1114866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-07"
+}

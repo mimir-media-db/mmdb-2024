@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_fools_2024",
+  "title": "The Valley of Fools",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124633058",
+    "imdb": "tt29331425",
+    "tmdb": 1130413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-13"
+}

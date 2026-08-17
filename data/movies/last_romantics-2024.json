@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_romantics_2024",
+  "title": "The Last Romantics",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124544726",
+    "imdb": "tt15469016",
+    "tmdb": 1247538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-23"
+}

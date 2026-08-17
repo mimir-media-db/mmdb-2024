@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_on_children_2024",
+  "title": "The War on Children",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124608295",
+    "imdb": "tt31037537",
+    "tmdb": 1323336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 141
+}

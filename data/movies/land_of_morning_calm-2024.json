@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_morning_calm_2024",
+  "title": "The Land of Morning Calm",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133728894",
+    "imdb": "tt33832438",
+    "tmdb": 1339592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-27"
+}

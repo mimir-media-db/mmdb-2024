@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malam_pencabut_nyawa_2024",
+  "title": "Malam Pencabut Nyawa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127499572",
+    "imdb": "tt30489977",
+    "tmdb": 1239506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-22",
+  "runtime_minutes": 112
+}

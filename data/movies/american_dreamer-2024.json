@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_dreamer_2024",
+  "title": "American Dreamer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106010101",
+    "imdb": "tt13884444",
+    "tmdb": 931461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marias_silence_2024",
+  "title": "Maria's silence",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124339151",
+    "imdb": "tt30308333",
+    "tmdb": 1085450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 100
+}

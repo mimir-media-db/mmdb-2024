@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godzilla_minus_one_2024",
+  "title": "Godzilla Minus One",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115053037",
+    "imdb": "tt23289160",
+    "tmdb": 940721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-17",
+  "runtime_minutes": 125
+}

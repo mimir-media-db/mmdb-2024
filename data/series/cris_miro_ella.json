@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cris_miro_ella",
+  "title": "Cris Miró (Ella)",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126279157",
+    "imdb": "tt32495809",
+    "tmdb": 1308642
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

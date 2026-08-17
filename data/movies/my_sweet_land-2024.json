@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sweet_land_2024",
+  "title": "My Sweet Land",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130717290",
+    "imdb": "tt32259705",
+    "tmdb": 1290100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-13",
+  "runtime_minutes": 85
+}

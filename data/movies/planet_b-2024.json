@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_b_2024",
+  "title": "Planet B",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123449601",
+    "imdb": "tt28636876",
+    "tmdb": 1064758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-29",
+  "runtime_minutes": 118
+}

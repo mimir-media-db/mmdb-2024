@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaabh_2024",
+  "title": "Gaabh",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130223289",
+    "imdb": "tt32436039",
+    "tmdb": 1309560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21"
+}

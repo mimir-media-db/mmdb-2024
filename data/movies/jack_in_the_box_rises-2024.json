@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_in_the_box_rises_2024",
+  "title": "The Jack in the Box Rises",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130239277",
+    "imdb": "tt26628641",
+    "tmdb": 1207898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 92
+}

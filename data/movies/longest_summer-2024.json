@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_longest_summer_2024",
+  "title": "The Longest Summer",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126047633",
+    "imdb": "tt21265744",
+    "tmdb": 1058480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 79
+}

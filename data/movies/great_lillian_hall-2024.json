@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_lillian_hall_2024",
+  "title": "The Great Lillian Hall",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125935870",
+    "imdb": "tt14260566",
+    "tmdb": 800513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-31"
+}

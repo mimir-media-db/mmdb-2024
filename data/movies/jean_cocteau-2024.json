@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jean_cocteau_2024",
+  "title": "Jean Cocteau",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140265408",
+    "imdb": "tt33303731",
+    "tmdb": 1340572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-01",
+  "runtime_minutes": 94
+}

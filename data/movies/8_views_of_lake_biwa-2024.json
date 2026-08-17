@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8_views_of_lake_biwa_2024",
+  "title": "8 Views of Lake Biwa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125599520",
+    "imdb": "tt19731008",
+    "tmdb": 1040368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 125
+}

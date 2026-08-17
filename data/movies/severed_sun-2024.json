@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_severed_sun_2024",
+  "title": "The Severed Sun",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124038931",
+    "imdb": "tt14357812",
+    "tmdb": 1231010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-22"
+}

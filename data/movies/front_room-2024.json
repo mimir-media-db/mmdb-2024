@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_front_room_2024",
+  "title": "The Front Room",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117350302",
+    "imdb": "tt21905744",
+    "tmdb": 1016848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 94
+}

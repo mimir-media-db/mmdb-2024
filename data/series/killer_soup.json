@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_killer_soup",
+  "title": "Killer Soup",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124036984",
+    "imdb": "tt22297290",
+    "tmdb": 238419
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vracht_2024",
+  "title": "Vracht",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134486995",
+    "imdb": "tt33546832",
+    "tmdb": 1301370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

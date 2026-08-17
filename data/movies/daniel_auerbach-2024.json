@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daniel_auerbach_2024",
+  "title": "Daniel Auerbach",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125243026",
+    "imdb": "tt28331032",
+    "tmdb": 1069172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 105
+}

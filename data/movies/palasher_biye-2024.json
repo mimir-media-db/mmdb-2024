@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palasher_biye_2024",
+  "title": "Palasher Biye",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124467039",
+    "imdb": "tt31371999",
+    "tmdb": 953098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

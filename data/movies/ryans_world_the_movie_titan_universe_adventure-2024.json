@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ryans_world_the_movie_titan_universe_adventure_2024",
+  "title": "Ryan's World the Movie: Titan Universe Adventure",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126970574",
+    "imdb": "tt29898251",
+    "tmdb": 1209058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-16",
+  "runtime_minutes": 83
+}

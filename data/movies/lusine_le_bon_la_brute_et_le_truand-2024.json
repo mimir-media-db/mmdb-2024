@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lusine_le_bon_la_brute_et_le_truand_2024",
+  "title": "L'Usine, le Bon, la Brute et le Truand",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124079955",
+    "imdb": "tt30647588",
+    "tmdb": 1222645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oti_uttam_2024",
+  "title": "Oti Uttam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108660853",
+    "imdb": "tt31250966",
+    "tmdb": 913247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-22"
+}

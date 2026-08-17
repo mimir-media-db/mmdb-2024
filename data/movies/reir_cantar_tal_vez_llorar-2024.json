@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reir_cantar_tal_vez_llorar_2024",
+  "title": "Reír, cantar, tal vez llorar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140193834",
+    "imdb": "tt31918472",
+    "tmdb": 1257687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 75
+}

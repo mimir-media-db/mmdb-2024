@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_candies_2024",
+  "title": "Magic Candies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131723379",
+    "imdb": "tt31888603",
+    "tmdb": 1249728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-01",
+  "runtime_minutes": 21
+}

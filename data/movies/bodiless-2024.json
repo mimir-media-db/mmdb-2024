@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bodiless_2024",
+  "title": "Bodiless",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124665020",
+    "imdb": "tt15674874",
+    "tmdb": 1239257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-01"
+}

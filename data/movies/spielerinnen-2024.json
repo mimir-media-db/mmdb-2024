@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spielerinnen_2024",
+  "title": "Spielerinnen",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134350879",
+    "imdb": "tt36464628",
+    "tmdb": 1380057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-29",
+  "runtime_minutes": 89
+}

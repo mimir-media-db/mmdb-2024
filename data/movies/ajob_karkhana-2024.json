@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajob_karkhana_2024",
+  "title": "Ajob Karkhana",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127399479",
+    "imdb": "tt17081330",
+    "tmdb": 910391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-12"
+}

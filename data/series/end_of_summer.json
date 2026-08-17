@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_end_of_summer",
+  "title": "End of Summer",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116460231",
+    "imdb": "tt21191810",
+    "tmdb": 237347
+  },
+  "last_updated": "2026-08-17"
+}

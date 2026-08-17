@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backspot_2024",
+  "title": "Backspot",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117421907",
+    "imdb": "tt26739710",
+    "tmdb": 1093974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 93
+}

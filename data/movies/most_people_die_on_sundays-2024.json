@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_people_die_on_sundays_2024",
+  "title": "Most People Die on Sundays",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125831857",
+    "imdb": "tt25030744",
+    "tmdb": 943414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 73
+}

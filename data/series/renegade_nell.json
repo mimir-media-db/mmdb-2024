@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_renegade_nell",
+  "title": "Renegade Nell",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q116798186",
+    "imdb": "tt14502758",
+    "tmdb": 157569
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

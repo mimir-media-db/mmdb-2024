@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trap_2024",
+  "title": "Trap",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124540363",
+    "imdb": "tt26755008",
+    "tmdb": 1374665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09"
+}

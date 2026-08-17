@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prodigal_daughter_2024",
+  "title": "Prodigal Daughter",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130288513",
+    "imdb": "tt25389786",
+    "tmdb": 1354224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

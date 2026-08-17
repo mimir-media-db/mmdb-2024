@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remarkable_life_of_ibelin_2024",
+  "title": "The Remarkable Life of Ibelin",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124321737",
+    "imdb": "tt19811010",
+    "tmdb": 1167027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08",
+  "runtime_minutes": 106
+}

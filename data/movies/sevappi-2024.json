@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sevappi_2024",
+  "title": "Sevappi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130344607",
+    "imdb": "tt30828158",
+    "tmdb": 1225458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12"
+}

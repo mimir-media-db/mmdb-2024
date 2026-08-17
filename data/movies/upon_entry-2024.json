@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upon_entry_2024",
+  "title": "Upon Entry",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114703286",
+    "imdb": "tt22964884",
+    "tmdb": 1051547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-01",
+  "runtime_minutes": 74
+}

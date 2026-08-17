@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_not_alone_2024",
+  "title": "You Are Not Alone",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127510241",
+    "imdb": "tt7264528",
+    "tmdb": 1200277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-05",
+  "runtime_minutes": 105
+}

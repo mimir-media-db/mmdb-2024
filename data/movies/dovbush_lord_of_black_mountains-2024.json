@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dovbush_lord_of_black_mountains_2024",
+  "title": "Dovbush: Lord of Black Mountains",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108330260",
+    "imdb": "tt21833376",
+    "tmdb": 815029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-23",
+  "runtime_minutes": 124
+}

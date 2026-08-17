@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inedia_2024",
+  "title": "Inedia",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130300514",
+    "imdb": "tt8971448",
+    "tmdb": 1221074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-27",
+  "runtime_minutes": 96
+}

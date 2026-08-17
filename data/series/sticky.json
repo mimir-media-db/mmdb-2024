@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sticky",
+  "title": "The Sticky",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131360348",
+    "imdb": "tt19636984",
+    "tmdb": 197543
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

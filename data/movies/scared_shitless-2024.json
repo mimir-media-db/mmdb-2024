@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scared_shitless_2024",
+  "title": "Scared Shitless",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130460257",
+    "imdb": "tt32573118",
+    "tmdb": 1300963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-21",
+  "runtime_minutes": 76
+}

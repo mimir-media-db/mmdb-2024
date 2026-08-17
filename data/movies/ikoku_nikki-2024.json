@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ikoku_nikki_2024",
+  "title": "Ikoku Nikki",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119170891",
+    "imdb": "tt27957454",
+    "tmdb": 1163269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

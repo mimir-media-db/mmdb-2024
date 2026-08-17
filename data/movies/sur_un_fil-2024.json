@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_un_fil_2024",
+  "title": "Sur un fil",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130080033",
+    "imdb": "tt27811106",
+    "tmdb": 1001473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-30",
+  "runtime_minutes": 116
+}

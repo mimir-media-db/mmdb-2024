@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_basta_aren",
+  "title": "De bästa åren",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137908706",
+    "imdb": "tt33294281",
+    "tmdb": 272637
+  },
+  "last_updated": "2026-08-17"
+}

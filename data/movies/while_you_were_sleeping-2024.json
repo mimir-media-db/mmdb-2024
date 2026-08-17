@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_while_you_were_sleeping_2024",
+  "title": "While You Were Sleeping",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598182",
+    "imdb": "tt26730336",
+    "tmdb": 861047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-20"
+}

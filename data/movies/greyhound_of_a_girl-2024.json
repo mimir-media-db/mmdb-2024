@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greyhound_of_a_girl_2024",
+  "title": "A Greyhound of a Girl",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116971313",
+    "imdb": "tt17526454",
+    "tmdb": 588564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-25",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bonheur_est_pour_demain_2024",
+  "title": "Le bonheur est pour demain",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124334029",
+    "imdb": "tt11744802",
+    "tmdb": 944368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-31",
+  "runtime_minutes": 97
+}

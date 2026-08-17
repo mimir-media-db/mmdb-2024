@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_editorial_office_2024",
+  "title": "The Editorial Office",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124445613",
+    "imdb": "tt20425652",
+    "tmdb": 1052547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 126
+}

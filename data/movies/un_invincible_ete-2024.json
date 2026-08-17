@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_invincible_ete_2024",
+  "title": "Un invincible été",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124308164",
+    "imdb": "tt30968660",
+    "tmdb": 1233353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 19
+}

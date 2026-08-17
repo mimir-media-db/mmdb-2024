@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jurnal_risa_by_risa_saraswati_2024",
+  "title": "Jurnal Risa by Risa Saraswati",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127513494",
+    "imdb": "tt28448409",
+    "tmdb": 1141132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-11",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_scene_berlin_nightlife_killer",
+  "title": "Crime Scene Berlin: Nightlife Killer",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125569539",
+    "imdb": "tt31592633",
+    "tmdb": 248470
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

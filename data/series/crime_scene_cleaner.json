@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_scene_cleaner",
+  "title": "Crime Scene Cleaner",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130465795",
+    "imdb": "tt33508681",
+    "tmdb": 246659
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

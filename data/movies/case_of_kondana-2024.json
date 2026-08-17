@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_case_of_kondana_2024",
+  "title": "Case of Kondana",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124467041",
+    "imdb": "tt30429449",
+    "tmdb": 1230162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26"
+}

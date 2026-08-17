@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neshoma_2024",
+  "title": "Neshoma",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131882759",
+    "imdb": "tt34587035",
+    "tmdb": 1374401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apatiya_2024",
+  "title": "Apatiya",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125525975",
+    "imdb": "tt30971472",
+    "tmdb": 1233037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 80
+}

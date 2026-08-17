@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_a_mixed_identity_2024",
+  "title": "In Search of a Mixed Identity",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125422904",
+    "imdb": "tt31502586",
+    "tmdb": 1236428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-15",
+  "runtime_minutes": 93
+}

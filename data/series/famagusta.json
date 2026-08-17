@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_famagusta",
+  "title": "Famagusta",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q120786691",
+    "imdb": "tt28136595",
+    "tmdb": 242840
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_her_place_2024",
+  "title": "In Her Place",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129497832",
+    "imdb": "tt31796256",
+    "tmdb": 1247458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-01",
+  "runtime_minutes": 89
+}

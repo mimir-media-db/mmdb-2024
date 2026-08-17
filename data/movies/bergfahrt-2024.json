@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bergfahrt_2024",
+  "title": "Bergfahrt",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129571644",
+    "imdb": "tt31399245",
+    "tmdb": 1216603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-17",
+  "runtime_minutes": 97
+}

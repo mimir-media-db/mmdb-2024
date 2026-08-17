@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_city_driver_2024",
+  "title": "Silent City Driver",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134287862",
+    "imdb": "tt35890709",
+    "tmdb": 1374685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 138
+}

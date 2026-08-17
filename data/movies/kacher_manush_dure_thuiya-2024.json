@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kacher_manush_dure_thuiya_2024",
+  "title": "Kacher Manush Dure Thuiya",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124696929",
+    "imdb": "tt31368823",
+    "tmdb": 1240463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-22",
+  "runtime_minutes": 144
+}

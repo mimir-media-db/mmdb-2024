@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cobweb_2024",
+  "title": "Cobweb",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104876047",
+    "imdb": "tt9100018",
+    "tmdb": 709631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02",
+  "runtime_minutes": 88
+}

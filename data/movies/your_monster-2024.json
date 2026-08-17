@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_monster_2024",
+  "title": "Your Monster",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119053378",
+    "imdb": "tt22741760",
+    "tmdb": 1098378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 98
+}

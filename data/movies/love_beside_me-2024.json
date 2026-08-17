@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_beside_me_2024",
+  "title": "Love Beside Me",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136400720",
+    "imdb": "tt32332866",
+    "tmdb": 1283068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-05"
+}

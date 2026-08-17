@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_woman_2024",
+  "title": "The Sleeping Woman",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116909519",
+    "imdb": "tt22506854",
+    "tmdb": 1235926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-09",
+  "runtime_minutes": 110
+}

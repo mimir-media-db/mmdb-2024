@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desert_road_2024",
+  "title": "Desert Road",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124845098",
+    "imdb": "tt29474638",
+    "tmdb": 1242260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-10",
+  "runtime_minutes": 90
+}
