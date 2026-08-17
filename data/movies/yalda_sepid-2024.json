@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yalda_sepid_2024",
+  "title": "Yalda Sepid",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137599660",
+    "imdb": "tt39817091"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

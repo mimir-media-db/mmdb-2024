@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_no_soy_esa_2024",
+  "title": "Yo no soy esa",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125127226",
+    "imdb": "tt27672967",
+    "tmdb": 1235913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

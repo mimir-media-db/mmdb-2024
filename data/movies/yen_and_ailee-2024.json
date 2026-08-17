@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yen_and_ailee_2024",
+  "title": "Yen and Ai-Lee",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532672",
+    "imdb": "tt33290581",
+    "tmdb": 1084740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-10",
+  "runtime_minutes": 107
+}

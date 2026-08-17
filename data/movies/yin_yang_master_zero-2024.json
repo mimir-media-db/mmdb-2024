@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yin_yang_master_zero_2024",
+  "title": "The Yin Yang Master Zero",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125463565",
+    "imdb": "tt31235903",
+    "tmdb": 1201210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-19"
+}
