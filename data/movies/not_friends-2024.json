@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_friends_2024",
+  "title": "Not Friends",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123014463",
+    "imdb": "tt28937890",
+    "tmdb": 1093215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24",
+  "runtime_minutes": 130
+}

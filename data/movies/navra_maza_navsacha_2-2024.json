@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_navra_maza_navsacha_2_2024",
+  "title": "Navra Maza Navsacha 2",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129167047",
+    "imdb": "tt31313704",
+    "tmdb": 1323828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-20"
+}

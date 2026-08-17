@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natatorium_2024",
+  "title": "Natatorium",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124343368",
+    "imdb": "tt24177962",
+    "tmdb": 965292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-28",
+  "runtime_minutes": 105
+}

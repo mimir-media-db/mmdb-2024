@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_dogs_allowed_2024",
+  "title": "No Dogs Allowed",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131302264",
+    "imdb": "tt29288270",
+    "tmdb": 1338498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 106
+}

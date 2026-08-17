@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuclear_now_2024",
+  "title": "Nuclear Now",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116394284",
+    "imdb": "tt21376908",
+    "tmdb": 1004685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-24",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_time_to_spy_a_loud_house_movie_2024",
+  "title": "No Time to Spy: A Loud House Movie",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125627283",
+    "imdb": "tt32223312",
+    "tmdb": 1280768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-21",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_of_love_2024",
+  "title": "The Nature of Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117705871",
+    "imdb": "tt22487338",
+    "tmdb": 912520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04",
+  "runtime_minutes": 110
+}

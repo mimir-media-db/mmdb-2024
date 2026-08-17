@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_way_up_2024",
+  "title": "No Way Up",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124416533",
+    "imdb": "tt16253418",
+    "tmdb": 1096197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-18",
+  "runtime_minutes": 90
+}

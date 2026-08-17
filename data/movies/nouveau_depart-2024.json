@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nouveau_depart_2024",
+  "title": "Nouveau Départ",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122664295",
+    "imdb": "tt22397870",
+    "tmdb": 998642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-22",
+  "runtime_minutes": 96
+}

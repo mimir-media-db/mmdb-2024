@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nashville_wish_2024",
+  "title": "A Nashville Wish",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124708218",
+    "imdb": "tt7018422",
+    "tmdb": 978993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-02"
+}

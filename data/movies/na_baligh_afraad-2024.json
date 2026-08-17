@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_na_baligh_afraad_2024",
+  "title": "Na Baligh Afraad",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126373270",
+    "imdb": "tt32552818",
+    "tmdb": 1311029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-17"
+}

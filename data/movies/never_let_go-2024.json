@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_let_go_2024",
+  "title": "Never Let Go",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124619782",
+    "imdb": "tt14415204",
+    "tmdb": 814889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-20",
+  "runtime_minutes": 101
+}

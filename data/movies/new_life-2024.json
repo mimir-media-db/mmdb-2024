@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_life_2024",
+  "title": "New Life",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125693263",
+    "imdb": "tt18973958",
+    "tmdb": 1148027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03",
+  "runtime_minutes": 85
+}

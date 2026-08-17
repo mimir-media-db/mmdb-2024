@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nunakuzhi_2024",
+  "title": "Nunakuzhi",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128304703",
+    "imdb": "tt29274198",
+    "tmdb": 1180620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-15"
+}

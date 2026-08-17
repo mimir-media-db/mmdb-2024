@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nesher_film_2024",
+  "title": "Nesher (film)",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129910294",
+    "imdb": "tt32437738",
+    "tmdb": 1294265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

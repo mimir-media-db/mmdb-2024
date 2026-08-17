@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nutcrackers_2024",
+  "title": "Nutcrackers",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943308",
+    "imdb": "tt30144381",
+    "tmdb": 1203236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-05"
+}

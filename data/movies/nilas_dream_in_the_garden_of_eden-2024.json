@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nilas_dream_in_the_garden_of_eden_2024",
+  "title": "Nila's Dream in the Garden of Eden",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124968823",
+    "imdb": "tt32373241",
+    "tmdb": 1254320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-11",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadikar_2024",
+  "title": "Nadikar",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125053491",
+    "imdb": "tt15816336",
+    "tmdb": 893591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_project_2024",
+  "title": "The Nana Project",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115697972",
+    "imdb": "tt16526770",
+    "tmdb": 1173490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-10"
+}
