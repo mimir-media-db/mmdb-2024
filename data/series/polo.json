@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_polo",
+  "title": "Polo",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131583790",
+    "imdb": "tt34729811",
+    "tmdb": 270976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

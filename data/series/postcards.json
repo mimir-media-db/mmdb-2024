@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_postcards",
+  "title": "Postcards",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125958687",
+    "imdb": "tt31691316",
+    "tmdb": 252100
+  },
+  "last_updated": "2026-08-17"
+}

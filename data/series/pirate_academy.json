@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pirate_academy",
+  "title": "Pirate Academy",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133444050",
+    "imdb": "tt33985495",
+    "tmdb": 281989
+  },
+  "last_updated": "2026-08-17"
+}

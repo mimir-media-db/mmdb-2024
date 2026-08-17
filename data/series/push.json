@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_push",
+  "title": "Push",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130297680",
+    "imdb": "tt30975092",
+    "tmdb": 245628
+  },
+  "last_updated": "2026-08-17"
+}

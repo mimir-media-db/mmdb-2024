@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_lulin",
+  "title": "Planet Lulin",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133512927",
+    "imdb": "tt30175314",
+    "tmdb": 243286
+  },
+  "last_updated": "2026-08-17"
+}

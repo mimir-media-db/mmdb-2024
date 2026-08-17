@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pulang_araw",
+  "title": "Pulang Araw",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123699932",
+    "imdb": "tt31381986",
+    "tmdb": 242931
+  },
+  "last_updated": "2026-08-17"
+}
