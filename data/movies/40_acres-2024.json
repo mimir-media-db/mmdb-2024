@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_40_acres_2024",
+  "title": "40 Acres",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124080299",
+    "imdb": "tt29634843",
+    "tmdb": 1319951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}
