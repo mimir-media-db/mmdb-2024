@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_your_sky",
+  "title": "Your Sky",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130901498",
+    "imdb": "tt34194430",
+    "tmdb": 254483
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
