@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_days_in_mariupol_2024",
+  "title": "20 Days in Mariupol",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116542843",
+    "imdb": "tt24082438",
+    "tmdb": 1058616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-12",
+  "runtime_minutes": 97
+}
