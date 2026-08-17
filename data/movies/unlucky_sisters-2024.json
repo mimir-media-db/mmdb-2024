@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unlucky_sisters_2024",
+  "title": "(Un)lucky Sisters",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128658562",
+    "imdb": "tt33054529",
+    "tmdb": 1106052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 82
+}

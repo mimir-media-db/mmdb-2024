@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_famiglia_sottosopra_2024",
+  "title": "Una famiglia sottosopra",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131702666",
+    "imdb": "tt34621452",
+    "tmdb": 1288599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_mundo_para_mi_2024",
+  "title": "Un mundo para mí",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136654476",
+    "imdb": "tt26519955",
+    "tmdb": 1322617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

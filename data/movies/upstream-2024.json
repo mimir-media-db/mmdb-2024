@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upstream_2024",
+  "title": "Upstream",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126942941",
+    "imdb": "tt32121131",
+    "tmdb": 1274925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-09",
+  "runtime_minutes": 121
+}

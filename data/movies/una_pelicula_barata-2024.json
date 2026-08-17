@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_pelicula_barata_2024",
+  "title": "Una película barata",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129677859",
+    "imdb": "tt25436884",
+    "tmdb": 1284948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 63
+}

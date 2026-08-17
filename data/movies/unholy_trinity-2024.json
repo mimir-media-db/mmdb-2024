@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unholy_trinity_2024",
+  "title": "The Unholy Trinity",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123185886",
+    "imdb": "tt6300910",
+    "tmdb": 1195518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-12"
+}

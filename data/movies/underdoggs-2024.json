@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_underdoggs_2024",
+  "title": "The Underdoggs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123144587",
+    "imdb": "tt21434318",
+    "tmdb": 1007826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-26",
+  "runtime_minutes": 96
+}

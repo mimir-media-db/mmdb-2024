@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unlikely_pilgrimage_of_harold_fry_2024",
+  "title": "The Unlikely Pilgrimage of Harold Fry",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116771236",
+    "imdb": "tt14097206",
+    "tmdb": 844409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-04",
+  "runtime_minutes": 108
+}

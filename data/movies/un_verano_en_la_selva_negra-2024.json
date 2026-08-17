@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_verano_en_la_selva_negra_2024",
+  "title": "Un verano en la Selva Negra",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135933740",
+    "imdb": "tt31041065",
+    "tmdb": 1141506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 88
+}

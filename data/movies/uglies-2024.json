@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uglies_2024",
+  "title": "Uglies",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111945633",
+    "imdb": "tt13186604",
+    "tmdb": 748167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-13",
+  "runtime_minutes": 100
+}

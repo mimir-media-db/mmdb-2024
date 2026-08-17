@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_universal_language_2024",
+  "title": "Universal Language",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125503721",
+    "imdb": "tt31691389",
+    "tmdb": 988397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-18",
+  "runtime_minutes": 89
+}
