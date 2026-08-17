@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zinema_2024",
+  "title": "Zinema",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573904",
+    "imdb": "tt33039144",
+    "tmdb": 1321534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-16",
+  "runtime_minutes": 82
+}

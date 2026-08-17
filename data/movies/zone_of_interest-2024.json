@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zone_of_interest_2024",
+  "title": "The Zone of Interest",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115993222",
+    "imdb": "tt7160372",
+    "tmdb": 467244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-11",
+  "runtime_minutes": 105
+}
