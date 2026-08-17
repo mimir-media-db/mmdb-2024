@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_tattas_de_serie",
+  "title": "De Tatta's: De Serie",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140184255",
+    "imdb": "tt34625441",
+    "tmdb": 277417
+  },
+  "last_updated": "2026-08-17"
+}

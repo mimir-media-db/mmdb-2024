@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_de_pudding_club",
+  "title": "De Pudding Club",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125740174",
+    "imdb": "tt11572882",
+    "tmdb": 253565
+  },
+  "last_updated": "2026-08-17"
+}

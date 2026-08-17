@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_climax",
+  "title": "Doctor Climax",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125621373",
+    "imdb": "tt31158582",
+    "tmdb": 251309
+  },
+  "last_updated": "2026-08-17"
+}

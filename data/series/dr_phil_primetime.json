@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_phil_primetime",
+  "title": "Dr. Phil Primetime",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130288439",
+    "imdb": "tt31105896",
+    "tmdb": 243219
+  },
+  "last_updated": "2026-08-17"
+}
