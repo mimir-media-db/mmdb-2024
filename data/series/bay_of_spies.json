@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bay_of_spies",
+  "title": "The Bay of Spies",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123832527",
+    "imdb": "tt28212201",
+    "tmdb": 239318
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

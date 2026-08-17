@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_betrayals",
+  "title": "Betrayals",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q109298124",
+    "imdb": "tt30872765",
+    "tmdb": 242692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blockbusters",
+  "title": "The Blockbusters",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134567992",
+    "imdb": "tt34409896",
+    "tmdb": 275975
+  },
+  "last_updated": "2026-08-17"
+}

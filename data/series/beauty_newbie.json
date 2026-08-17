@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_newbie",
+  "title": "Beauty Newbie",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115483122",
+    "imdb": "tt23874762",
+    "tmdb": 232671
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

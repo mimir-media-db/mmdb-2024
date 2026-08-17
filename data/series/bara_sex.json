@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bara_sex",
+  "title": "Bara sex",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124098809",
+    "imdb": "tt31189997",
+    "tmdb": 281352
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

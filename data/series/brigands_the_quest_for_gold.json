@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brigands_the_quest_for_gold",
+  "title": "Brigands: The Quest for Gold",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123024852",
+    "imdb": "tt15441086",
+    "tmdb": 235779
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

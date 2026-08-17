@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brewing_love",
+  "title": "Brewing Love",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130219380",
+    "imdb": "tt33607282",
+    "tmdb": 253029
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

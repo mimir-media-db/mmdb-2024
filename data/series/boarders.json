@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boarders",
+  "title": "Boarders",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123757667",
+    "imdb": "tt21438656",
+    "tmdb": 242189
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
