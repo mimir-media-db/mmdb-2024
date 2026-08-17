@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_no_activity_italy",
+  "title": "No Activity: Italy",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124314522",
+    "imdb": "tt26912927",
+    "tmdb": 242932
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

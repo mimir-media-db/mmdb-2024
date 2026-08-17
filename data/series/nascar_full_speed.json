@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nascar_full_speed",
+  "title": "NASCAR: Full Speed",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124619288",
+    "imdb": "tt28712944",
+    "tmdb": 243348
+  },
+  "last_updated": "2026-08-17"
+}
