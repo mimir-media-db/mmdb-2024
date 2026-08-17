@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_a_violent_nature_2024",
+  "title": "In a Violent Nature",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124353841",
+    "imdb": "tt30321146",
+    "tmdb": 1214509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-22",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_contract_2024",
+  "title": "The Invisible Contract",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136395763",
+    "imdb": "tt34871895",
+    "tmdb": 1280678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-21",
+  "runtime_minutes": 85
+}

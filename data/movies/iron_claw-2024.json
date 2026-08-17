@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_claw_2024",
+  "title": "The Iron Claw",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114901506",
+    "imdb": "tt21064584",
+    "tmdb": 850165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24",
+  "runtime_minutes": 132
+}

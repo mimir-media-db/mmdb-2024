@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_impossibility_2024",
+  "title": "The Impossibility",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130739700",
+    "imdb": "tt34869902",
+    "tmdb": 1378593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-30",
+  "runtime_minutes": 146
+}

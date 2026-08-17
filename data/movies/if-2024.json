@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_2024",
+  "title": "IF",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111918059",
+    "imdb": "tt11152168",
+    "tmdb": 639720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-15",
+  "runtime_minutes": 104
+}

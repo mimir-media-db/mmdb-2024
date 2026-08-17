@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ici_brazza_2024",
+  "title": "Ici Brazza",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125453618",
+    "imdb": "tt27159517",
+    "tmdb": 1000638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-24"
+}

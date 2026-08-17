@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_land_der_wolfe_2024",
+  "title": "Im Land der Wölfe",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125484641",
+    "imdb": "tt30225392",
+    "tmdb": 1209613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-05-02",
+  "runtime_minutes": 106
+}

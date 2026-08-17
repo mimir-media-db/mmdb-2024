@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_it_were_love_2024",
+  "title": "If It Were Love",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86835251",
+    "imdb": "tt11018424",
+    "tmdb": 649285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-21",
+  "runtime_minutes": 82
+}

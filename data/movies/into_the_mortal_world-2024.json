@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_mortal_world_2024",
+  "title": "Into the Mortal World",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134303951",
+    "imdb": "tt32591517",
+    "tmdb": 1303336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-07-12"
+}

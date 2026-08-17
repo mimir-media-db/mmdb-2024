@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inheritance_of_flora_2024",
+  "title": "The Inheritance of Flora",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123358057",
+    "imdb": "tt32591354",
+    "tmdb": 1230641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 133
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_ny_a_pas_dombre_dans_le_desert_2024",
+  "title": "Il n'y a pas d'ombre dans le désert",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124613908",
+    "imdb": "tt31490993",
+    "tmdb": 978100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-28",
+  "runtime_minutes": 101
+}

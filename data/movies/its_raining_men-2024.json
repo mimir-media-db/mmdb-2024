@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_raining_men_2024",
+  "title": "It’s Raining Men",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123960384",
+    "imdb": "tt22533910",
+    "tmdb": 1001079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-03",
+  "runtime_minutes": 98
+}

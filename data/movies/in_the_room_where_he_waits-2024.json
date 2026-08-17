@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_room_where_he_waits_2024",
+  "title": "In the Room Where He Waits",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126810955",
+    "imdb": "tt23862956",
+    "tmdb": 1056030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 83
+}

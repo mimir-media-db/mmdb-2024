@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_im_focused_and_bored_2024",
+  "title": "I'm Focused and Bored",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842314",
+    "tmdb": 1254604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-02-23"
+}

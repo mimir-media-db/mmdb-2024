@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_complottista_2024",
+  "title": "Il complottista",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133835116",
+    "imdb": "tt27690259",
+    "tmdb": 1373553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

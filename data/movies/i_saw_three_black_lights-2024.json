@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_saw_three_black_lights_2024",
+  "title": "I Saw Three Black Lights",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123975318",
+    "imdb": "tt30441039",
+    "tmdb": 1018964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}

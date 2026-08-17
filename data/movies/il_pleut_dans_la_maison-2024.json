@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_pleut_dans_la_maison_2024",
+  "title": "Il pleut dans la maison",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117787907",
+    "imdb": "tt21992864",
+    "tmdb": 995743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-03",
+  "runtime_minutes": 82
+}

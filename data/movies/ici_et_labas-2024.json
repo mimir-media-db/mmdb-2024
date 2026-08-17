@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ici_et_labas_2024",
+  "title": "Ici et là-bas",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124957978",
+    "imdb": "tt27722530",
+    "tmdb": 1114751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-19",
+  "runtime_minutes": 92
+}

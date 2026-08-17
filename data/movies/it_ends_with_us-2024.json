@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_ends_with_us_2024",
+  "title": "It Ends With Us",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118641054",
+    "imdb": "tt10655524",
+    "tmdb": 1079091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-08-07",
+  "runtime_minutes": 130
+}

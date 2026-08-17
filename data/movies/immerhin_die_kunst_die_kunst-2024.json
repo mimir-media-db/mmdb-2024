@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immerhin_die_kunst_die_kunst_2024",
+  "title": "Immerhin: Die Kunst, die Kunst",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123861923",
+    "imdb": "tt15107844",
+    "tmdb": 1218340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 90
+}
