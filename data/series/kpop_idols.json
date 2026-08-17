@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kpop_idols",
+  "title": "K-Pop Idols",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129900400",
+    "imdb": "tt33046324",
+    "tmdb": 259811
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_khunsa",
+  "title": "Khunsa",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124789159",
+    "tmdb": 249110
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knight_flower",
+  "title": "Knight Flower",
+  "start_year": 2024,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117431043",
+    "imdb": "tt30012439",
+    "tmdb": 220836
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

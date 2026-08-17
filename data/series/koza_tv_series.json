@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_koza_tv_series",
+  "title": "Koža (TV series)",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131786475",
+    "imdb": "tt30599948",
+    "tmdb": 244168
+  },
+  "last_updated": "2026-08-17"
+}
