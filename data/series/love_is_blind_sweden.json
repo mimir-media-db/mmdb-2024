@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_blind_sweden",
+  "title": "Love Is Blind: Sweden",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123694289",
+    "imdb": "tt23735438",
+    "tmdb": 241140
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

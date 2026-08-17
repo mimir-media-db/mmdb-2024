@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_in_the_lake",
+  "title": "Lady in the Lake",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q111940205",
+    "imdb": "tt14022668",
+    "tmdb": 120549
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

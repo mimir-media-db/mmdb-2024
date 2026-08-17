@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_las_donas_del_cafetal",
+  "title": "Las doñas del Cafetal",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126111181"
+  },
+  "last_updated": "2026-08-17"
+}

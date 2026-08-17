@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_loyal_pin",
+  "title": "The Loyal Pin",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q128803738",
+    "imdb": "tt31790849",
+    "tmdb": 238754
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

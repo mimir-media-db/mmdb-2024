@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_maquina",
+  "title": "La Máquina",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130418791",
+    "imdb": "tt21382958",
+    "tmdb": 206925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

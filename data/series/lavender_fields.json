@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lavender_fields",
+  "title": "Lavender Fields",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q126946378",
+    "imdb": "tt32537273",
+    "tmdb": 256121
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 100
+}
