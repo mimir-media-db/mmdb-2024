@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_goat",
+  "title": "The GOAT",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125822781",
+    "imdb": "tt27651027",
+    "tmdb": 250316
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gaddar",
+  "title": "Gaddar",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124325780",
+    "imdb": "tt30461250",
+    "tmdb": 240798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

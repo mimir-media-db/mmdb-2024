@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_games_80",
+  "title": "Games 80",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130292869",
+    "imdb": "tt29191990",
+    "tmdb": 250580
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

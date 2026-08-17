@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gg_precinct",
+  "title": "GG Precinct",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124488327",
+    "imdb": "tt31158593",
+    "tmdb": 245265
+  },
+  "last_updated": "2026-08-17"
+}
