@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_valley_of_hearts",
+  "title": "Valley of Hearts",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130307445",
+    "imdb": "tt32880925",
+    "tmdb": 271014
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}
