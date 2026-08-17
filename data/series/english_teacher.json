@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_english_teacher",
+  "title": "English Teacher",
+  "start_year": 2024,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q128924796",
+    "imdb": "tt20782190",
+    "tmdb": 258902
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

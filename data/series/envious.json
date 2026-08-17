@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_envious",
+  "title": "Envious",
+  "start_year": 2024,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q129172749",
+    "imdb": "tt29494111",
+    "tmdb": 261615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 43
+}

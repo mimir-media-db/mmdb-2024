@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_elsbeth",
+  "title": "Elsbeth",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123527699",
+    "imdb": "tt26591110",
+    "tmdb": 226285
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

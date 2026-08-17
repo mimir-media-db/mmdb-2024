@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_en_residence",
+  "title": "En résidence",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131384678",
+    "imdb": "tt33323537"
+  },
+  "last_updated": "2026-08-17"
+}

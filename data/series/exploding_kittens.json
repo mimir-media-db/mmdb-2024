@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_exploding_kittens",
+  "title": "Exploding Kittens",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126488864",
+    "imdb": "tt19734104",
+    "tmdb": 219532
+  },
+  "last_updated": "2026-08-17"
+}
