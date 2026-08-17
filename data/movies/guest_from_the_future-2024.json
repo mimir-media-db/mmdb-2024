@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guest_from_the_future_2024",
+  "title": "Guest from the Future",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115254112",
+    "imdb": "tt23789874",
+    "tmdb": 732698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-04-18",
+  "runtime_minutes": 142
+}

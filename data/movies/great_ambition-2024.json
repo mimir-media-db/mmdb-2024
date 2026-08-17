@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_ambition_2024",
+  "title": "The Great Ambition",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127608448",
+    "imdb": "tt30691223",
+    "tmdb": 1193421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-16",
+  "runtime_minutes": 123
+}

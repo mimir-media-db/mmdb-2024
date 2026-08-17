@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gesuidouz_2024",
+  "title": "The Gesuidouz",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131729734",
+    "imdb": "tt33040472",
+    "tmdb": 1321769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-09-06",
+  "runtime_minutes": 93
+}

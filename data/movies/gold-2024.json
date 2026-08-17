@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_2024",
+  "title": "Gold",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127164321",
+    "imdb": "tt27446834",
+    "tmdb": 1148760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

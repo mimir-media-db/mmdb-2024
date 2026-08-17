@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godzilla_x_kong_the_new_empire_2024",
+  "title": "Godzilla x Kong: The New Empire",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113360912",
+    "imdb": "tt14539740",
+    "tmdb": 823464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-27",
+  "runtime_minutes": 115
+}

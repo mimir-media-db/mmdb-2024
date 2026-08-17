@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geister_2024",
+  "title": "Geister",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123862135",
+    "imdb": "tt21983658",
+    "tmdb": 1218694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01",
+  "runtime_minutes": 81
+}

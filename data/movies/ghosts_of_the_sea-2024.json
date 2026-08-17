@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosts_of_the_sea_2024",
+  "title": "Ghosts of the Sea",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131033154",
+    "imdb": "tt35698739",
+    "tmdb": 1361175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-10-14",
+  "runtime_minutes": 97
+}

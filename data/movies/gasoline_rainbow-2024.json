@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gasoline_rainbow_2024",
+  "title": "Gasoline Rainbow",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121767975",
+    "imdb": "tt28494031",
+    "tmdb": 1156110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-08"
+}

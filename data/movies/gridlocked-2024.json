@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gridlocked_2024",
+  "title": "Gridlocked",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133824178",
+    "imdb": "tt12464300",
+    "tmdb": 1012183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

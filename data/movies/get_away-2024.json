@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_get_away_2024",
+  "title": "Get Away",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123365061",
+    "imdb": "tt10449276",
+    "tmdb": 1201753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-12-06"
+}

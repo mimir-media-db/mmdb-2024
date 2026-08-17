@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golam_2024",
+  "title": "Golam",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126617497",
+    "imdb": "tt29272469",
+    "tmdb": 1222140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-06-07"
+}

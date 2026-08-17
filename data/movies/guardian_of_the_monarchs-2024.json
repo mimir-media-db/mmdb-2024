@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guardian_of_the_monarchs_2024",
+  "title": "The Guardian of the Monarchs",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125988728",
+    "imdb": "tt32133575",
+    "tmdb": 1272146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

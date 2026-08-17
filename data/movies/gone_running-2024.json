@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_running_2024",
+  "title": "Gone Running",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131367774",
+    "imdb": "tt14466284",
+    "tmdb": 1283819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-11-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_at_the_station_2024",
+  "title": "The Girls at the Station",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130369928",
+    "imdb": "tt28227349",
+    "tmdb": 1299040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-01-01"
+}

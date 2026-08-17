@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostbusters_frozen_empire_2024",
+  "title": "Ghostbusters: Frozen Empire",
+  "year": 2024,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113300586",
+    "imdb": "tt21235248",
+    "tmdb": 967847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2024-03-14",
+  "runtime_minutes": 115
+}
