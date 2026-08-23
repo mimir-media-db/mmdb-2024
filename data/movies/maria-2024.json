@@ -17,5 +17,11 @@
     "Drama",
     "Music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CL",
+    "DE",
+    "GB",
+    "IT"
+  ]
 }

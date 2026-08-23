@@ -12,5 +12,8 @@
   "last_updated": "2026-08-23",
   "release_date": "2024-06-28",
   "runtime_minutes": 118,
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
 }

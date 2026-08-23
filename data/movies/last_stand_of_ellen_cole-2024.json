@@ -16,5 +16,10 @@
     "Action",
     "Western"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FI",
+    "US"
+  ]
 }

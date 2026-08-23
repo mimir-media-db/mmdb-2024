@@ -16,5 +16,9 @@
     "Documentary",
     "Family"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN",
+    "US"
+  ]
 }

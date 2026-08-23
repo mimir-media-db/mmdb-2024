@@ -12,5 +12,8 @@
   "genres": [
     "short documentary film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
 }

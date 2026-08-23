@@ -17,5 +17,11 @@
     "Crime",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "IN",
+    "SG",
+    "US"
+  ]
 }

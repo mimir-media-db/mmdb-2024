@@ -17,5 +17,13 @@
     "History",
     "Romance"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN",
+    "DE",
+    "FR",
+    "IT",
+    "JP",
+    "PT"
+  ]
 }

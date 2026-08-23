@@ -11,5 +11,8 @@
   "genres": [
     "soap opera"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

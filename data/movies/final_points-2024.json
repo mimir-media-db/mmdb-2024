@@ -7,6 +7,9 @@
   "external_ids": {
     "wikidata": "Q130639288"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-10-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-10-24",
+  "countries": [
+    "LV"
+  ]
 }

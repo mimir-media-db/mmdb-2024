@@ -17,5 +17,15 @@
     "Adventure",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AE",
+    "CA",
+    "GM",
+    "HU",
+    "IT",
+    "JO",
+    "NZ",
+    "US"
+  ]
 }

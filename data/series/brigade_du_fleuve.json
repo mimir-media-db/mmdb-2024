@@ -8,5 +8,9 @@
     "wikidata": "Q125361044",
     "tmdb": 303568
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "countries": [
+    "BE",
+    "FR"
+  ]
 }

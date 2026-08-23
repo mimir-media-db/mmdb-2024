@@ -7,6 +7,9 @@
   "external_ids": {
     "wikidata": "Q125172613"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 1
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "countries": [
+    "IL"
+  ]
 }

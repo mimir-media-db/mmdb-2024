@@ -15,5 +15,11 @@
     "Documentary",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "PS",
+    "QA",
+    "SA",
+    "SE"
+  ]
 }
