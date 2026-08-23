@@ -9,7 +9,12 @@
     "imdb": "tt27789542",
     "tmdb": 209750
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 10
+  "total_episodes": 10,
+  "genres": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "is_adult": false
 }

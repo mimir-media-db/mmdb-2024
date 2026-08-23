@@ -9,7 +9,13 @@
     "imdb": "tt28212201",
     "tmdb": 239318
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 9
+  "total_episodes": 9,
+  "genres": [
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "is_adult": false
 }

@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q126485631"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 28
+  "total_episodes": 28,
+  "genres": [
+    "reality television",
+    "music television"
+  ],
+  "is_adult": false
 }

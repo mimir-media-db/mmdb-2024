@@ -9,6 +9,10 @@
     "imdb": "tt33348133",
     "tmdb": 240692
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 12
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "LGBT-related television series"
+  ],
+  "is_adult": false
 }

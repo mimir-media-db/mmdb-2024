@@ -9,5 +9,9 @@
     "imdb": "tt36375686",
     "tmdb": 29135
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false
 }

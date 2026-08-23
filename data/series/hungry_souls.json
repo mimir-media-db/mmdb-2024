@@ -8,6 +8,11 @@
     "wikidata": "Q134457392",
     "tmdb": 201976
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 5
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

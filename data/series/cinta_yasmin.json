@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q128561830"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "television serial"
+  ],
+  "is_adult": false
 }

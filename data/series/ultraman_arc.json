@@ -7,5 +7,10 @@
   "external_ids": {
     "wikidata": "Q125341971"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "tokusatsu",
+    "drama television series"
+  ],
+  "is_adult": false
 }

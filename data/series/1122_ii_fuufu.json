@@ -9,6 +9,11 @@
     "imdb": "tt31039807",
     "tmdb": 251824
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 7
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

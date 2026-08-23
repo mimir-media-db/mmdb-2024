@@ -9,7 +9,12 @@
     "imdb": "tt34771304",
     "tmdb": 271606
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 4
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

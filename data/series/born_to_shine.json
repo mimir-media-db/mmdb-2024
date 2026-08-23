@@ -9,5 +9,10 @@
     "imdb": "tt30810293",
     "tmdb": 40353
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false
 }

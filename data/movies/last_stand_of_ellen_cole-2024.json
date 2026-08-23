@@ -9,7 +9,12 @@
     "imdb": "tt15682498",
     "tmdb": 1411773
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2024-10-18",
-  "runtime_minutes": 97
+  "runtime_minutes": 97,
+  "genres": [
+    "Action",
+    "Western"
+  ],
+  "is_adult": false
 }

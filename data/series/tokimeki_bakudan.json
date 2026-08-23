@@ -8,5 +8,10 @@
     "wikidata": "Q136747907",
     "tmdb": 278586
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "comedy",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

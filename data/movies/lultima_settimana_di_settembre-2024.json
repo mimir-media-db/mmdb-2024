@@ -8,7 +8,12 @@
     "wikidata": "Q130316248",
     "imdb": "tt3008844"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2024-01-01",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "Action",
+    "Sport"
+  ],
+  "is_adult": false
 }

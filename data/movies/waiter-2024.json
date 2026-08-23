@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q134077845"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-12-20"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-12-20",
+  "genres": [
+    "action comedy film"
+  ],
+  "is_adult": false
 }

@@ -7,6 +7,13 @@
   "external_ids": {
     "wikidata": "Q124713746"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 50
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "soap opera",
+    "melodrama",
+    "sorrow",
+    "romantic thriller"
+  ],
+  "is_adult": false
 }

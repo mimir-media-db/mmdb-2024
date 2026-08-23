@@ -8,5 +8,9 @@
     "wikidata": "Q124789159",
     "tmdb": 249110
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "melodrama"
+  ],
+  "is_adult": false
 }

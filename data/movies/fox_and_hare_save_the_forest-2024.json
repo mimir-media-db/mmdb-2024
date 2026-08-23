@@ -9,6 +9,12 @@
     "imdb": "tt23451240",
     "tmdb": 1061785
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-10-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-10-17",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Musical"
+  ],
+  "is_adult": false
 }
