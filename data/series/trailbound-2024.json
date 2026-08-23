@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_trailbound_2024",
+  "title": "Trailbound",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130332345",
+    "imdb": "tt33338449"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

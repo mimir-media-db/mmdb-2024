@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_to_my_haeri_2024",
+  "title": "To My Haeri",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q127273265",
+    "imdb": "tt33246716",
+    "tmdb": 246808
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

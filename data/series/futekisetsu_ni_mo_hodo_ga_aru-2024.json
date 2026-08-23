@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_futekisetsu_ni_mo_hodo_ga_aru_2024",
+  "title": "Futekisetsu ni mo Hodo ga Aru!",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123248879",
+    "imdb": "tt31924877",
+    "tmdb": 241795
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

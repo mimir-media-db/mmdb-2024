@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dario_gomez_el_rey_del_despecho_2024",
+  "title": "Darío Gómez: el rey del despecho",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131395637",
+    "imdb": "tt33833463",
+    "tmdb": 274326
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 95,
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_blind_uk_2024",
+  "title": "Love is Blind: UK",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125206121",
+    "imdb": "tt26675358",
+    "tmdb": 237316
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Game-Show",
+    "Reality-TV",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

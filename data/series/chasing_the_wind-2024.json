@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_the_wind_2024",
+  "title": "Chasing the Wind",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q134473815",
+    "imdb": "tt35089261",
+    "tmdb": 273128
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_angela_2024",
+  "title": "Ángela",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127271664",
+    "imdb": "tt28235948",
+    "tmdb": 231452
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

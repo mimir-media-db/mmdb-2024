@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bayer_leverkusen_a_dream_comes_true_2024",
+  "title": "Bayer Leverkusen - A Dream Comes True",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131585070",
+    "imdb": "tt34771304",
+    "tmdb": 271606
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

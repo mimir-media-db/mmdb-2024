@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ils_sont_parmi_nous_2023",
+  "title": "Ils sont parmi nous",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131421186",
+    "imdb": "tt34060676",
+    "tmdb": 277784
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

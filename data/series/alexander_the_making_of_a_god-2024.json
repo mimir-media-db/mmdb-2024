@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_alexander_the_making_of_a_god_2024",
+  "title": "Alexander: The Making of a God",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123895866",
+    "imdb": "tt27494999",
+    "tmdb": 242392
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

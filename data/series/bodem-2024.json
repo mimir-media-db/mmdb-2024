@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bodem_2024",
+  "title": "Bodem",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125314207",
+    "imdb": "tt22871794",
+    "tmdb": 246439
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

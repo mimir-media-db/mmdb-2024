@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ragouj_2024",
+  "title": "Ragouj",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q137899688",
+    "imdb": "tt31947416",
+    "tmdb": 248844
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TN"
+  ]
+}

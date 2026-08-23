@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_like_water_for_chocolate_2023",
+  "title": "Like Water for Chocolate",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130304163",
+    "imdb": "tt29258436",
+    "tmdb": 235635
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX",
+    "US"
+  ]
+}

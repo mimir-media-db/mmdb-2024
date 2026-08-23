@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_insomnia_2024",
+  "title": "Insomnia",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125946410",
+    "imdb": "tt27349153",
+    "tmdb": 242102
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

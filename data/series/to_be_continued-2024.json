@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_to_be_continued_2024",
+  "title": "To Be Continued",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125509392",
+    "imdb": "tt31188494",
+    "tmdb": 239711
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

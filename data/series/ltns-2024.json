@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ltns_2024",
+  "title": "LTNS",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122382160",
+    "imdb": "tt29667906",
+    "tmdb": 222767
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

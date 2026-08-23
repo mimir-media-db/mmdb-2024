@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hitler_and_the_nazis_evil_on_trial_2024",
+  "title": "Hitler and the Nazis: Evil on Trial",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131354353",
+    "imdb": "tt32331294",
+    "tmdb": 253990
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_and_mr_romantic_2024",
+  "title": "Beauty and Mr. Romantic",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124312197",
+    "imdb": "tt29846355",
+    "tmdb": 242503
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 50,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

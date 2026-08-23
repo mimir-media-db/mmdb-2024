@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_khor_2024",
+  "title": "Khor",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125501944",
+    "imdb": "tt27525881",
+    "tmdb": 239252
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Family",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

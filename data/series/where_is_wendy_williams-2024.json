@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_where_is_wendy_williams_2024",
+  "title": "Where Is Wendy Williams?",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124811448",
+    "imdb": "tt31140359",
+    "tmdb": 246159
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

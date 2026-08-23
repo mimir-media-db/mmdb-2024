@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_hysteria_2024",
+  "title": "Hysteria!",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129581624",
+    "imdb": "tt21493708",
+    "tmdb": 224361
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

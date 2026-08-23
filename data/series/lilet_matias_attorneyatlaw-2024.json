@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lilet_matias_attorneyatlaw_2024",
+  "title": "Lilet Matias: Attorney-at-Law",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123162234",
+    "imdb": "tt31242134",
+    "tmdb": 248009
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_antonia_2023",
+  "title": "Antonia",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123024943",
+    "imdb": "tt12356370",
+    "tmdb": 244589
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_mrs_smith_2024",
+  "title": "Mr. & Mrs. Smith",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116265663",
+    "imdb": "tt14044212",
+    "tmdb": 118642
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

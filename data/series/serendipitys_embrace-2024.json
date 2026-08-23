@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_serendipitys_embrace_2024",
+  "title": "Serendipity's Embrace",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115339099",
+    "imdb": "tt32914942",
+    "tmdb": 211065
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

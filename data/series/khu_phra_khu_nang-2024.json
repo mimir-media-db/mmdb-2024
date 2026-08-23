@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_khu_phra_khu_nang_2024",
+  "title": "Khu Phra Khu Nang",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q131412897",
+    "imdb": "tt26679986",
+    "tmdb": 247380
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

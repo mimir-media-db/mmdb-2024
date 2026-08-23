@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_see_you_in_another_life_2024",
+  "title": "See You in Another Life",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124436280",
+    "imdb": "tt31067371",
+    "tmdb": 244525
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

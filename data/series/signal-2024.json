@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_signal_2024",
+  "title": "The Signal",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q115658071",
+    "imdb": "tt25375256",
+    "tmdb": 241473
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

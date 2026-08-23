@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_barangay_singko_panalo_2024",
+  "title": "Barangay Singko Panalo",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q127617176",
+    "imdb": "tt31923450"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 75,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_nation_2024",
+  "title": "Crime Nation",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124638812",
+    "imdb": "tt29266252",
+    "tmdb": 235565
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

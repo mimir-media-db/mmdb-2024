@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_finders_keepers_2024",
+  "title": "Finders Keepers",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124607629",
+    "imdb": "tt27656056",
+    "tmdb": 243891
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

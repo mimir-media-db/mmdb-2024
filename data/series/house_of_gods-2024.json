@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_gods_2024",
+  "title": "House of Gods",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125701076",
+    "imdb": "tt29511082",
+    "tmdb": 246974
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

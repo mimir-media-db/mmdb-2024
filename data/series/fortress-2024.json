@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fortress_2024",
+  "title": "The Fortress",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116270191",
+    "imdb": "tt19899752",
+    "tmdb": 215577
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

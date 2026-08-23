@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_peaceful_property_2024",
+  "title": "Peaceful Property",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128819412",
+    "imdb": "tt29807971",
+    "tmdb": 237328
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

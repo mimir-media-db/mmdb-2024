@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_night_2024",
+  "title": "Summer Night",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127785333",
+    "imdb": "tt30098460",
+    "tmdb": 237335
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

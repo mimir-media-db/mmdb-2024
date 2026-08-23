@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_serials_2024",
+  "title": "The Serials",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131205749",
+    "imdb": "tt34705237"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

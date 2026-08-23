@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cra_2024",
+  "title": "Crá",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131459679",
+    "imdb": "tt33268051",
+    "tmdb": 276466
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}

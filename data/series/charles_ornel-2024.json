@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_charles_ornel_2024",
+  "title": "Charles Ornel",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126733668"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 52,
+  "genres": [
+    "Drama",
+    "Spy",
+    "Romantic Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CI"
+  ]
+}

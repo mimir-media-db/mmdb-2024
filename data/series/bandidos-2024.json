@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bandidos_2024",
+  "title": "Bandidos",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124518076",
+    "imdb": "tt11262142",
+    "tmdb": 241269
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

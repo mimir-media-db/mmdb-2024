@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_eye_love_you_2024",
+  "title": "Eye Love You",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123595878",
+    "imdb": "tt31647393",
+    "tmdb": 240581
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}
