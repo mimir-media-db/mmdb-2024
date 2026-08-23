@@ -14,5 +14,8 @@
     "romance television series",
     "fantasy television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
 }

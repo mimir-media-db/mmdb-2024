@@ -15,5 +15,8 @@
     "panel game",
     "comedy television program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

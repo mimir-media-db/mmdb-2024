@@ -17,5 +17,8 @@
     "Adult",
     "Crime"
   ],
-  "is_adult": true
+  "is_adult": true,
+  "countries": [
+    "US"
+  ]
 }

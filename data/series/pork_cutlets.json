@@ -9,7 +9,10 @@
     "imdb": "tt33015720",
     "tmdb": 258556
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 2
+  "total_episodes": 2,
+  "countries": [
+    "KR"
+  ]
 }

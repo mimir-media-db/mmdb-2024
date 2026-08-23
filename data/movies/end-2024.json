@@ -16,5 +16,13 @@
     "Fantasy",
     "Musical"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "DK",
+    "GB",
+    "IE",
+    "IT",
+    "SE"
+  ]
 }

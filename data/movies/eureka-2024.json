@@ -16,5 +16,12 @@
     "Drama",
     "Western"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "DE",
+    "FR",
+    "MX",
+    "PT"
+  ]
 }

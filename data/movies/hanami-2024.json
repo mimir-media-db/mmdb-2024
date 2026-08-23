@@ -16,5 +16,10 @@
     "Drama",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CH",
+    "CV",
+    "PT"
+  ]
 }

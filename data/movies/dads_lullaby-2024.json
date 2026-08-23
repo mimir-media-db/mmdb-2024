@@ -16,5 +16,10 @@
     "Documentary",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HR",
+    "RO",
+    "UA"
+  ]
 }

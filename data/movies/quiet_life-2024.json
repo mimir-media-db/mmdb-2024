@@ -15,5 +15,13 @@
   "genres": [
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "EE",
+    "FI",
+    "FR",
+    "GR",
+    "SE"
+  ]
 }

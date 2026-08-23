@@ -14,5 +14,8 @@
   "genres": [
     "drama television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
 }

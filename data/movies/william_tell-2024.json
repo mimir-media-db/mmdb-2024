@@ -17,5 +17,12 @@
     "Biography",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CH",
+    "DE",
+    "GB",
+    "IT",
+    "US"
+  ]
 }

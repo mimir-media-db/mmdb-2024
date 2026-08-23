@@ -17,5 +17,11 @@
     "Fantasy",
     "Music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CH",
+    "GB",
+    "US"
+  ]
 }
