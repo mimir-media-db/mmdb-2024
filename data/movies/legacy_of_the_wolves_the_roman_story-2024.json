@@ -8,6 +8,11 @@
     "wikidata": "Q131739445",
     "imdb": "tt35129775"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-12-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-12-28",
+  "genres": [
+    "History",
+    "Short"
+  ],
+  "is_adult": false
 }

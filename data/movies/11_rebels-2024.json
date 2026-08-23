@@ -9,6 +9,11 @@
     "imdb": "tt33367745",
     "tmdb": 1310682
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-10-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-10-28",
+  "genres": [
+    "Action",
+    "historical drama film"
+  ],
+  "is_adult": false
 }

@@ -7,5 +7,12 @@
   "external_ids": {
     "wikidata": "Q131411433"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "drama television series",
+    "comedy television series",
+    "romance television series"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt14260566",
     "tmdb": 800513
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-05-31"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-05-31",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "History"
+  ],
+  "is_adult": false
 }

@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q134734581"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 36
+  "total_episodes": 36,
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false
 }

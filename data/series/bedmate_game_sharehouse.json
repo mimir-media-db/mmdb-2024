@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q136190767"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 53
+  "last_updated": "2026-08-23",
+  "total_episodes": 53,
+  "genres": [
+    "Drama",
+    "Spy"
+  ],
+  "is_adult": false
 }

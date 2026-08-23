@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q136033735"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 2
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "late-night talk show"
+  ],
+  "is_adult": false
 }

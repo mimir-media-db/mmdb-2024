@@ -9,5 +9,10 @@
     "imdb": "tt28083023",
     "tmdb": 236652
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

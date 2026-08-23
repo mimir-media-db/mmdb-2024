@@ -9,6 +9,11 @@
     "imdb": "tt32063216",
     "tmdb": 1272285
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-05-09"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-05-09",
+  "genres": [
+    "Animation",
+    "Music"
+  ],
+  "is_adult": false
 }

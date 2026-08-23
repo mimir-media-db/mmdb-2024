@@ -7,6 +7,12 @@
   "external_ids": {
     "wikidata": "Q134503430"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 2
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "reality television",
+    "reality show",
+    "reality competition"
+  ],
+  "is_adult": false
 }

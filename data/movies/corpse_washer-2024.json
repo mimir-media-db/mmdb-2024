@@ -9,6 +9,12 @@
     "imdb": "tt30750109",
     "tmdb": 1223799
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-02-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-02-22",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false
 }

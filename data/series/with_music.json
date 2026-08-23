@@ -8,5 +8,9 @@
     "wikidata": "Q128864764",
     "tmdb": 250168
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false
 }

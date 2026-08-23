@@ -9,6 +9,11 @@
     "imdb": "tt32591517",
     "tmdb": 1303336
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2024-07-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2024-07-12",
+  "genres": [
+    "Animation",
+    "Fantasy"
+  ],
+  "is_adult": false
 }
