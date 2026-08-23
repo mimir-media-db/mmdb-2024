@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_sustituta_2024",
+  "title": "La sustituta",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126886423",
+    "imdb": "tt28353558",
+    "tmdb": 259738
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

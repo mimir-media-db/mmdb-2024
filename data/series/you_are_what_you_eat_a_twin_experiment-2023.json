@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_you_are_what_you_eat_a_twin_experiment_2023",
+  "title": "You Are What You Eat: A Twin Experiment",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124218202",
+    "imdb": "tt30386970",
+    "tmdb": 241849
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

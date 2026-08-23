@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_rose_2024",
+  "title": "The Tale of Rose",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121409091",
+    "imdb": "tt29930328",
+    "tmdb": 229202
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 38,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

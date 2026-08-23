@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_palm_royale_2024",
+  "title": "Palm Royale",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112262014",
+    "imdb": "tt8888540",
+    "tmdb": 157367
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

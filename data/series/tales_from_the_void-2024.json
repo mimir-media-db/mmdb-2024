@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_tales_from_the_void_2024",
+  "title": "Tales From the Void",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q130972952",
+    "imdb": "tt31530120",
+    "tmdb": 254008
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

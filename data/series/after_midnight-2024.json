@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_after_midnight_2024",
+  "title": "After Midnight",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123286436",
+    "imdb": "tt30787693",
+    "tmdb": 242965
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "panel game",
+    "comedy television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

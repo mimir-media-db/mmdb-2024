@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ungeren_2023",
+  "title": "Ungeren",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q130426184",
+    "imdb": "tt33621305",
+    "tmdb": 273414
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_distant_city_2024",
+  "title": "Distant City",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131195670",
+    "imdb": "tt34063491",
+    "tmdb": 274556
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 63,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

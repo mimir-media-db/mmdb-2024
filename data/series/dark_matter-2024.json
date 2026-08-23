@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_matter_2024",
+  "title": "Dark Matter",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114554430",
+    "imdb": "tt19231492",
+    "tmdb": 196322
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 19,
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

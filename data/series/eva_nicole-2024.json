@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_nicole_2024",
+  "title": "Eva & Nicole",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126282424",
+    "imdb": "tt29451321",
+    "tmdb": 240067
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

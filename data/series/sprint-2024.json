@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sprint_2024",
+  "title": "SPRINT",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126889951",
+    "imdb": "tt28669701",
+    "tmdb": 245251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

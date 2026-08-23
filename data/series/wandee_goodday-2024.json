@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wandee_goodday_2024",
+  "title": "Wandee Goodday",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125544675",
+    "imdb": "tt30015732",
+    "tmdb": 237337
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

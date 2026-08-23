@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_blondie_in_an_ancient_time_2024",
+  "title": "Blondie in an Ancient Time",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124422112",
+    "imdb": "tt30626065"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

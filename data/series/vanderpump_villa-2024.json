@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vanderpump_villa_2024",
+  "title": "Vanderpump Villa",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124691463",
+    "imdb": "tt27999118",
+    "tmdb": 245263
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 32,
+  "genres": [
+    "Drama",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

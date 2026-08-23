@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_furies_2024",
+  "title": "Furies",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124668902",
+    "imdb": "tt11384300",
+    "tmdb": 212588
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

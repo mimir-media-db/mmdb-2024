@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_los_otros_concha_2024",
+  "title": "Los otros Concha",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124834199",
+    "imdb": "tt31947327",
+    "tmdb": 250688
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

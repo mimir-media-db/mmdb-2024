@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_nikkei_news_next_2024",
+  "title": "NIKKEI NEWS NEXT",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126870060"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

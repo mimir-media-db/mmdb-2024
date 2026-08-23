@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_qros_2024",
+  "title": "Qrosの女",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131228037",
+    "imdb": "tt33699901",
+    "tmdb": 262448
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

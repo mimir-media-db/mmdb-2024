@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_yuzuki_familys_four_sons_2024",
+  "title": "The Yuzuki Family's Four Sons",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q135179935",
+    "imdb": "tt31703294",
+    "tmdb": 248435
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 32,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

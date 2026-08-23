@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_precio_de_amarte_2024",
+  "title": "El precio de amarte",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q127869110",
+    "imdb": "tt32872871",
+    "tmdb": 263267
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 50,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

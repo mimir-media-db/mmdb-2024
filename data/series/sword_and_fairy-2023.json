@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sword_and_fairy_2023",
+  "title": "Sword and Fairy",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124357283",
+    "imdb": "tt30949068",
+    "tmdb": 209916
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 36,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

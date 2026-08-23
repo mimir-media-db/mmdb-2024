@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_goodbye_maestro_father_and_my_appassionato_2024",
+  "title": "Goodbye Maestro Father and My Appassionato",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123245141",
+    "imdb": "tt31122245",
+    "tmdb": 241788
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

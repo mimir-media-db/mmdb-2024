@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bangkok_blossom_2024",
+  "title": "Bangkok Blossom",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q125957372",
+    "imdb": "tt31183869",
+    "tmdb": 253947
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

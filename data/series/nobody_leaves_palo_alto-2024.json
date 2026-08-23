@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nobody_leaves_palo_alto_2024",
+  "title": "Nobody Leaves Palo Alto",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q126599449",
+    "imdb": "tt31844556",
+    "tmdb": 256436
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

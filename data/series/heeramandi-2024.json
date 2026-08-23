@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_heeramandi_2024",
+  "title": "Heeramandi",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124416531",
+    "imdb": "tt15204292",
+    "tmdb": 156716
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

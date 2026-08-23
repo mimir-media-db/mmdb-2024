@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_helicopter_heist_2024",
+  "title": "The Helicopter Heist",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123859457",
+    "imdb": "tt20872980",
+    "tmdb": 244207
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_joe_schmo_show_with_cat_deeley_2023",
+  "title": "The Joe Schmo Show With Cat Deeley",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124071941",
+    "imdb": "tt27790322",
+    "tmdb": 242731
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

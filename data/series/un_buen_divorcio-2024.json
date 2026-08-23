@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_un_buen_divorcio_2024",
+  "title": "Un buen divorcio",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124739795",
+    "imdb": "tt29258527",
+    "tmdb": 247334
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

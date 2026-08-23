@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_geeks_2024",
+  "title": "ギークス/GEEKS",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126177557",
+    "tmdb": 256742
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

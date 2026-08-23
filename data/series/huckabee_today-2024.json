@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_huckabee_today_2024",
+  "title": "Huckabee Today",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126720241"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

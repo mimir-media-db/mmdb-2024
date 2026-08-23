@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_brigade_du_fleuve_2024",
+  "title": "Brigade du fleuve",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125361044",
+    "tmdb": 303568
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

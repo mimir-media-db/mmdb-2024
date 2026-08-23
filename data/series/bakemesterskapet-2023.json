@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bakemesterskapet_2023",
+  "title": "Bakemesterskapet",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124287638",
+    "imdb": "tt31037512",
+    "tmdb": 244009
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 16,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

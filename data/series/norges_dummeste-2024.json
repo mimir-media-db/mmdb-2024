@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_norges_dummeste_2024",
+  "title": "Norges dummeste",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133571842",
+    "imdb": "tt33165340",
+    "tmdb": 261203
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}
